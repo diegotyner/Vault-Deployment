@@ -1,0 +1,23 @@
+Pretend that I secretly develop an algorithm for this class that tells me which students are at risk of cheating, and I use it to subject some students to closer monitoring. I tell the algorithm what kinds of students have been caught cheating in the past, and use it to make predictions about students who haven't cheated yet but might. I limit the algorithm to make the prediction on the basis of available information: each student's major, GPA, and their parent's income. But my algorithm starts to disproportionately recommend left-handed students for monitoring at higher rates than right-handed students. This discrimination occurs despite the fact that handedness was not an input in my algorithm. 
+
+Why? Generate two hypotheses for why, two predictions relating to each hypothesis, and two datasets that make each prediction testable. Then relate the content of a peer's post to yours.
+
+If you're curious, or want ideas, there are lots of real world examples of algorithmic bias being exposed. The most well known examples are not about handedness, but race, particularly against African Americans in [criminal sentencingLinks to an external site.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) and in [auto insurance pricingLinks to an external site.](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-white-areas-same-risk) (though [many other examples existLinks to an external site.](https://www.propublica.org/series/machine-bias)).
+
+
+
+- Restate phenomenon
+- Generate competing hypotheses
+	- Prediction about effects in world
+	- Propose a dataset
+
+- Respond with how data might test or inform their prediction, or vice versa
+
+---
+
+- Victims of Variance
+- Intersections between handedness and some other factors that we are inputting (maybe lefties are more interested in social justice because they feel othered, and being in a major like Gender Studies can be processed by the algorithm). This isn't as likely in the left-handed situation we are covering, but one can imagine the interesection
+
+The phenomenon we are attempting to generate hypothesis for is the effect in our algorithm that it disproportionately recommends left-handed students for monitoring at higher rates than right-handed students. 
+One possible explanation for this could be that the effect is purely due to variance and a small sample set. Depending on how the algorithm was developed and the relative sizes of left-handed students/total class size, it is entirely plausible that being left handed has nothing to do with the algorithms predictions, and it is purely due to a statistical anomaly in our data. This hypothesis could be tested by exposing the algorithm to a greater sample size and doing statistical analysis (like a Chi-Square test). If the hypothesis that our results are a statistical anomaly, we would expect to see no significant effect with a bigger/different data set. However, if the trend we observed continued it would disprove the hypothesis. A dataset that could test this hypothesis is the data for a new class, or sampling students outside of the class for their major/GPA/parent's income/handedness and assessing how the algorithm performed on this new data. 
+Another explanation for this could be that the algorithm had discovered a relationship between the variables we are inputting and handedness, and been biased against lefties through its training. One hypothetical example of this happening could be a left-handed student that felt marginalized growing up because of lessons and tools designed for right handed people, and decided to enroll in a major centered around social advocacy. If the algorithm were able to infer handedness through a correlation like the above, and found that this intersection was associated with cheating (at least in the sample of training data), the algorithm would likely carry this algorithmic bias forward. This hypothesis could be tested by performing data analysis on a larger data-set, that looked into how the intersections between major, GPA, and parent's income are tied with handedness. If we notice that certain intersections between the variables are both predictive of left-handedness and cheating, we have evidence that this is the reason behind the algorithmic bias. If our data analysis points to no intersections between our three input variables and handedness, we have evidence towards our hypothesis being incorrect, as it is impossible to construct handedness out of the input variables we gave the algorithm.

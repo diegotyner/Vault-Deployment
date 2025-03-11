@@ -1,0 +1,543 @@
+{
+  "main": {
+    "id": "40540b368a19232e",
+    "type": "split",
+    "children": [
+      {
+        "id": "234df378b33681df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67928b55349099d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Alfalfa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alfalfa"
+            }
+          },
+          {
+            "id": "efc20dc273f8a71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "b8b613e1d0a76526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cf0bf753fcf2fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "94fc2b040299a039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2f6288dce7812a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e727548cf3db6be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ec86ccfd6c4388e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9ad6429270a539d0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attachments/ECS122A-HW5 2024-12-05 23.36.32.excalidraw.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0605c2af982f9899",
+    "type": "split",
+    "children": [
+      {
+        "id": "debf6286b791fa31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "292831fb338cbe3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College/Winter-Quarter-2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Winter-Quarter-2025"
+            }
+          },
+          {
+            "id": "ed9ee1e98d426db2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College/Classes/Fall-Quarter-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fall-Quarter-2024"
+            }
+          },
+          {
+            "id": "1d4a45a0151f5faa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9341e45ade68e0cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College/ECS154A-L19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ECS154A-L19"
+            }
+          },
+          {
+            "id": "def4befd4a16fd54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2e30addbbdad8528",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d3079337b1922654",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "65d82382a7814dc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a95e8989d580bc14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f079e8dfe7016d9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b0a601b60abb5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6795b8f8351b2831",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "721a27653c986706",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0b230729629a94b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f371188350fc03c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "67467a668f5d6c6b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0023791ba2b5d1e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "56918ac5273017bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS-124-Main.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ECS-124-Main"
+            }
+          },
+          {
+            "id": "338745c5ee2a966f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4d4b84230e9241cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0399c8c6862f6613",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "911a4fa826878c97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5642eae7d19a7b6a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3b476bcec68a9b46",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 23
+      },
+      {
+        "id": "b939abd0cfe13f0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b570667be810a15",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "College/ECS154A-L19.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.283355509507917,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of ECS154A-L19"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.8,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b8b613e1d0a76526",
+  "lastOpenFiles": [
+    "Attachments/Confused_Cat.jpg",
+    "College/Talks/College-Talks.md",
+    "index.md",
+    "College/_College.md",
+    "College/Classes/Office-Hours.md",
+    "Scratch/_Scratch.md",
+    "Scratch/Get-From-Home.md",
+    "Scratch/Obsidian-Themes.md",
+    "Scratch/Groceries.md",
+    "Scratch/CalFresh.md",
+    "Scratch/UPS-Call.md",
+    "Scratch/Shopping.md",
+    "Scratch/Class-Stack.md",
+    "_Today.md",
+    "Reading/_Goal-Kanban.md",
+    "Reading/Neuromatch.md",
+    "Journal/_Journal.md",
+    "Coding/ML-Study/Outlier-Detection.md",
+    "College/Classes/ECS132-HW2.md",
+    "College/Classes/ECS122A-PS1.md",
+    "College/Classes/PSC134-Lab2.md",
+    "College/Classes/PSC134-L5.md",
+    "College/Classes/PSC134-L3.md",
+    "Math/Latex-Reference.md",
+    "College/Classes/ECS154A-L2.md",
+    "College/Classes/ECS132-L15.md",
+    "Attachments/SSOD-Extra-Credit-Screenshot.png",
+    "Attachments/Neuro-Engineering-Controller-Approach.jpg",
+    "Attachments/Engineering-Approach-To-Controlling-Technical-System.jpg",
+    "Attachments/NeuroFest-Talk-1-Summary.jpg",
+    "Attachments/NeuroFest-Talk-3-Summary.jpg",
+    "Attachments/Non-Motor-Symptoms-in-Parkinsons-Disease.jpg",
+    "Attachments/aDBS-Trial-Timeline.jpg",
+    "Attachments/aDBS-Methods-Slide.jpg",
+    "Attachments/Cell-Villages-Simultaneous-Culturing.jpg",
+    "Attachments/Models-to-Study-Alzheimers-Disease.jpg",
+    "js/scripts/peaceful-break.js",
+    "js/scripts",
+    "js",
+    "College/Clubs",
+    "College/Talks",
+    "College/Classes",
+    "Work",
+    "College",
+    "Excalidraw",
+    "Reading/Reading/ERP-Handbook",
+    "Untitled.canvas"
+  ]
+}

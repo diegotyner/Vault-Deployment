@@ -1,18 +1,11 @@
-# Quartz v4
+# Obisidian Vault Deployment
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Until I get around to finishing my personal portfolio, I'll be mostly using this to show things off. 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+I started using Obsidian in Summer 2025, and have some fun notes since then! Feel free to take a look. 
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Credits
 
-## Sponsors
+This is website is created using [Quartz](https://quartz.jzhao.xyz/), developed by Jacky Zhao. Fantastic work!
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>

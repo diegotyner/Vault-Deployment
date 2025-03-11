@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "40540b368a19232e",
+    "type": "split",
+    "children": [
+      {
+        "id": "234df378b33681df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1723817f20679c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Clubs/Neurotech.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0645383b72b78c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS-122A-Main.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b63c7f3bbbce0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS122A-Midterm1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cf0bf753fcf2fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "94fc2b040299a039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2f6288dce7812a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e727548cf3db6be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ec86ccfd6c4388e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0605c2af982f9899",
+    "type": "split",
+    "children": [
+      {
+        "id": "debf6286b791fa31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "292831fb338cbe3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College/Classes/ECS-122A-Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed9ee1e98d426db2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College/Classes/ECS-122A-Main.md"
+              }
+            }
+          },
+          {
+            "id": "1d4a45a0151f5faa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9341e45ade68e0cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College/Classes/ECS-122A-Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a7b9db81f2ede67",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b939abd0cfe13f0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b570667be810a15",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "College/Classes/ECS-122A-Main.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.34951605517232176,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.8,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b0645383b72b78c8",
+  "lastOpenFiles": [
+    "Attachments/diagram-studio.png",
+    "Coding/Databases.md",
+    "College/Classes/ECS122A-Midterm1.md",
+    "College/Classes/ECS122A-PS2.md",
+    "College/Classes/ECS-122A-Main.md",
+    "College/Clubs/Neurotech.md",
+    "College/Clubs/Neurotech22-Lecture-5.md",
+    "College/Clubs/NT-Interest-Form.md",
+    "Coding/Portfolio.md",
+    "College/Classes/Fall-Quarter-2024.md",
+    "College/Clubs/Neurotech22-Lecture-4.md",
+    "College/Clubs/Neurotech22-Lecture-1.md",
+    "College/Clubs/Neurotech22-Lecture-2.md",
+    "College/Clubs/Neurotech22-Lecture-3.md",
+    "College/Classes/ECS50-L4.md",
+    "College/Classes/CCN_Book_Ch3.md",
+    "College/Classes/PSC134-Textbook.md",
+    "College/Classes/ECS50-L8.md",
+    "College/Classes/College-Backlog.md",
+    "College/Classes/ECS-50-Main.md",
+    "College/Classes/PSC134-Lab3.md",
+    "Attachments/Pasted image 20241012171430.png",
+    "Attachments/Pasted image 20241012171358.png",
+    "Attachments/Pasted image 20241012171054.png",
+    "College/Classes/PSC-134-Main.md",
+    "Attachments/Pasted image 20241012171510.png",
+    "Attachments/Pasted image 20241012171217.png",
+    "Attachments/Pasted image 20241012171134.png",
+    "College/Classes/ECS-98F-Main.md",
+    "College/Classes/ECS98F-W2.md",
+    "Tasks/_Goal-Kanban.md",
+    "Tasks/Task-List.md",
+    "Attachments/Smoothing-Function.png",
+    "Attachments/Sobel-Operator.png",
+    "Attachments/Edge-Formation.png",
+    "Attachments/Pasted image 20241010134627.png",
+    "College/Clubs",
+    "College/Talks",
+    "College/Classes",
+    "Work",
+    "College",
+    "Excalidraw",
+    "Tasks/Reading/ERP-Handbook",
+    "Tasks/Reading/The-Transmitter",
+    "Tasks/Reading",
+    "Untitled.canvas",
+    "Coding/ML-Study"
+  ]
+}
