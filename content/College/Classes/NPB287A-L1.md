@@ -24,20 +24,16 @@ triangle of good presentations:
 2) Equations - Mathematical stuff
 3) Key demonstrations / examples
 
+3 key points of math:
+1) Cost function minimized
+2) Algorithm of doing it
+3) ?...
+##### Resources
 Textbook (online):
 - Underactuated Robotics: Learning Planning and control for efficient and agile machines. Course notes for MIT 6.832 - Russ Tedrake
 	- Focusing on control chapters
 	- https://underactuated.csail.mit.edu/index.html
 	- https://underactuated.csail.mit.edu/Spring2024/schedule.html
-	
-3 key points of math:
-1) Cost function minimized
-2) Algorithm of doing it
-3) ?...
-
-
-
-
 
 ## ✒️ -> Scratch Notes
 ### Control Theory

@@ -18,6 +18,7 @@ aliases:
 - [[NPB-162-Main]]
 - [[LIN-175-Main]]
 
+*Audits*
 - [[BIM280-L1]]
 - [[NPB287A-L1]]
 	- 2-3 sick
@@ -28,6 +29,9 @@ aliases:
 It's a more eclectic quarter, taking communications and linguistics in the same quarter was not something I was anticipating. That being said, I'm here and will work through it, excited about the coursework I'm tackling.
 
 I'm also attempting to audit the NPB287A class, topics in Control Theory in Neuroscience. Very interesting course, I hope I can keep attending.
+- *Update:* I was allowed to audit, but it interfered with another class and they had fantastic resources online:
+![[NPB287A-L1#Resources]]
+
 
 ## 🛠️ -> To Do
 [[College-Backlog-W25]]

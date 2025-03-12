@@ -74,9 +74,9 @@ Add Broddman's?
 > [!NOTE] 
 > Visual Network -> Occipital Network (ON)
 > Motor / Somatomotor Network -> Pericentral Network (PN)
-> Attention Ntwk -> Dorsal Frontoparietal Ntwk (D-FPN)
-> Control Ntwk -> Lateral Frontoparietal Ntwk (L-FPN)
-> Salience Ntwk -> Midcingulo-insular Ntwk (M-CIN)
+> Attention Network -> Dorsal Frontoparietal Network (D-FPN)
+> Control Network -> Lateral Frontoparietal Network (L-FPN)
+> Salience Network -> Midcingulo-insular Network (M-CIN)
 > 	- Leave the salience guesswork out it
 Default Mode -> Medial Frontoparietal Network (M-FPN)
 

@@ -6,6 +6,8 @@ tags:
 ---
 
 ### Published:
+> WARNING: Do not look. It is bad atm.
+
 Deployment 
 - https://diego-tyner.vercel.app/
 GitHub

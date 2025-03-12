@@ -32,31 +32,7 @@
             }
           },
           {
-            "id": "cb8e4ec0ab1f5ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS-154A-Main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS-154A-Main"
-            }
-          },
-          {
-            "id": "f31fb05510564465",
+            "id": "40079393db0726cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -531,38 +507,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f31fb05510564465",
+  "active": "40079393db0726cf",
   "lastOpenFiles": [
-    "College/Classes/ECS-154A-Main.md",
-    "College/Classes/ECS154A-Lab4.md",
+    "Brain/_Brain.md",
+    "College/Talks/College-Talks.md",
+    "College/Talks/Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks.md",
+    "College/Winter-Quarter-2025.md",
     "Work/Plant-Science-Work.md",
+    "About-Me.md",
+    "index.md",
+    "Coding/_Coding.md",
+    "Coding/ML-Study/_ML-Study.md",
+    "Coding/Cyber-Security.md",
+    "Coding/Databases.md",
+    "Coding/Web-Dev.md",
+    "Coding/Portfolio.md",
+    "College/Classes/NPB287A-L1.md",
+    "College/_College.md",
+    "Coding/Transplantable-SNN.md",
+    "Coding/Projects.md",
+    "Coding/Risego.md",
+    "Coding/Notion-Blog.md",
+    "Astro.md",
+    "College/Classes/ECS-154A-Main.md",
+    "Scratch/Obsidian-Themes.md",
+    "College/Classes/ECS154A-Lab4.md",
     "College/Classes/ECS-124-Main.md",
     "College/Classes/ECS124-L16.md",
     "Home.md",
-    "index.md",
-    "Attachments/ECS124-L16 2025-03-11 18.33.16.excalidraw.md",
-    "Attachments/ECS124-L16 2025-03-11 18.22.33.excalidraw.md",
-    "College/Classes/DDCA-Ch8-YT.md",
-    "College/Classes/NPB-162-Main.md",
-    "College/Classes/NPB162-L17.md",
-    "Coding/Numpy.md",
-    "Templates/Journal-Entry.md",
     "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
     "Attachments/Navigation-Types-of-Remapping.png",
-    "Work/Plant-Science-People.md",
-    "College/Classes/ECS154A-Assessment3-Prep.md",
-    "College/Classes/ECS154A-Final-Prep.md",
-    "Work/Alfalfa.md",
     "Attachments/Virtual-Memory-Video-Recap-Slide.png",
-    "Scratch/Today.md",
-    "Scratch/Goal-Kanban.md",
-    "Scratch/_Scratch.md",
-    "Coding/ML-Study/Normalization-vs-Standardization.md",
-    "Coding/ML-Study/Data-Processing.md",
     "Attachments/Confused_Cat.jpg",
-    "College/Talks/College-Talks.md",
-    "College/_College.md",
-    "College/Classes/Office-Hours.md",
     "Attachments/SSOD-Extra-Credit-Screenshot.png",
     "Attachments/Neuro-Engineering-Controller-Approach.jpg",
     "Attachments/Engineering-Approach-To-Controlling-Technical-System.jpg",
