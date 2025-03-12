@@ -4,6 +4,11 @@ export interface ColorScheme {
   gray: string
   darkgray: string
   dark: string
+  header3: string
+  header4: string
+  header5: string
+  bold: string
+  italics: string
   secondary: string
   tertiary: string
   highlight: string
@@ -18,10 +23,10 @@ interface Colors {
 type FontSpecification =
   | string
   | {
-      name: string
-      weights?: number[]
-      includeItalic?: boolean
-    }
+    name: string
+    weights?: number[]
+    includeItalic?: boolean
+  }
 
 export interface Theme {
   typography: {
@@ -66,9 +71,9 @@ function formatFontSpecification(type: "header" | "body" | "code", spec: FontSpe
   if (weights.length > 1) {
     const weightSpec = italic
       ? weights
-          .flatMap((w) => [`0,${w}`, `1,${w}`])
-          .sort()
-          .join(";")
+        .flatMap((w) => [`0,${w}`, `1,${w}`])
+        .sort()
+        .join(";")
       : weights.join(";")
 
     features.push(`wght@${weightSpec}`)
@@ -90,6 +95,17 @@ export function googleFontHref(theme: Theme) {
   return `https://fonts.googleapis.com/css2?family=${bodyFont}&family=${headerFont}&family=${codeFont}&display=swap`
 }
 
+// --light: ${theme.colors.lightMode.light};
+// --lightgray: ${theme.colors.lightMode.lightgray};
+// --gray: ${theme.colors.lightMode.gray};
+// --darkgray: ${theme.colors.lightMode.darkgray};
+// --dark: ${theme.colors.lightMode.dark};
+// --secondary: ${theme.colors.lightMode.secondary};
+// --tertiary: ${theme.colors.lightMode.tertiary};
+// --highlight: ${theme.colors.lightMode.highlight};
+// --textHighlight: ${theme.colors.lightMode.textHighlight};
+
+
 export function joinStyles(theme: Theme, ...stylesheet: string[]) {
   return `
 ${stylesheet.join("\n\n")}
@@ -100,6 +116,11 @@ ${stylesheet.join("\n\n")}
   --gray: ${theme.colors.lightMode.gray};
   --darkgray: ${theme.colors.lightMode.darkgray};
   --dark: ${theme.colors.lightMode.dark};
+  --header3: ${theme.colors.lightMode.header3};
+  --header4: ${theme.colors.lightMode.header4};
+  --header5: ${theme.colors.lightMode.header5};
+  --bold: ${theme.colors.lightMode.bold};
+  --italics: ${theme.colors.lightMode.italics};
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
@@ -116,6 +137,11 @@ ${stylesheet.join("\n\n")}
   --gray: ${theme.colors.darkMode.gray};
   --darkgray: ${theme.colors.darkMode.darkgray};
   --dark: ${theme.colors.darkMode.dark};
+  --header3: ${theme.colors.darkMode.header3};
+  --header4: ${theme.colors.darkMode.header4};
+  --header5: ${theme.colors.darkMode.header5};
+  --bold: ${theme.colors.darkMode.bold};
+  --italics: ${theme.colors.darkMode.italics};
   --secondary: ${theme.colors.darkMode.secondary};
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};

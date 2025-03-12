@@ -40,6 +40,7 @@ We need to:
 - Do nothing! 
 	- In real cache we would do either a write-back or write-through
 - Do we have to set dirty bit to zero?
+- What about the data?
 
 ### Roles:
 **Metadata registers:**

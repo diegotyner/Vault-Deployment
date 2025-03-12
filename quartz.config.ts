@@ -34,28 +34,52 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
+      /*  
+        Theming notes:
+        - H1 - dark 
+        - H2 - dark
+        - H3 - dark
+        - H4 - dark
+        - H5 - dark
+        - text - darkgray
+        - Links:
+          - Text: Secondary
+          - Hover: Tertiary 
+          - Background: 
+      */
       colors: {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
+          italics: "4e4e4e",
           dark: "#2b2b2b",
+          header3: "#2b2b2b",
+          header4: "#2b2b2b",
+          header5: "#2b2b2b",
+          bold: "2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#0e1116",
+          lightgray: "#181c20",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          header3: "#2e80f2",
+          header4: "#68c57c",
+          header5: "#f79e08",
+          bold: "#ff82b2",
+          italics: "#4C8CE6",
+          // Links might be too intense?
+          secondary: "#A14CE6", // A14CE6 // 7b97aa
+          tertiary: "#af53fa",  // 84a59d // af53fa
+          highlight: "rgba(143, 159, 169, 0.03)",
+          textHighlight: "#b3aa021A", // b3aa0288
         },
       },
     },

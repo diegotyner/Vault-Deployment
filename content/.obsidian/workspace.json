@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4fc5e8d2d3222e9c",
+            "id": "cb8e4ec0ab1f5ca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-124-Main.md",
+                "file": "College/Classes/ECS-154A-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-124-Main"
-            }
-          },
-          {
-            "id": "a08c9e92d172c19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS124-L16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS124-L16"
+              "title": "ECS-154A-Main"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -437,9 +414,29 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "3eb12cfe9bee5fc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e89ebe9807aba652",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -500,16 +497,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a08c9e92d172c19e",
+  "active": "e89ebe9807aba652",
   "lastOpenFiles": [
-    "College/Classes/ECS-124-Main.md",
-    "Home.md",
-    "index.md",
-    "College/Classes/ECS124-L16.md",
-    "Attachments/ECS124-L16 2025-03-11 18.33.16.excalidraw.md",
-    "Attachments/ECS124-L16 2025-03-11 18.22.33.excalidraw.md",
     "College/Classes/ECS-154A-Main.md",
     "College/Classes/ECS154A-Lab4.md",
+    "Work/Plant-Science-Work.md",
+    "College/Classes/ECS-124-Main.md",
+    "College/Classes/ECS124-L16.md",
+    "Home.md",
+    "index.md",
+    "Attachments/ECS124-L16 2025-03-11 18.33.16.excalidraw.md",
+    "Attachments/ECS124-L16 2025-03-11 18.22.33.excalidraw.md",
     "College/Classes/DDCA-Ch8-YT.md",
     "College/Classes/NPB-162-Main.md",
     "College/Classes/NPB162-L17.md",
@@ -518,7 +516,6 @@
     "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
     "Attachments/Navigation-Types-of-Remapping.png",
     "Work/Plant-Science-People.md",
-    "Work/Plant-Science-Work.md",
     "College/Classes/ECS154A-Assessment3-Prep.md",
     "College/Classes/ECS154A-Final-Prep.md",
     "Work/Alfalfa.md",
