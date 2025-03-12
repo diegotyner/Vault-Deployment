@@ -5,8 +5,7 @@ aliases:
 ---
 
 # 📘 Sub Pages
-- [[_Goal-Kanban|Goal Kanban]]
-- [[Task-List|Task List]]
+- [[Goal-Kanban|Goal Kanban]]
 
 
 # 📑 Task View

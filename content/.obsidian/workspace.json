@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Alfalfa.md",
+                "file": "Work/Plant-Science-Work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alfalfa"
+              "title": "Plant-Science-Work"
             }
           },
           {
-            "id": "efc20dc273f8a71e",
+            "id": "4fc5e8d2d3222e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "College/Classes/ECS-124-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ECS-124-Main"
             }
           },
           {
-            "id": "b8b613e1d0a76526",
+            "id": "a08c9e92d172c19e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "College/Classes/ECS124-L16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ECS124-L16"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "card",
+                "query": "\"::\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -422,14 +422,24 @@
             "id": "3b476bcec68a9b46",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4fe1ff9ea3523847",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -490,44 +500,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8b613e1d0a76526",
+  "active": "a08c9e92d172c19e",
   "lastOpenFiles": [
+    "College/Classes/ECS-124-Main.md",
+    "Home.md",
+    "index.md",
+    "College/Classes/ECS124-L16.md",
+    "Attachments/ECS124-L16 2025-03-11 18.33.16.excalidraw.md",
+    "Attachments/ECS124-L16 2025-03-11 18.22.33.excalidraw.md",
+    "College/Classes/ECS-154A-Main.md",
+    "College/Classes/ECS154A-Lab4.md",
+    "College/Classes/DDCA-Ch8-YT.md",
+    "College/Classes/NPB-162-Main.md",
+    "College/Classes/NPB162-L17.md",
+    "Coding/Numpy.md",
+    "Templates/Journal-Entry.md",
+    "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
+    "Attachments/Navigation-Types-of-Remapping.png",
+    "Work/Plant-Science-People.md",
+    "Work/Plant-Science-Work.md",
+    "College/Classes/ECS154A-Assessment3-Prep.md",
+    "College/Classes/ECS154A-Final-Prep.md",
+    "Work/Alfalfa.md",
+    "Attachments/Virtual-Memory-Video-Recap-Slide.png",
+    "Scratch/Today.md",
+    "Scratch/Goal-Kanban.md",
+    "Scratch/_Scratch.md",
+    "Coding/ML-Study/Normalization-vs-Standardization.md",
+    "Coding/ML-Study/Data-Processing.md",
     "Attachments/Confused_Cat.jpg",
     "College/Talks/College-Talks.md",
-    "index.md",
     "College/_College.md",
     "College/Classes/Office-Hours.md",
-    "Scratch/_Scratch.md",
-    "Scratch/Get-From-Home.md",
-    "Scratch/Obsidian-Themes.md",
-    "Scratch/Groceries.md",
-    "Scratch/CalFresh.md",
-    "Scratch/UPS-Call.md",
-    "Scratch/Shopping.md",
-    "Scratch/Class-Stack.md",
-    "_Today.md",
-    "Reading/_Goal-Kanban.md",
-    "Reading/Neuromatch.md",
-    "Journal/_Journal.md",
-    "Coding/ML-Study/Outlier-Detection.md",
-    "College/Classes/ECS132-HW2.md",
-    "College/Classes/ECS122A-PS1.md",
-    "College/Classes/PSC134-Lab2.md",
-    "College/Classes/PSC134-L5.md",
-    "College/Classes/PSC134-L3.md",
-    "Math/Latex-Reference.md",
-    "College/Classes/ECS154A-L2.md",
-    "College/Classes/ECS132-L15.md",
     "Attachments/SSOD-Extra-Credit-Screenshot.png",
     "Attachments/Neuro-Engineering-Controller-Approach.jpg",
     "Attachments/Engineering-Approach-To-Controlling-Technical-System.jpg",
     "Attachments/NeuroFest-Talk-1-Summary.jpg",
     "Attachments/NeuroFest-Talk-3-Summary.jpg",
     "Attachments/Non-Motor-Symptoms-in-Parkinsons-Disease.jpg",
-    "Attachments/aDBS-Trial-Timeline.jpg",
-    "Attachments/aDBS-Methods-Slide.jpg",
-    "Attachments/Cell-Villages-Simultaneous-Culturing.jpg",
-    "Attachments/Models-to-Study-Alzheimers-Disease.jpg",
     "js/scripts/peaceful-break.js",
     "js/scripts",
     "js",

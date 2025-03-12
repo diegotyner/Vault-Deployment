@@ -106,6 +106,7 @@ description includes ARCH
 - Pipelining - [[ECS154A-L25]]
 
 ### Week 10 - Pipelining & I/O Systems - Ch. 8
+[[ECS154A-Lab4]]
 - Pipelining - [[ECS154A-L26]]
 - I/O Systems, Exceptions - [[ECS154A-L27]]
 - *Discussion*: Return Assessment #3 - [[ECS154A-D10]]

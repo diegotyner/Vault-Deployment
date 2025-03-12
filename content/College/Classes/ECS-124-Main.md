@@ -81,4 +81,7 @@ description includes BINF
 - [[ECS124-L14]]
 - [[ECS124-L15]]
 
+### Week 10
+- [[ECS124-L16]]
+- [[ECS124-L17]]
 

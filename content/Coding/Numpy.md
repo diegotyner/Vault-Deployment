@@ -72,7 +72,7 @@ data[0:2, 0]
 
 ### Bool Indexing
 - `a[a < 5]`: Returns all values in a less than 5
-	- Literally the values::
+	- Literally the values:
 	   `[1 2 3 4]` out of 
 	  `np.array([[1 , 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]])`
 

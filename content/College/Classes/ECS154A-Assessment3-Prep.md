@@ -108,8 +108,37 @@ Basics of Virtual Memory
 
 
 
+### Virtual Memory
+[But, what is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I)
+- Has some good visualizations!
 
+Virtual Addresses
+Physical Addresses
 
+Memory: RAM, around 4 GB in past. Could also access other forms of memory, like other devices. 
+Problems with physical addresses:
+1) Not enough memory -> crash if not enough RAM
+2) Memory Fragmentation -> Run out of space
+3) Security -> Corrupt other program's data
+They could be solved by giving each program its own memory space (virtual memory)
+- However, it has to be mapped back to real memory in RAM (physical memory)
+
+*Swap Memory*: additional memory, memory not in RAM
+*Page Fault*: When data not available in RAM and we have to go to disk, we call that a page fault
+
+#### Implementation:
+CPU has to find the mapping from virtual address, to a physical address, and read that data.
+
+If a page table has every entry in physical memory:
+- a word is 32 bits
+- 2^32 addresses for each byte = 2^30 words
+Instead of 1 entry to 1 word, allocate blocks / pages
+
+![[Virtual-Memory-Video-Recap-Slide.png|400]]
+
+Use TLB to MASSIVELY speed this up. If hit, can be 1 cycle, and not have to do as many checks with tables in memory.
+ 
+*MMU* - Memory Management Unit, usually on CPU and programmed by OS
 
 
 
