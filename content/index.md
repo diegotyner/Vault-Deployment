@@ -22,6 +22,7 @@ Quick tips before you get started:
 
 **My Favorite:** [[College-Talks]]
 - :o
+- :o
 
 ### Studies
 [[_College]]
