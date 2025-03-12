@@ -21,6 +21,8 @@ Quick tips before you get started:
 	- *This can also tell you if I haven't made the page yet*
 
 **My Favorite:** [[College-Talks]]
+- :o
+- :o
 
 ### Studies
 [[_College]]
