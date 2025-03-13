@@ -109,6 +109,7 @@ description includes ARCH
 [[ECS154A-Lab4]]
 - Pipelining - [[ECS154A-L26]]
 - I/O Systems, Exceptions - [[ECS154A-L27]]
+	- *Update with handwriting notes*
 - *Discussion*: Return Assessment #3 - [[ECS154A-D10]]
 - Expansion Joint - [[ECS154A-L28]]
 

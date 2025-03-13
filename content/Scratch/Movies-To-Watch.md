@@ -27,6 +27,7 @@
 - rosemary baby
 - broke back mountain
 - planet of the apes
+- lord of the rings
 
 Watched:
 - ~~Gaslight 1944~~

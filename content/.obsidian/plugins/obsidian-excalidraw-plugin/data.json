@@ -444,7 +444,7 @@
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
-    "OPACITY": 50
+    "OPACITY": 80
   },
   "laserSettings": {
     "DECAY_LENGTH": 50,
