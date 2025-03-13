@@ -108,6 +108,8 @@ Experiment for thumb in OA and for rotator cuff tear
 
 - Pain and Sensory Testing
 - Function and Disease Severity
+
+#### XAI
 Use explainable AI (XAI) to help with explaining all these variables, impossible to control all the variables with small data samples
 
 "Doctor Patent worked with Doctor Finly to come up with a model"

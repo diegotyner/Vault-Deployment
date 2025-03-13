@@ -55,7 +55,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -546,15 +547,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67928b55349099d5",
+  "active": "40079393db0726cf",
   "lastOpenFiles": [
-    "index.md",
+    "Coding/ML-Study/_ML-Study.md",
+    "Coding/ML-Study/Explainable-AI.md",
     "College/Talks/College-Talks.md",
+    "College/Talks/Orthopedic-Biomechanics-Predictive-Simulations-and-Pain-Testing.md",
+    "Coding/ML-Study/Regularization.md",
+    "Coding/ML-Study/Multicollinearity.md",
+    "Coding/ML-Study/Dimensionality-Reduction.md",
+    "index.md",
+    "Work/Plant-Science-Work.md",
     "College/Classes/ECS-154A-Main.md",
     "College/Classes/ECS154A-L27.md",
     "Attachments/ECS154A-L27 2025-03-12 16.34.02.excalidraw.md",
     "Attachments/ECS154A-L27 2025-03-12 16.31.59.excalidraw.md",
-    "Work/Plant-Science-Work.md",
     "Attachments/CF1CF2.png",
     "Attachments/ECS154A-L27 2025-03-12 16.21.34.excalidraw.md",
     "Attachments/ECS154A-L27 2025-03-12 16.12.17.excalidraw.md",
@@ -570,12 +577,6 @@
     "Brain/_Brain.md",
     "College/Talks/Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks.md",
     "College/Winter-Quarter-2025.md",
-    "Coding/_Coding.md",
-    "Coding/ML-Study/_ML-Study.md",
-    "Coding/Cyber-Security.md",
-    "Coding/Databases.md",
-    "Coding/Web-Dev.md",
-    "Coding/Portfolio.md",
     "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
     "Attachments/Navigation-Types-of-Remapping.png",
     "Attachments/Virtual-Memory-Video-Recap-Slide.png",
