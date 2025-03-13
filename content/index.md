@@ -22,8 +22,10 @@ Quick tips before you get started:
 	- [[Obsidian-Themes|Colors]]
 - Throughout my vault, you'll see code blocks at the top of the page with headers that say "Dataview". Ignore these, those are personal automations in my vault. 
 
-**My Favorite:** [[College-Talks]]
-**Todo:** [[About-Me]]
+
+**My Favorite:** [[College-Talks#Talk Pages|College-Talks]]
+😺😸 [[About-Me]] 😸😺
+
 
 ### Studies
 [[_College]]

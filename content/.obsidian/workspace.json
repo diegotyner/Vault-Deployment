@@ -54,81 +54,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "d546e3383b19e665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS-154A-Main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS-154A-Main"
-            }
-          },
-          {
-            "id": "45850389fb1701f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS154A-L27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS154A-L27"
-            }
-          },
-          {
-            "id": "a34233bc1caf89b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS154A-L27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS154A-L27"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -541,6 +468,16 @@
             "id": "3b3e2d5770203d6a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7cfcd7f714fe907c",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -548,7 +485,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -609,17 +546,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a34233bc1caf89b7",
+  "active": "67928b55349099d5",
   "lastOpenFiles": [
-    "Attachments/ECS154A-L27 2025-03-12 16.34.02.excalidraw.md",
+    "index.md",
+    "College/Talks/College-Talks.md",
+    "College/Classes/ECS-154A-Main.md",
     "College/Classes/ECS154A-L27.md",
+    "Attachments/ECS154A-L27 2025-03-12 16.34.02.excalidraw.md",
     "Attachments/ECS154A-L27 2025-03-12 16.31.59.excalidraw.md",
     "Work/Plant-Science-Work.md",
     "Attachments/CF1CF2.png",
     "Attachments/ECS154A-L27 2025-03-12 16.21.34.excalidraw.md",
-    "index.md",
     "Attachments/ECS154A-L27 2025-03-12 16.12.17.excalidraw.md",
-    "College/Classes/ECS-154A-Main.md",
     "College/Classes/ECS-174-Main.md",
     "College/Classes/ECS174-L11.md",
     "College/Classes/ECS174-L9.md",
@@ -630,7 +568,6 @@
     "Attachments/Wernicke-Lictheim-Geschwind-Model.png",
     "College/Classes/ECS-124-Main.md",
     "Brain/_Brain.md",
-    "College/Talks/College-Talks.md",
     "College/Talks/Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks.md",
     "College/Winter-Quarter-2025.md",
     "Coding/_Coding.md",

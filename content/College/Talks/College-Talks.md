@@ -39,7 +39,7 @@ A hub for all college talks I attend
 - [UCD MIND Lectures](https://health.ucdavis.edu/mind-institute/videos/video-dls)
 
 
-## Create pages below
+## Talk Pages
 ---
 - [[Statistical-Neuroimaging-Analysis]]
 - [[Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks]]
