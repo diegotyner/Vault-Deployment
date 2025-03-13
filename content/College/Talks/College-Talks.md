@@ -23,12 +23,9 @@ SORT created desc
 # 📗 -> College Talks
 ---
 ## ❗ ->  Information
-A hub for all college talks I attend
+A hub for all the college talks I attend
 
-## ✒️ -> Usage
-- How can you use the knowledge you are obtaining?
-
-## 🔗 -> Links
+## 🔗 -> Event Postings / Resources
 - [Statistics Talks](https://statistics.ucdavis.edu/seminars)
 - [Exploring the Mind](https://mindbrain.ucdavis.edu/news-and-events)
 - [COE Events](https://engineering.ucdavis.edu/events)

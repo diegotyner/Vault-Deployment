@@ -85,6 +85,7 @@ Lorem Ipsum
 [[LIN175-Packback-4]]
 - Midterm Review (Discussion) - [[LIN175-D9]]
 - **Midterm #3**
+[[LIN175-Midterm3-Prep]]
 
 ### Week 10 - Signed Language, Future of Language, and Final Prep
 - Signed Language and the Brain - [[LIN175-L16]]

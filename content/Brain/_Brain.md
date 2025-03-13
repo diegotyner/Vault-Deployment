@@ -63,9 +63,13 @@ Add Broddman's?
 - [[LIN175-Neurological-Substrates-of-Language]]
 	- Wernicke's / Broca's Areas
 - Connect to talk about representation
+[[Human-Development]] 
+- Talk about young synaptic genesis, adult pruning etc
+- Grey/White matter graphs
+- Timeline of ages with milestones / age markers (first words, walking etc.)
 
 
-## Brain Networks
+## Brain Networks / Pathways
 [[Default-Mode-Network]]
 [[Executive-Control-Network]]
 [[Salience-Network]]
@@ -80,6 +84,7 @@ Add Broddman's?
 > 	- Leave the salience guesswork out it
 Default Mode -> Medial Frontoparietal Network (M-FPN)
 
+[[Arcuate-Fasciculus]]?
 
 ## Frequency Bands
 [[Delta-Band]]

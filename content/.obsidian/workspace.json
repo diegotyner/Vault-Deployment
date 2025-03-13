@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "40079393db0726cf",
+            "id": "acf0a9140d128b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "College/Classes/LIN-175-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "LIN-175-Main"
+            }
+          },
+          {
+            "id": "4ad017bd04a63750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/LIN175-Midterm3-Prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LIN175-Midterm3-Prep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -479,6 +502,26 @@
             "id": "7cfcd7f714fe907c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c0a6f21b68bf287c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e17da972ceea7b55",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -486,7 +529,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -547,17 +590,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40079393db0726cf",
+  "active": "67928b55349099d5",
   "lastOpenFiles": [
+    "College/Classes/LIN175-Midterm3-Prep.md",
+    "Brain/_Brain.md",
+    "College/Talks/Untitled.md",
+    "Neural-Networks.md",
+    "Attachments/VIsual-Processing.png",
+    "College/Classes/LIN-175-Main.md",
+    "Work/Plant-Science-Work.md",
+    "College/Talks/College-Talks.md",
+    "index.md",
     "Coding/ML-Study/_ML-Study.md",
     "Coding/ML-Study/Explainable-AI.md",
-    "College/Talks/College-Talks.md",
     "College/Talks/Orthopedic-Biomechanics-Predictive-Simulations-and-Pain-Testing.md",
     "Coding/ML-Study/Regularization.md",
     "Coding/ML-Study/Multicollinearity.md",
     "Coding/ML-Study/Dimensionality-Reduction.md",
-    "index.md",
-    "Work/Plant-Science-Work.md",
     "College/Classes/ECS-154A-Main.md",
     "College/Classes/ECS154A-L27.md",
     "Attachments/ECS154A-L27 2025-03-12 16.34.02.excalidraw.md",
@@ -570,13 +619,8 @@
     "College/Classes/ECS174-L9.md",
     "About-Me.md",
     "Home.md",
-    "College/Classes/LIN-175-Main.md",
     "College/Classes/LIN175-D10.md",
     "Attachments/Wernicke-Lictheim-Geschwind-Model.png",
-    "College/Classes/ECS-124-Main.md",
-    "Brain/_Brain.md",
-    "College/Talks/Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks.md",
-    "College/Winter-Quarter-2025.md",
     "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
     "Attachments/Navigation-Types-of-Remapping.png",
     "Attachments/Virtual-Memory-Video-Recap-Slide.png",
@@ -584,7 +628,6 @@
     "Attachments/SSOD-Extra-Credit-Screenshot.png",
     "Attachments/Neuro-Engineering-Controller-Approach.jpg",
     "Attachments/Engineering-Approach-To-Controlling-Technical-System.jpg",
-    "Attachments/NeuroFest-Talk-1-Summary.jpg",
     "js/scripts/peaceful-break.js",
     "js/scripts",
     "js",
