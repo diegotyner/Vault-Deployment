@@ -32,54 +32,17 @@
             }
           },
           {
-            "id": "acf0a9140d128b64",
+            "id": "f6c40d46552c9528",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/LIN-175-Main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LIN-175-Main"
-            }
-          },
-          {
-            "id": "4ad017bd04a63750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/LIN175-Midterm3-Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LIN175-Midterm3-Prep"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -522,6 +484,26 @@
             "id": "e17da972ceea7b55",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "73cb052e0dcf8355",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "937f2abb78af1570",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -529,7 +511,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 35
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -590,44 +572,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67928b55349099d5",
+  "active": "f6c40d46552c9528",
   "lastOpenFiles": [
-    "College/Classes/LIN175-Midterm3-Prep.md",
-    "Brain/_Brain.md",
-    "College/Talks/Untitled.md",
-    "Neural-Networks.md",
+    "Excalidraw/Witness-Reading 2024-12-06 01.54.13.excalidraw.md",
+    "Excalidraw/Witness-Reading 2024-11-17 18.48.38.excalidraw.md",
+    "Excalidraw/PSC134-OH-Prep 2024-09-27 12.33.04.excalidraw.md",
+    "Excalidraw/Neurotech 2025-02-05 19.26.34.excalidraw.md",
+    "Excalidraw/NPB162-L3 2025-01-16 05.12.15.excalidraw.md",
+    "Excalidraw/NPB162-L15 2025-02-25 14.12.07.excalidraw.md",
+    "Excalidraw/NPB162-HW2 2025-01-29 23.09.09.excalidraw.md",
+    "Excalidraw/NPB162-HW2 2025-01-29 22.58.06.excalidraw.md",
+    "Excalidraw/ECS98F-W5-Number-Game.excalidraw.md",
+    "Excalidraw/ECS98F-W5-Anagrams.excalidraw.md",
+    "Excalidraw/ECS154A-L19 2025-02-24 22.16.00.excalidraw.md",
+    "Excalidraw/ECS154A-L17 2025-02-25 16.39.27.excalidraw.md",
+    "Excalidraw/ECS154A-L10 2025-01-29 14.52.26.excalidraw.md",
+    "Excalidraw/ECS154A-L10 2025-01-29 14.42.08.excalidraw.md",
+    "Excalidraw/ECS154A-L10 2025-01-29 14.31.18.excalidraw.md",
+    "Excalidraw/ECS154A-L10 2025-01-29 14.28.47.excalidraw.md",
+    "Excalidraw/ECS154A-L10 2025-01-29 14.23.25.excalidraw.md",
+    "Excalidraw/ECS154A-D7 2025-03-05 21.45.56.excalidraw.md",
+    "Excalidraw/ECS154A-D7 2025-03-05 21.42.15.excalidraw.md",
+    "Excalidraw/ECS132-D9 2024-12-02 18.30.32.excalidraw.md",
+    "Excalidraw/ECS124-L9 2025-02-06 18.23.08.excalidraw.md",
+    "Excalidraw/ECS124-L16 2025-03-11 18.22.33.excalidraw.md",
+    "Excalidraw/ECS124-L14 2025-03-04 18.59.30.excalidraw.md",
+    "Excalidraw/ECS124-L14 2025-03-04 18.33.05.excalidraw.md",
+    "Excalidraw/ECS122A-PS1 2024-10-07 12.10.09.excalidraw.md",
+    "Excalidraw/ECS122A-HW5 2024-12-05 23.36.32.excalidraw.md",
+    "Attachments/3B1B-Convolution.png",
+    "Attachments/Odor-Dimension-Space.png",
+    "Attachments/Two-Olfactory-Systems.png",
     "Attachments/VIsual-Processing.png",
-    "College/Classes/LIN-175-Main.md",
-    "Work/Plant-Science-Work.md",
-    "College/Talks/College-Talks.md",
-    "index.md",
-    "Coding/ML-Study/_ML-Study.md",
-    "Coding/ML-Study/Explainable-AI.md",
-    "College/Talks/Orthopedic-Biomechanics-Predictive-Simulations-and-Pain-Testing.md",
-    "Coding/ML-Study/Regularization.md",
-    "Coding/ML-Study/Multicollinearity.md",
-    "Coding/ML-Study/Dimensionality-Reduction.md",
-    "College/Classes/ECS-154A-Main.md",
-    "College/Classes/ECS154A-L27.md",
-    "Attachments/ECS154A-L27 2025-03-12 16.34.02.excalidraw.md",
-    "Attachments/ECS154A-L27 2025-03-12 16.31.59.excalidraw.md",
     "Attachments/CF1CF2.png",
-    "Attachments/ECS154A-L27 2025-03-12 16.21.34.excalidraw.md",
-    "Attachments/ECS154A-L27 2025-03-12 16.12.17.excalidraw.md",
-    "College/Classes/ECS-174-Main.md",
-    "College/Classes/ECS174-L11.md",
-    "College/Classes/ECS174-L9.md",
-    "About-Me.md",
-    "Home.md",
-    "College/Classes/LIN175-D10.md",
     "Attachments/Wernicke-Lictheim-Geschwind-Model.png",
     "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
     "Attachments/Navigation-Types-of-Remapping.png",
     "Attachments/Virtual-Memory-Video-Recap-Slide.png",
     "Attachments/Confused_Cat.jpg",
-    "Attachments/SSOD-Extra-Credit-Screenshot.png",
-    "Attachments/Neuro-Engineering-Controller-Approach.jpg",
-    "Attachments/Engineering-Approach-To-Controlling-Technical-System.jpg",
     "js/scripts/peaceful-break.js",
     "js/scripts",
     "js",

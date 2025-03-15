@@ -3,7 +3,6 @@ created:
   - "{{date: MM-DD-YYYY}} {{time}}"
 tags:
   - Collection
-  - Resource
 ---
 
 ## Choose topic/number to include

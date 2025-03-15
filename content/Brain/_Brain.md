@@ -51,9 +51,10 @@ Add Broddman's?
 [[Learning]]
 [[Hormone-Regulation]]
 [[Automated-Functions]]
-[[Vision]]
 [[Sensory-Information]]
 [[Motor-Function]]
+[[Vision]]
+[[Olfaction]]
 
 ### Higher Level
 [[Decision-Making]]

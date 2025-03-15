@@ -1,10 +1,9 @@
 ---
 created:
   - "{{date: MM-DD-YYYY}} {{time}}"
-aliases: 
 tags:
-  - Definition
   - Brain
+aliases:
 ---
 
 ---

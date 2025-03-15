@@ -1,7 +1,7 @@
 
 # Hi There!
 
-I'm **Diego Tyner**, a third year student at UC Davis double majoring in *Computer Science and Cognitive Science*, with a minor in *Neuroscience*. 
+I'm **Diego Tyner**, a third year student at UC Davis double majoring in *Computer Science* and *Cognitive Science*, with a minor in *Neuroscience*. 
 
 ### *I love* 
 - Neural systems, I'm looking to learn all about [[_ML-Study|deep learning]] and how to build intelligent systems through the [[_Brain|brain]].
@@ -9,7 +9,9 @@ I'm **Diego Tyner**, a third year student at UC Davis double majoring in *Comput
 
 Check back in with me later, maybe I'll have a cooler [[Portfolio|website]] to show off!
 ### What am I working on? 🤔
-I have a couple [[Projects|projects]] that I want to work on:  
+Right now, I'm working as a web developer for the Forage lab on campus, and I'm working as a PM for [[Neurotech|Davis Neurotech]], leading a project on EEG inference of eyewitness testimony.
+
+On top of that, I have a couple [[Projects|projects]] that I want to work on:  
 - A machine learning program to recommend songs - [[Song-Recommender]]  
 - A [[Transplantable-SNN|transplantable neural network]], where you train neural networks separately then combine them together later.  
 - An android app: Minimalist Phone. I'd love to cut back on screen time, and the official app is paid only. Will try to make myself soon.

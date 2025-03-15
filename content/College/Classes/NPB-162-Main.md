@@ -2,7 +2,7 @@
 created:
   - " 01-07-2025 14:04"
 tags:
-  - Classes
+  - Classes/Organizer
 aliases:
   - BHVR
   - NPB162
@@ -13,7 +13,7 @@ aliases:
 short mode
 not done
 tags include #class
-description includes HBVR
+description includes BHVR
 ```
 ---
 ## 🔗 Critical Links

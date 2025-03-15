@@ -61,3 +61,8 @@ A hub for all the college talks I attend
 - [[Laminar-Circuit-Motifs-for-Language]]
 - [[Towards-Planning-In-Creative-Contexts]]
 - [[NeuroFest-10th-Anniversary]]
+- [[Towards-Novel-Categorical-Embedding-for-Enhanced-Data-Representation]]
+- 
+- 
+- 
+

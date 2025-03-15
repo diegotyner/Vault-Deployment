@@ -24,7 +24,6 @@ SORT file.name desc
 # 📗 -> Davis Neurotech
 ---
 ## ❗ ->  Information
-[FAQ](https://docs.google.com/document/d/1yaIANPAQY0z8ptY8znnXjpACvHgyElChqRw5_P-W3YE/edit?tab=t.0)
 
 
 ### Recording Checklist:
@@ -102,6 +101,7 @@ TODO:
 - [Club Github](https://github.com/Neurotech-Davis)
 	- [Github Resource Page](https://github.com/Neurotech-Davis/Neurotech-Wiki/blob/main/src/learning_resources/resources.md)
 - [Resource Sheet](https://docs.google.com/document/d/1e0HXvKGgTx0B0hoc1SlpFuB6jQkFwV8KhUIQhm2tKs0/edit)
+- [FAQ](https://docs.google.com/document/d/1yaIANPAQY0z8ptY8znnXjpACvHgyElChqRw5_P-W3YE/edit?tab=t.0)
     
   - https://eegedu.com/
   - [OpenBCI Free Resources EEG Datasets](https://openbci.com/community/free-resources-eeg-and-physiological-datasets-and-more/)

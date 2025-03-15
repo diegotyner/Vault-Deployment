@@ -6,7 +6,7 @@ tags:
 ---
 
 ### Published:
-> WARNING: Do not look. It is bad atm.
+> WARNING: Do not look at deployment. It is bad atm.
 
 Deployment 
 - https://diego-tyner.vercel.app/

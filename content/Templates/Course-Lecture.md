@@ -2,7 +2,7 @@
 created:
   - "{{date: MM-DD-YYYY}} {{time}}"
 tags:
-  - Classes
+  - Classes/Lecture
 aliases:
 ---
 
