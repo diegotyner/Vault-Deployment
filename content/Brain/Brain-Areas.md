@@ -18,5 +18,6 @@ list from [[]] and !outgoing([[]])
 
 > [!tip] 
 > Here is for throwing every new brain area
-> [[OFC]]
 
+[[OFC]]
+[[Entorhinal-Cortex]]

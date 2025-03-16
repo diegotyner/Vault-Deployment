@@ -43,8 +43,9 @@ I want to create a fun map of the brain to facilitate my learning, I want to tie
 ### Regions
 [[Gross-Anatomy]]
 [[Brain-Areas]]
-Add Broddman's?
+Add Brodmann's?
 
+[[Anki-New-Areas]]
 # Functional
 ### Lower Level
 [[Memory]]

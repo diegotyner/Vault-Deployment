@@ -32,17 +32,43 @@
             }
           },
           {
-            "id": "f6c40d46552c9528",
+            "id": "159314d7f804bcbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS154A-Final-Prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ECS154A-Final-Prep"
+            }
+          },
+          {
+            "id": "38e64c58f45184f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"::\"",
+                "query": "cpu_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,11 +133,13 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -504,6 +532,36 @@
             "id": "937f2abb78af1570",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d85d32adcd278000",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "02d3fac394610609",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7b3b8afc064520fb",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -511,7 +569,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 38
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -572,54 +630,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6c40d46552c9528",
+  "active": "38e64c58f45184f3",
   "lastOpenFiles": [
-    "Excalidraw/Witness-Reading 2024-12-06 01.54.13.excalidraw.md",
-    "Excalidraw/Witness-Reading 2024-11-17 18.48.38.excalidraw.md",
-    "Excalidraw/PSC134-OH-Prep 2024-09-27 12.33.04.excalidraw.md",
-    "Excalidraw/Neurotech 2025-02-05 19.26.34.excalidraw.md",
-    "Excalidraw/NPB162-L3 2025-01-16 05.12.15.excalidraw.md",
-    "Excalidraw/NPB162-L15 2025-02-25 14.12.07.excalidraw.md",
-    "Excalidraw/NPB162-HW2 2025-01-29 23.09.09.excalidraw.md",
-    "Excalidraw/NPB162-HW2 2025-01-29 22.58.06.excalidraw.md",
-    "Excalidraw/ECS98F-W5-Number-Game.excalidraw.md",
-    "Excalidraw/ECS98F-W5-Anagrams.excalidraw.md",
-    "Excalidraw/ECS154A-L19 2025-02-24 22.16.00.excalidraw.md",
-    "Excalidraw/ECS154A-L17 2025-02-25 16.39.27.excalidraw.md",
-    "Excalidraw/ECS154A-L10 2025-01-29 14.52.26.excalidraw.md",
-    "Excalidraw/ECS154A-L10 2025-01-29 14.42.08.excalidraw.md",
-    "Excalidraw/ECS154A-L10 2025-01-29 14.31.18.excalidraw.md",
-    "Excalidraw/ECS154A-L10 2025-01-29 14.28.47.excalidraw.md",
-    "Excalidraw/ECS154A-L10 2025-01-29 14.23.25.excalidraw.md",
-    "Excalidraw/ECS154A-D7 2025-03-05 21.45.56.excalidraw.md",
-    "Excalidraw/ECS154A-D7 2025-03-05 21.42.15.excalidraw.md",
-    "Excalidraw/ECS132-D9 2024-12-02 18.30.32.excalidraw.md",
-    "Excalidraw/ECS124-L9 2025-02-06 18.23.08.excalidraw.md",
-    "Excalidraw/ECS124-L16 2025-03-11 18.22.33.excalidraw.md",
-    "Excalidraw/ECS124-L14 2025-03-04 18.59.30.excalidraw.md",
-    "Excalidraw/ECS124-L14 2025-03-04 18.33.05.excalidraw.md",
-    "Excalidraw/ECS122A-PS1 2024-10-07 12.10.09.excalidraw.md",
-    "Excalidraw/ECS122A-HW5 2024-12-05 23.36.32.excalidraw.md",
-    "Attachments/3B1B-Convolution.png",
-    "Attachments/Odor-Dimension-Space.png",
-    "Attachments/Two-Olfactory-Systems.png",
-    "Attachments/VIsual-Processing.png",
-    "Attachments/CF1CF2.png",
-    "Attachments/Wernicke-Lictheim-Geschwind-Model.png",
-    "Attachments/Rodent-Hippocampus-Navigation-Localization.png",
-    "Attachments/Navigation-Types-of-Remapping.png",
-    "Attachments/Virtual-Memory-Video-Recap-Slide.png",
-    "Attachments/Confused_Cat.jpg",
-    "js/scripts/peaceful-break.js",
-    "js/scripts",
-    "js",
-    "College/Clubs",
-    "College/Talks",
-    "College/Classes",
-    "Work",
-    "College",
-    "Excalidraw",
-    "Reading/Reading/ERP-Handbook",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-15 02.40.43.excalidraw.md",
+    "College/Classes/ECS154A-Final-Prep.md",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw.md",
+    "Attachments/Pasted Image 20250315164551_304.png",
+    "Excalidraw/PDF-Annotation/ARCH-W25-Review.pdf",
+    "Excalidraw/PDF-Annotation/ARCH-W25-Review",
+    "Excalidraw/PDF-Annotation/ECS 154A WI25 Final Review Copy.pdf",
+    "College/Classes/ECS-154A-Main.md",
+    "Work/Plant-Science-Work.md",
+    "College/Classes/NPB-162-Main.md",
+    "College/Classes/NPB162-HW-5.md",
+    "College/Classes/NPB162-Journal-5.md",
+    "Brain/_Brain.md",
+    "Brain/Brain-Areas.md",
+    "Brain/Anki-New-Areas.md",
+    "Reading/Reading/_Research-Papers.md",
+    "Reading/Reading.md",
+    "College/Classes/ECS154A-L27.md",
+    "Excalidraw/ECS154A-L27 2025-03-15 14.46.40.excalidraw.md",
+    "Attachments/Pasted Image 20250315144624_894.png",
+    "College/Classes/DDCA-Ch7-YT.md",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-14 21.54.00.excalidraw.md",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-14 22.06.01.excalidraw.md",
+    "College/Classes/ECS154A-L24.md",
+    "College/Classes/ECS154A-02-27.md",
+    "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-14 20.57.47.excalidraw.md",
+    "College/Classes/ECS154A-Cheat-Sheet.md",
+    "Excalidraw/PDF-Annotation/assessment3.f24.txt.pdf",
+    "College/Classes/ECS154A-Final-Prep 2025-03-14 21.42.12.excalidraw.md",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-14 21.42.12.excalidraw.md",
+    "Excalidraw/PDF-Annotation/assessment2.f24.pdf",
+    "Excalidraw/assessment3.f24.txt.pdf",
+    "Excalidraw/assessment2.f24.pdf",
+    "Excalidraw/PDF-Annotation/assessment1.f24.pdf",
+    "Excalidraw/PDF-Annotation/ARCH1F24.jpg",
+    "Excalidraw/PDF-Annotation",
+    "Attachments/ARCH1F24.jpg",
+    "Excalidraw/IMG-Annotation/ARCH1F24.jpg",
+    "Excalidraw/IMG-Annotation/combined.jpg",
+    "Excalidraw/IMG-Annotation/ARCH1F24.jpg-7.jpg",
+    "Excalidraw/IMG-Annotation/ARCH1F24.jpg-6.jpg",
+    "Excalidraw/IMG-Annotation/ARCH1F24.jpg-5.jpg",
+    "Excalidraw/IMG-Annotation/ARCH1F24.jpg-4.jpg",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-14 20.15.05.excalidraw.md",
     "Untitled.canvas"
   ]
 }

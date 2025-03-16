@@ -22,6 +22,7 @@ const config: QuartzConfig = {
       "Private",
       "Work/",
       "Journal/", 
+      "Excalidraw/", 
       ".obsidian"
     ],
     defaultDateType: "created",

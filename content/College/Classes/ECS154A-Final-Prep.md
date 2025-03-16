@@ -22,3 +22,17 @@ Comprehensive, so make sure to cover all past content as well
 [[ECS154A-Textbook]]
 [[ECS154A-Assessment2-Prep]]
 [[ECS154A-Assessment3-Prep]]
+
+
+### Assessment 1 Practice
+[[ECS154A-Final-Prep 2025-03-14 20.57.47.excalidraw]]
+
+### Assessment 3 Practice
+[[ECS154A-Final-Prep 2025-03-14 22.06.01.excalidraw]]
+
+### Assessment 3 Practice
+[[ECS154A-Final-Prep 2025-03-14 21.54.00.excalidraw]]
+
+### Final Prep
+[[ECS154A-Final-Prep 2025-03-15 02.40.43.excalidraw]]
+[[ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw]]
