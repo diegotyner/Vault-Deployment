@@ -3,6 +3,10 @@ tags:
   - Hub
 ---
 
+- [ ] Make a page for [[Critical-Algorithms]]
+- [ ] Fill out pages for [[Programming-Language-Guide]] template
+- [ ] Make a [[Regular-Expressions]] page
+
 ## Things to code
 [[Projects]]
 

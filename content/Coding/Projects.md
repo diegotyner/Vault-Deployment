@@ -28,8 +28,17 @@ list from [[]] and !outgoing([[]])
 [[Transplantable-SNN]]
 [[Paper-Trading-Website]]
 
+Chatbot for learning language? Speech recognition -> LLM -> TTS?
+Audio book app?
+more imaging processing apps
+- background Pixelator
+- background remover
+- ai generator?
 
-
+From scratch NN with Go
+- CNN? 
+- Shallow NN? 
+- Visualizations?
 
 
 ### Just fun to think about

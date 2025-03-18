@@ -83,5 +83,7 @@ description includes BINF
 
 ### Week 10
 - [[ECS124-L16]]
-- [[ECS124-L17]]
+- **Extra Credit Assessment**
 
+Final Review:
+[[ECS124-Final-Prep]]

@@ -12,7 +12,7 @@ aliases:
 
 # 📗 -> College courses
 ---
-## ❗ ->  Information
+## ❗ ->  Important
 ### Classes
 - [[Fall-Quarter-2024]]
 - [[Winter-Quarter-2025]]
@@ -24,8 +24,6 @@ aliases:
 [[Office-Hours]]
 
 ## 🔗 -> Links
-
-
 ### Academic Tools
 - [Oasis Planner](https://oasis.ucdavis.edu/forms/academicplan/?draftId=801691&sv=true)
 - [Google Sheets Planner](https://docs.google.com/spreadsheets/d/1__G4rgF0VkzTWZtMhcLAgzr1wVP5iUdgctAXhnoWkYY/edit?gid=2038945149#gid=2038945149)
@@ -42,19 +40,17 @@ aliases:
 [CS Reqs](https://catalog.ucdavis.edu/departments-programs-degrees/computer-science-engineering/computer-science-engineering-bs/#requirementstext)
 [CS Degree Worksheet](https://oasis.ucdavis.edu/forms/worksheet/worksheet.aspx?worksheetId=797733&sv=true)
 
-### Look Into
-[LLM Journal Club](https://g-simmons.github.io/llm_persona_website/journal.html)
-
 ### Interesting Online Courses / Resources
-[MAT 167 Applied Linear Algebra Lecture Slides Page](https://www.math.ucdavis.edu/~saito/courses/167/lectures.html)
+[[UCD-Course-Websites]]
 [CS Tutoring Resource Page](https://ucd-cs-tutoring.notion.site/UCD-CS-Tutoring-Notion-Page-1394d2cecf0d4f36805fa1376f9758cc)
+[LLM Journal Club](https://g-simmons.github.io/llm_persona_website/journal.html)
 [Jiawei Zhang | Homepage](https://jiaweizhang.net/)
 - [Course | IFM Lab](https://www.ifmlab.org/courses.html)
 [AISC YT](https://www.youtube.com/@aiscdavis/videos) 
 [ERP Boot Camp Online](https://erpinfo.org/the-erp-boot-camp)
+[UCD Datalab Github](https://github.com/orgs/ucdavisdatalab/repositories)
 
-![[College-Talks#🔗 -> Links]]
-
+![[College-Talks#🔗 -> Event Postings / Resources]]
 
 
 ## 📌 -> Themes

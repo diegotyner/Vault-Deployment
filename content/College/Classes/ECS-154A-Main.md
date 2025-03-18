@@ -37,7 +37,7 @@ description includes ARCH
 
 
 [[ECS154A-Textbook]]
-[[ECS154A-Cheat-Sheet]]
+[[ECS154A-Logic-Circuits]]
 
 ## 📄 Class Material
 ### Week 1 - Introduction, Digital Design - Ch. 2

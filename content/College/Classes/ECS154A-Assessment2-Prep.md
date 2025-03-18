@@ -1,4 +1,6 @@
+##### Chapters
 
+##### Topics
 Basics of Sequential Logic
 - What it is
 	- As opposed to combinational logic which is purely logic 
