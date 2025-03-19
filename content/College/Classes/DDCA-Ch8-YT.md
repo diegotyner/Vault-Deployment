@@ -256,5 +256,6 @@ This is highly related to the cache size though:
 
 
 ### Connections
-- Link all related words
+- [[Cache]]
+- [[Virtual-Memory]]
 

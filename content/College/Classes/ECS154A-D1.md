@@ -15,6 +15,9 @@ aliases:
 
 
 ## ❗ Unit and Larger Context
+### Did nothing today, just installed logisim and played around with it
+
+
 Prof: Matthew Farrens
 TAs: Pranav & Vir
 

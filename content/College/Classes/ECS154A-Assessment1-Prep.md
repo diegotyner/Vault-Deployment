@@ -35,7 +35,7 @@ Boolean Logic Basic gates and operations
 		-  Being able to express any boolean equation
 		- Can be simply proved with AND, OR, and NOT
 
-Boolean Algebra  
+Boolean Algebra - [[ECS154A-L2]] 
         Identities  
         Axioms  
         Theorem (DeMorgans)  

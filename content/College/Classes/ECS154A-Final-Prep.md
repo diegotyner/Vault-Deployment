@@ -7,13 +7,15 @@
 
 ### Assessment 3 Practice
 [[ECS154A-Final-Prep 2025-03-14 21.54.00.excalidraw]]
-*Real one*
+
 [[ECS154A-Final-Prep 2025-03-15 20.20.33.excalidraw]]
+- *Real one*
 
 ### Final Prep
 [[ECS154A-Final-Prep 2025-03-15 02.40.43.excalidraw]]
-[[ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw]]
 
+[[ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw]]
+- *Julio Review*
 
 ## Topics
 [[ECS154A-Textbook]]
@@ -55,7 +57,8 @@ Still need to cover
 - Minimize States
 - Create State Transition Table
 
-- Caching
-- VRAM
+- Caching - [[Cache]]
+- VRAM - [[Virtual-Memory]]
+- Pipelining - [[Pipelining]]
 
 - All of the final materials

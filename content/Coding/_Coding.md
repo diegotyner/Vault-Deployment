@@ -4,6 +4,7 @@ tags:
 ---
 
 - [ ] Make a page for [[Critical-Algorithms]]
+	- [ ] Maybe make a page for things like Dynamic programming and their famous problems (Hanoi, robber, etc.). Should cover: Greedy, Divide and Conquer, Backtracking, Bit Manipulation, Graph, Segment Trees & Fenwick Trees, String Algorithms
 - [ ] Fill out pages for [[Programming-Language-Guide]] template
 - [ ] Make a [[Regular-Expressions]] page
 

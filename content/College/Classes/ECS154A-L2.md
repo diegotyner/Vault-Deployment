@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-# 📗 ->  01/08/25: ECS154A-L2
+# 📗 ->  01/08/25: Boolean Algebra
 ---
 [Lecture Slide Link]
 
@@ -15,7 +15,7 @@ aliases:
 
 
 ## ❗ Unit and Larger Context
-Small summary
+Small summar
 
 
 
@@ -84,10 +84,10 @@ From "0010"
 - 1010 - HD is 1
 - 0101 - HD is 3
 
-From adjacent boxes in truth tables (Carnel map?), their Hamming Distance is a maximum of 1
+From adjacent boxes in truth tables (Karnaugh map?), their Hamming Distance is a maximum of 1
 
 Jiffy Lube 3D Truth Tables??
-Carno Maps?
+Karnaugh Maps?
 
 
 |     |        |        |        | A      |
@@ -116,7 +116,6 @@ Carno Maps?
 ## 🔗 -> Links
 ### Resources
 - Put useful links here
-
 
 ### Connections
 - Link all related words

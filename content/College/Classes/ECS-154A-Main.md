@@ -43,7 +43,7 @@ description includes ARCH
 ### Week 1 - Introduction, Digital Design - Ch. 2
 - Introduction, Digital Design - [[ECS154A-L1]]
 - Digital Design (Boolean, Gates) - [[ECS154A-L2]] 
-	- Lots of useful cheatsheet-esque rules here
+> 	- Lots of useful cheatsheet-esque rules here ^
 - *Discussion*: Digital Design Tools - [[ECS154A-D1]]
 - Digital Design (Combinational) - [[ECS154A-L3]]
 
@@ -82,7 +82,7 @@ description includes ARCH
 - **HOLIDAY** 
 - Performance - [[ECS154A-L18]]
 - *Discussion*: Return Assessment #2 - [[ECS154A-D7]]
-	- Reviewed, he goes over the assesment
+	- Reviewed, he goes over the assessment
 	- The document above has the **Multicycle 8-bit 1-bus machine assignment**
 - Performance - [[ECS154A-L19]]
 	- [[ECS154A-02-21]]
@@ -90,13 +90,13 @@ description includes ARCH
 ### Week 8 - Memory & Caches - Ch. 5/8
 [[ECS154A-Assessment3-Prep]]
 - Memory - [[ECS154A-L20]]
-	- [[ECS154A-02]
+	- [[ECS154A-02-24]]
+- Caches - [[ECS154A-L22]]
+	- [[ECS154A-02-26]]
 - *Discussion*: Caches - [[ECS154A-D8]]
 	- [[ECS154A-02-27]]
-- Caches - [[ECS154A-L22]]
-	- [[ECS154A-02-28]]
-	- [[ECS154A-02-24]]
 - Memory - [[ECS154A-L21]]
+	- [[ECS154A-02-28]]
 
 ### Week 9 - Memory Management & Pipelining - Ch. 8
 - Memory Management - [[ECS154A-L23]]

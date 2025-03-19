@@ -18,4 +18,12 @@ A lot more courses too, like Fourier Analysis, Harmonic Analysis on graphs, etc.
 https://american.cs.ucdavis.edu/ ? Don't know what this is
 [ECS 154A](https://american.cs.ucdavis.edu/academic/ecs154a.w24/index.html)
 
+##### Joshua Allen McCoy 
+Game Researcher, has a [GitHub account] where he hosts resources 
+[ECS170](https://github.com/dr-jam/ECS170)
+[ECS179 Gameplay Programming](https://github.com/dr-jam/GameplayProgramming)
+[CDM198 Game Platforms](https://github.com/dr-jam/GamePlatforms)
+[ECS289G AI, Games, and Design](https://github.com/dr-jam/AI-Games-Design)
+
+
 
