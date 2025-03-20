@@ -17,6 +17,7 @@ aliases:
 I want to create a fun map of the brain to facilitate my learning, I want to tie things together spatially and functionally.
 
 
+Some old notes: [Brain Doc](https://docs.google.com/document/d/1cb6ALEfRYf-rtFlw-RnPXQnMgwnjpTpnUgrS0q2_N9c/edit?usp=sharing)
 # Underlying Biology
 ### Cells
 [[Neurons]]
@@ -94,4 +95,4 @@ Default Mode -> Medial Frontoparietal Network (M-FPN)
 [[Alpha-Band]]
 [[Beta-Band]]
 [[Gamma-Band]]
-
+[[ERP-Components]]

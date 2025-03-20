@@ -49,6 +49,8 @@ Chapter Covered: 1 more week of chapter 8
 Still need to cover
 - CMOS
 - Adders (ripple vs look ahead, equation) 
+	- [[ECS154A-L6]]
+	- [[ECS154A-D2]]
 - ALU (P's & G's)
 -  M-detection N-correction concepts
 - SECDED

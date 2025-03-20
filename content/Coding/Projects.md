@@ -40,6 +40,10 @@ From scratch NN with Go
 - Shallow NN? 
 - Visualizations?
 
+Fun Daily Game:
+- generate a random adjective and noun, search Google images and pull the first result. Then have players guess the prompt words
+- give guesses a similarity score (vector) To each word
+
 
 ### Just fun to think about
 [[Blocks-World]]

@@ -91,11 +91,11 @@ description includes ARCH
 [[ECS154A-Assessment3-Prep]]
 - Memory - [[ECS154A-L20]]
 	- [[ECS154A-02-24]]
-- Caches - [[ECS154A-L22]]
+- Caches - [[ECS154A-L21]]
 	- [[ECS154A-02-26]]
 - *Discussion*: Caches - [[ECS154A-D8]]
 	- [[ECS154A-02-27]]
-- Memory - [[ECS154A-L21]]
+- Memory - [[ECS154A-L22]]
 	- [[ECS154A-02-28]]
 
 ### Week 9 - Memory Management & Pipelining - Ch. 8

@@ -5,6 +5,10 @@ tags:
   - Collection
 ---
 
+
+> [!tip] The following Dataview query won't render with Quartz, [[#Pages|Jump to Pages]] instead
+
+
 ## Choose topic/number to include
 - `Entry-Number as "\#",`
 - `topic as "Topic",`
@@ -49,5 +53,5 @@ Small summary
 
 
 
-### Create pages below
+### Pages
 ---
