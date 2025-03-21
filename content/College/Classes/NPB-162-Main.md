@@ -70,9 +70,10 @@ description includes BHVR
 
 ### Week 10 - Spatial Navigation in Rats II & TBD
 - Spatial Navigation in Rats II (Carew, Ch12; Ch 13. P311-313) - [[NPB162-L17]]
-- TBD - [[NPB162-L18]]
+- Olfaction - [[NPB162-L18]]
 
 [[NPB162-Journal-5]]
+[[NPB162-Final-Prep]]
 
 
 

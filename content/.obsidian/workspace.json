@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "234df378b33681df",
+        "id": "38255709c3f35377",
         "type": "tabs",
         "children": [
           {
-            "id": "159314d7f804bcbf",
+            "id": "7a96814c02fb5cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-154A-Main.md",
+                "file": "College/Classes/NPB-162-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-154A-Main"
+              "title": "NPB-162-Main"
             }
           },
           {
-            "id": "662e04c6053cf4f5",
+            "id": "7cea865b0659ec2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS154A-L6.md",
+                "file": "College/Classes/NPB162-L5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS154A-L6"
+              "title": "NPB162-L5"
             }
           },
           {
-            "id": "0b3f43ea04d9ee61",
+            "id": "a8812fb621b6e20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS154A-D2.md",
+                "file": "College/Classes/NPB162-Final-Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS154A-D2"
-            }
-          },
-          {
-            "id": "a757e8a9023b0d2e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ECS154A-D2 2025-03-20 09.41.33.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ECS154A-D2 2025-03-20 09.41.33.excalidraw"
-            }
-          },
-          {
-            "id": "f0f72cb0b64a95c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS154A-Final-Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS154A-Final-Prep"
-            }
-          },
-          {
-            "id": "e8ee67979aa501c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw"
+              "title": "NPB162-Final-Prep"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"write through\"",
+                "query": "hazard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -720,37 +672,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e04c6053cf4f5",
+  "active": "a8812fb621b6e20f",
   "lastOpenFiles": [
-    "Excalidraw/ECS154A-D2 2025-03-20 09.41.33.excalidraw.md",
-    "College/Classes/ECS154A-D2.md",
-    "Excalidraw/ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw.md",
-    "College/Classes/ECS154A-Final-Prep.md",
-    "Excalidraw/ECS154A-Final-Prep 2025-03-15 02.40.43.excalidraw.md",
-    "College/Classes/ECS154A-L6.md",
-    "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
+    "Coding/Projects.md",
+    "College/Classes/NPB162-Final-Prep.md",
+    "College/Classes/NPB162-Midterm2-Prep.md",
+    "College/Classes/NPB-162-Main.md",
+    "College/Classes/NPB162-L7.md",
+    "College/Classes/NPB162-L5.md",
+    "College/_College.md",
+    "College/Talks/NeuroFest-10th-Anniversary.md",
     "College/Classes/ECS-154A-Main.md",
-    "College/Classes/ECS154A-L23.md",
-    "College/Classes/ECS154A-L24.md",
-    "College/Classes/ECS154A-Assessment1-Prep.md",
-    "College/Classes/ECS154A-L5.md",
-    "Brain/_Brain.md",
-    "College/Classes/LIN-175-Main.md",
-    "College/Classes/LIN175-D7.md",
-    "College/Classes/LIN175-Midterm3-Prep.md",
-    "College/Classes/LIN175-Midterm2-Prep.md",
-    "College/Classes/LIN175-D9.md",
-    "College/Classes/LIN175-D10.md",
+    "College/Classes/ECS154A-L6.md",
     "College/Classes/ECS154A-L28.md",
-    "Excalidraw/ECS154A-L28 2025-03-18 22.13.32.excalidraw.md",
+    "College/Classes/Pipelining.md",
+    "College/Classes/ECS154A-Assessment2-Prep.md",
+    "College/Classes/ECS154A-Assessment3-Prep.md",
+    "College/Classes/ECS154A-Final-Prep.md",
     "Excalidraw/ECS154A-Final-Prep 2025-03-15 20.20.33.excalidraw.md",
+    "College/Classes/ECS154A-Assessment1-Prep.md",
+    "College/Classes/ECS154A-L25.md",
+    "Excalidraw/ECS154A-L28 2025-03-18 22.13.32.excalidraw.md",
+    "Excalidraw/ECS154A-L28 2025-03-18 22.04.25.excalidraw.md",
+    "College/Classes/ECS154A-L23.md",
+    "Excalidraw/ECS154A-L23 2025-03-19 21.27.38.excalidraw.md",
+    "Excalidraw/ECS154A-L23 2025-03-19 21.38.10.excalidraw.md",
+    "College/Classes/ECS154A-D2.md",
+    "Excalidraw/ECS154A-D2 2025-03-20 09.41.33.excalidraw.md",
+    "Excalidraw/ECS154A-Final-Prep 2025-03-15 16.38.47.excalidraw.md",
+    "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Attachments/ECS154A-L23-Board2.png",
     "Attachments/ECS154A-L23-Board1.png",
-    "Excalidraw/ECS154A-L23 2025-03-19 21.27.38.excalidraw.md",
-    "College/Classes/ECS154A-L22.md",
-    "College/Classes/ECS154A-D8.md",
-    "College/Classes/Cache.md",
-    "College/Classes/ECS154A-L21.md",
     "Attachments/Set-Associative-Cache-lllustration.png",
     "Attachments/ECS154A-L22-Board1.png",
     "Attachments/ECS154A-L28-Example.png",

@@ -39,6 +39,9 @@ From scratch NN with Go
 - CNN? 
 - Shallow NN? 
 - Visualizations?
+- ASCII Art? Somehow have a CNN quickly learn your favorite pixel to ascii/emoji mappings and apply it to picture->ascii translation?
+	- https://stackoverflow.com/questions/394882/how-do-ascii-art-image-conversion-algorithms-work
+	- https://nips2017creativity.github.io/doc/ASCII_Art_Synthesis.pdf
 
 Fun Daily Game:
 - generate a random adjective and noun, search Google images and pull the first result. Then have players guess the prompt words

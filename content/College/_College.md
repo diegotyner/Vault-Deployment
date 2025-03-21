@@ -23,6 +23,25 @@ aliases:
 [[Clubs]]
 [[Office-Hours]]
 
+
+### Courses that could be interesting to go back and note take for
+| Yes      | Maybe   | Leaning No |
+| -------- | ------- | ---------- |
+| CGS 1    | BIS 2A  | ECS 20     |
+| ECN 1A   | MAT 22A | PSC 103A   |
+| ECS 36B  | MAT 107 |            |
+| ECS 36C  |         |            |
+| LIN 1Y   |         |            |
+| LIN 177  |         |            |
+| NPB 100  |         |            |
+| PHI 13   |         |            |
+| PHY 9A   |         |            |
+| PSC 1Y   |         |            |
+| PSC 100Y |         |            |
+| PSC 130  |         |            |
+- Run them all through the [[Course-Content-Vectorizer]]
+
+
 ## 🔗 -> Links
 ### Academic Tools
 - [Oasis Planner](https://oasis.ucdavis.edu/forms/academicplan/?draftId=801691&sv=true)
