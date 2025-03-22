@@ -8,6 +8,10 @@ aliases:
   - CMN152V
 ---
 
+
+> [!note] This was a very light class for me, it was mostly an intro to coding for non majors. It was fun, but not serious enough for me to take notes. Reach out if you want any materials, I have the jupyter notebooks saved.
+
+
 # 📗 -> Social Science with Online Data
 ```tasks
 short mode

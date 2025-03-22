@@ -4,6 +4,7 @@ tags:
 aliases: []
 ---
 
+
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
@@ -47,6 +48,11 @@ Fun Daily Game:
 - generate a random adjective and noun, search Google images and pull the first result. Then have players guess the prompt words
 - give guesses a similarity score (vector) To each word
 
+Canvas downloader tool
+
+Audiobook download and stream app
+
+Algorithm to neural network compiler
 
 ### Just fun to think about
 [[Blocks-World]]
