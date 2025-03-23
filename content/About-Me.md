@@ -12,7 +12,7 @@ Check back in with me later, maybe I'll have a cooler [[Portfolio|website]] to s
 Right now, I'm working as a web developer for the Forage lab on campus, and I'm working as a PM for [[Neurotech|Davis Neurotech]], leading a project on EEG inference of eyewitness testimony.
 
 On top of that, I have a couple [[Projects|projects]] that I want to work on:  
-- A machine learning program to recommend songs - [[Song-Recommender]]  
+- A machine learning program to recommend songs - [[Music-Recommender]]  
 - A [[Transplantable-SNN|transplantable neural network]], where you train neural networks separately then combine them together later.  
 - An android app: Minimalist Phone. I'd love to cut back on screen time, and the official app is paid only. Will try to make myself soon.
 - I want to learn [[Astro]], maybe I'll try making a [[Notion-Blog]]?

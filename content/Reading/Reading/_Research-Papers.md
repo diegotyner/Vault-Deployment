@@ -16,6 +16,11 @@ tags:
 - [[Computational-Rationality]]
 
 ## To Read:
+### Recommendations:
+- [Human cerebral organoids - tool for research](https://www.nature.com/articles/s41582-022-00723-9)
+- [Neurovascular crosstalk and cerebrovascular alterations: an underestimated therapeutic target in autism spectrum disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC10491023/)
+- [BEAR Lab Publications](https://www.bearlaboratory.com/publications)
+
 ### ML:
 - [Dimensionality Reduction on Audio Signals](https://ceur-ws.org/Vol-2718/paper04.pdf)
 - [A Neural Probabilistic Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)

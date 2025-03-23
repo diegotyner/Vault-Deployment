@@ -4,19 +4,22 @@ tags:
 aliases: []
 ---
 
-
+### Dataview
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
 
 
+### Finished
+Quartz
+Obsidian Plugin
 
 ### Ongoing
 [[Risego]]
 [[Portfolio]]
 [[YT-Playlist]]
 [[ChatGPT-Summarizer]]
-[[Song-Recommender]]
+[[Music-Recommender]]
 [[Handwriting-Recognition]]
 
 
@@ -24,6 +27,9 @@ list from [[]] and !outgoing([[]])
 [[NBA-Analytics-Website]]
 [[Course-Content-Vectorizer]]
 [[Obsidian-LLM-Integration]]
+- Or maybe not an LLM, but a crawler that will go and make you review and clean up notes? IE
+	- Crawls notes and looks for notes that dont have "reviewed: true" yaml tag. Allow customization, specifying regex or tags for file names you want to review, like "~= m/ECS" or something to that effect 
+	- Go run the crawler once a week, and review the notes. Forces you to go through lectures for the week for example. Force me to fill in the "Refresh the info" section 
 [[Note-Bumper]]
 [[Calendar-Merger]]
 [[Transplantable-SNN]]

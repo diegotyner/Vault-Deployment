@@ -32,6 +32,9 @@ Some old notes: [Brain Doc](https://docs.google.com/document/d/1cb6ALEfRYf-rtFlw
 [[Neuroreceptors]]
 [[Hormones]]
 
+### Layers
+Six Layers of Cortex
+
 
 ## Brain Structure:
 ### Lobes
@@ -40,6 +43,7 @@ Some old notes: [Brain Doc](https://docs.google.com/document/d/1cb6ALEfRYf-rtFlw
 [[Parietal-Lobe]]
 [[Occipital-Lobe]]
 [[Cerebral-Cortex]]
+[[Cerebral-Subcortex]]
 
 ### Regions
 [[Gross-Anatomy]]

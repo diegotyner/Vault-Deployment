@@ -26,6 +26,8 @@ Ideas:
 - Link together similar pages?
 - Semantic search my vault? 
 
+New idea for scheme? A 
+
 
 
 ### Official

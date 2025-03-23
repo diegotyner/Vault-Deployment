@@ -24,7 +24,7 @@ Quick tips before you get started:
 
 
 **My Favorite:** [[College-Talks#Talk Pages|College-Talks]]
-😺😸 [[About-Me]] 😸😺
+[[About-Me]] 
 
 
 ### Studies

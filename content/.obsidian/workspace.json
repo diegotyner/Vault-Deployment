@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a96814c02fb5cdb",
+            "id": "d64db2349fbb6bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB-162-Main.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB-162-Main"
+              "title": "index"
+            }
+          },
+          {
+            "id": "893f7d32da2ef8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hazard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -555,6 +580,26 @@
             "id": "11b38c8f6730259f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "be70596ce80d7ced",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f5e8a5f4a7c77851",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -562,7 +607,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 43
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -623,12 +668,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a96814c02fb5cdb",
+  "active": "893f7d32da2ef8df",
   "lastOpenFiles": [
-    "College/Classes/NPB162-Final-Prep.md",
-    "College/Classes/NPB-162-Main.md",
+    "Reading/Reading/_Research-Papers.md",
+    "Coding/Music-Recommender.md",
+    "Coding/Music-Recommender-Code-Snippets.md",
+    "Coding/Music-Recommender-Plans.md",
+    "Coding/ChatGPT-Summarizer.md",
     "Coding/Projects.md",
-    "Coding/Song-Recommender.md",
+    "Brain/_Brain.md",
+    "Coding/Course-Content-Vectorizer.md",
+    "Coding/Obsidian-LLM-Integration.md",
+    "index.md",
+    "Reading/Reading.md",
+    "College/Classes/PSC134-Final-Prep.md",
+    "Home.md",
+    "Scratch/Obsidian-Themes.md",
+    "College/Classes/NPB-162-Main.md",
+    "College/Classes/NPB162-Final-Prep.md",
     "Coding/Music-Recommender-Resources.md",
     "College/_College.md",
     "College/Winter-Quarter-2025.md",
@@ -639,18 +696,6 @@
     "College/Classes/NPB162-L5.md",
     "College/Classes/NPB162-Midterm2-Prep.md",
     "College/Classes/NPB162-L7.md",
-    "College/Talks/NeuroFest-10th-Anniversary.md",
-    "College/Classes/ECS-154A-Main.md",
-    "College/Classes/ECS154A-L6.md",
-    "College/Classes/ECS154A-L28.md",
-    "College/Classes/Pipelining.md",
-    "College/Classes/ECS154A-Assessment2-Prep.md",
-    "College/Classes/ECS154A-Assessment3-Prep.md",
-    "College/Classes/ECS154A-Final-Prep.md",
-    "Excalidraw/ECS154A-Final-Prep 2025-03-15 20.20.33.excalidraw.md",
-    "College/Classes/ECS154A-Assessment1-Prep.md",
-    "College/Classes/ECS154A-L25.md",
-    "Excalidraw/ECS154A-L28 2025-03-18 22.13.32.excalidraw.md",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Attachments/ECS154A-L23-Board2.png",
     "Attachments/ECS154A-L23-Board1.png",

@@ -1,9 +1,0 @@
-{
-  "jsFiles": "",
-  "jsFolder": "js",
-  "startupScriptNames": [],
-  "registeredInvocableScriptNames": [
-    "MoveToNewLine"
-  ],
-  "rerunStartupScriptsOnFileChange": false
-}
