@@ -32,10 +32,10 @@ Lorem Ipsum
 
 
 ## 📄 Class Material
-### Unit 1 - Lorem Ipsum
+### Week 1 - Lorem Ipsum
 - [Sub page]
 
-### Unit 2 - Lorem Ipsum
+### Week 2 - Lorem Ipsum
 - [Sub page]
 
 

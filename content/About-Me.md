@@ -9,7 +9,7 @@ I'm **Diego Tyner**, a third year student at UC Davis double majoring in *Comput
 
 Check back in with me later, maybe I'll have a cooler [[Portfolio|website]] to show off!
 ### What am I working on? 🤔
-Right now, I'm working as a web developer for the Forage lab on campus, and I'm working as a PM for [[Neurotech|Davis Neurotech]], leading a project on EEG inference of eyewitness testimony.
+Right now, I'm working as a web developer for the Alfalfa Forage lab on campus, and I'm working as a PM for [[Neurotech|Davis Neurotech]], leading a project on EEG inference of eyewitness testimony.
 
 On top of that, I have a couple [[Projects|projects]] that I want to work on:  
 - A machine learning program to recommend songs - [[Music-Recommender]]  

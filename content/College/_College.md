@@ -16,6 +16,7 @@ aliases:
 ### Classes
 - [[Fall-Quarter-2024]]
 - [[Winter-Quarter-2025]]
+- [[Spring-Quarter-2025]]
 
 
 ### Other

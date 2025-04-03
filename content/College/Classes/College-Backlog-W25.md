@@ -24,12 +24,12 @@ kanban-plugin: board
 
 ## Catch Up
 
-- [ ] BINF - Review the math at end of 3/4 lecture. #t #class
 
 
 ## Caught Up
 
 **Complete**
+- [x] BINF - Review the math at end of 3/4 lecture. #t #class ✅ 2025-03-31
 
 
 

@@ -27,6 +27,5 @@ Another hypothesis for what could be driving the cause of differences in gender,
 
 ---
 
-
-
+I also shared the hypothesis that one of the driving forces for what artists get referenced could be a connection between them based on experiences or backgrounds, leading to similarities in artists that reference and get referenced. I hadn't previously considered factoring in qualitative data in the form of interviews to get a better understanding of the artists reasoning behind their choice in reference. The data obtained by a survey of this would likely give a great background for understanding the causes for an artist getting referenced.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "College/_College.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_College"
             }
           },
           {
-            "id": "893f7d32da2ef8df",
+            "id": "59a1fc3b7525ad45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Projects.md",
+                "file": "College/NPB163-L1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "NPB163-L1"
+            }
+          },
+          {
+            "id": "2b8a423821e0db7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Plant-Science-People.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plant-Science-People"
+            }
+          },
+          {
+            "id": "954fe21fb2c8a7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Spring-Quarter-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Spring-Quarter-2025"
+            }
+          },
+          {
+            "id": "b0206811fed7e2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/ECS189G-L2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ECS189G-L2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "align",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -600,6 +672,46 @@
             "id": "f5e8a5f4a7c77851",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "852dd889117a9bf8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2dce5f9184a69b0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8a1233769753c834",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a4c7d1bcc56e902a",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -607,7 +719,7 @@
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 47
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -668,46 +780,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "893f7d32da2ef8df",
+  "active": "b0206811fed7e2d5",
   "lastOpenFiles": [
-    "Reading/Reading/_Research-Papers.md",
-    "Coding/Music-Recommender.md",
-    "Coding/Music-Recommender-Code-Snippets.md",
-    "Coding/Music-Recommender-Plans.md",
-    "Coding/ChatGPT-Summarizer.md",
-    "Coding/Projects.md",
-    "Brain/_Brain.md",
-    "Coding/Course-Content-Vectorizer.md",
-    "Coding/Obsidian-LLM-Integration.md",
-    "index.md",
-    "Reading/Reading.md",
-    "College/Classes/PSC134-Final-Prep.md",
-    "Home.md",
-    "Scratch/Obsidian-Themes.md",
+    "College/Spring-Quarter-2025.md",
+    "College/ECS-189G-Main.md",
+    "Work/Plant-Science-People.md",
+    "College/ECS189G-L2.md",
+    "College/ECS189G-L1.md",
+    "College/NPB-163-Main.md",
+    "College/NPB163-L1.md",
+    "College/NPB163-L2.md",
+    "Attachments/Hemdynamic-Response-Function.png",
+    "Attachments/MEG-Diagram-Image.png",
+    "Attachments/Pasted image 20250402143048.png",
+    "Attachments/Neuron-Activation-Dipole.png",
     "College/Classes/NPB-162-Main.md",
-    "College/Classes/NPB162-Final-Prep.md",
-    "Coding/Music-Recommender-Resources.md",
+    "College/ECS-170-Main.md",
+    "College/ECS170-L2.md",
+    "Work/Broken-Links.md",
+    "Work/Plant-Science-Work.md",
     "College/_College.md",
+    "College/NPB-173-Main.md",
+    "College/NPB173-L1.md",
+    "College/ECS170-L1.md",
+    "College/PSC120-L1.md",
+    "College/PSC-120-Main.md",
+    "Reading/Reading/_Research-Papers.md",
+    "College/Classes/College-Backlog-W25.md",
+    "College/College-Backlog-S25.md",
+    "Templates/Course-Organizer.md",
+    "Attachments/Optical-Imaging-Diagram.png",
+    "Attachments/Pasted image 20250331150259.png",
+    "Attachments/Electrodes-with-Multiple-Contacts.png",
+    "Attachments/Neuroscience-at-Various-Levels.png",
     "College/Winter-Quarter-2025.md",
-    "College/Classes/ECS-124-Main.md",
-    "College/Classes/ECS124-Final-Prep.md",
+    "index.md",
     "College/Classes/CMN-152V-Main.md",
-    "College/Classes/LIN-175-Main.md",
-    "College/Classes/NPB162-L5.md",
-    "College/Classes/NPB162-Midterm2-Prep.md",
-    "College/Classes/NPB162-L7.md",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Attachments/ECS154A-L23-Board2.png",
     "Attachments/ECS154A-L23-Board1.png",
-    "Attachments/Set-Associative-Cache-lllustration.png",
-    "Attachments/ECS154A-L22-Board1.png",
-    "Attachments/ECS154A-L28-Example.png",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
-    "Attachments/ECS154A-L26-Board1.png",
-    "Attachments/ECS154A-L26-Board2.png",
-    "Attachments/CMOS-Not-Gate.png",
-    "Attachments/UPGMA-Tree-Example.png",
-    "Attachments/Viterbi-Algorithm-Example.png",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
     "Excalidraw/PDF-Annotation/ECS 124 Final Prep.pdf",
     "Excalidraw/PDF-Annotation/ARCH-Assessment3.pdf",

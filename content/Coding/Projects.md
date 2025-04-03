@@ -57,10 +57,13 @@ Fun Daily Game:
 Canvas downloader tool
 
 Audiobook download and stream app
+- maybe just audio editor?
 
 Algorithm to neural network compiler
 
+SJC Airport effect? "Clockclock24"
+
 ### Just fun to think about
 [[Blocks-World]]
-[[Notion-Blog]] - This one could be fun, but the time to benefit ratio is kind of awful.
+[[Notion-Blog]] - This one could be fun, but the time to benefit ratio is kind of awful. Notion exists lol. 
 [[Embedded-Project]]

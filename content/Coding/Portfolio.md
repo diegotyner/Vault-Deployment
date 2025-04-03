@@ -5,6 +5,14 @@ tags:
   - Project
 ---
 
+At the moment im hosting my personal website as this quartz deployment.
+Notes for that:
+- Light theming as cajal/golgi staining inspired
+	- Parchment base: FCF5E5
+	- Coral pink / red highlights: F88379
+- Dark theming as immunoflorouerscence inspired
+
+---
 ### Published:
 > WARNING: Do not look at deployment. It is bad atm.
 
