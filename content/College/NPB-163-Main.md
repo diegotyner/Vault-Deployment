@@ -4,16 +4,16 @@ created:
 tags:
   - Classes/Organizer
 aliases:
+  - SYS
+  - Systems Neuroscience
 ---
 
-# 📗 -> Class name
-### Add class name and short code  as alias
-### Add code as alias to see to dos
+# 📗 -> Systems Neuroscience: SYS
 ```tasks
 short mode
 not done
 tags include #class
-description includes foo
+description includes SYS
 ```
 ---
 ## 🔗 Critical Links
@@ -47,7 +47,7 @@ Instructor: Xiaomo Chen xmch@ucdavis.edu
 
 
 ### Unit 2 - Lorem Ipsum
-- [Sub page]
+- [[NPB163-L3]]
 
 
 

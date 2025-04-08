@@ -61,7 +61,7 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 - [[ECS189G-L2]]
 
 ### Week 2 - Lorem Ipsum
-- [Sub page]
+- [[ECS189G-L4]]
 
 
 

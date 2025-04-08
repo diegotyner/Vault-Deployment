@@ -54,10 +54,11 @@ No textbook is required, and below are the recommended books to read:
 ### Unit 1 - 
 03/31	Class/AI Intro - [[ECS170-L1]]
 04/02	Intelligent Agents - [[ECS170-L2]]			
-04/04	Search			
-
+04/03	Discussion: - [[ECS170-D1]]
+04/04	Search - [[ECS170-L3]]
+- *fill out, missed the lecture*
 ### Unit 2 - 
-04/07	Uniformed Search			
+04/07	Uniformed Search - [[ECS170-L4]]			
 04/09	Informed Search		
 - *HW 1 Release*	
 04/11	Games and Adversarial Search			

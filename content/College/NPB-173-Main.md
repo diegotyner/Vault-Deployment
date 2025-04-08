@@ -45,7 +45,7 @@ Readings: Background reading assignments will come from chapters in the book Neu
 ## 📄 Class Material
 ### Week 1
 Introduction - [[NPB173-L1]]
-Spinal cord injury  
+Spinal cord injury - [[NPB173-L2]]
 ### Week 2
 Cerebrovascular Disease – Stroke  
 Localized brain damage  

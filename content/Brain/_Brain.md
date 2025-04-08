@@ -37,13 +37,15 @@ Six Layers of Cortex
 
 
 ## Brain Structure:
-### Lobes
+### Major Regions (lobes, etc.)
 [[Frontal-Lobe]]
 [[Temporal-Lobe]]
 [[Parietal-Lobe]]
 [[Occipital-Lobe]]
 [[Cerebral-Cortex]]
 [[Cerebral-Subcortex]]
+[[Brainstem]]
+[[Spinal-Cord]]
 
 ### Regions
 [[Gross-Anatomy]]

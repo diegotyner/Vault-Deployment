@@ -69,6 +69,7 @@ aliases:
 [AISC YT](https://www.youtube.com/@aiscdavis/videos) 
 [ERP Boot Camp Online](https://erpinfo.org/the-erp-boot-camp)
 [UCD Datalab Github](https://github.com/orgs/ucdavisdatalab/repositories)
+[UCLA ML NLP](https://uclanlp.github.io/CS269-17/overview)
 
 ![[College-Talks#🔗 -> Event Postings / Resources]]
 
