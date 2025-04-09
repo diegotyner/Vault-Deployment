@@ -126,9 +126,57 @@
               "icon": "lucide-file",
               "title": "ECS170-L3"
             }
+          },
+          {
+            "id": "6b9c4eef1b49e67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/NPB-163-Main.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NPB-163-Main"
+            }
+          },
+          {
+            "id": "42320851ba092a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/NPB163-L4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NPB163-L4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -727,9 +775,29 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "6d7e954862337685",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "027017ef857072d2",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 50
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -790,9 +858,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "560423d41030c3e4",
+  "active": "6b9c4eef1b49e67a",
   "lastOpenFiles": [
+    "College/NPB163-L1.md",
+    "College/NPB-163-Main.md",
+    "College/NPB163-L4.md",
+    "College/ECS170-L3.md",
+    "College/ECS-170-Main.md",
+    "College/ECS170-L2.md",
+    "College/ECS170-L5.md",
+    "College/ECS170-L4.md",
     "College/ECS-189G-Main.md",
+    "Coding/Course-Content-Vectorizer.md",
     "College/ECS189G-L4.md",
     "College/Talks/Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks.md",
     "College/Classes/ECS132-L16.md",
@@ -801,17 +878,12 @@
     "College/Classes/ECS124-Final-Prep.md",
     "College/Classes/ECS124-L13.md",
     "Attachments/Linear-Regression-Learning-Slide.png",
-    "College/NPB-163-Main.md",
     "Work/Plant-Science-People.md",
-    "College/ECS-170-Main.md",
     "College/NPB163-L3.md",
     "Attachments/Information-Transmission-Correlation-Coefficient.png",
     "Attachments/Noise-Correlation-Neural-Codes.png",
-    "College/NPB163-L1.md",
     "College/NPB163-L2.md",
     "College/Classes/NPB-162-Main.md",
-    "College/ECS170-L3.md",
-    "College/ECS170-L4.md",
     "Attachments/Tree-Search-Graph-Search-Algorithms.png",
     "College/NPB173-L2.md",
     "College/_College.md",
@@ -819,15 +891,11 @@
     "College/ECS170-D1.md",
     "College/Spring-Quarter-2025.md",
     "College/NPB-173-Main.md",
-    "Brain/_Brain.md",
     "Attachments/Pasted image 20250403100447.png",
     "Attachments/Spinal-Cord-Pathways.png",
     "Attachments/Segmental-Structure-of-the-Spinal-Cord.png",
     "Attachments/Major-Neuroanatomy-Diagram.png",
     "Attachments/Major-Divisions-of-the-CNS.png",
-    "College/ECS189G-L2.md",
-    "College/ECS189G-L1.md",
-    "College/ECS170-L2.md",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",

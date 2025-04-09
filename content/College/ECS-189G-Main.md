@@ -53,7 +53,7 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 - Recommended references:
 	- [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm), 1st edition, by Charu Aggarwal. Springer, 2018.
 	- [Neural Networks and Learning Machines](https://www.amazon.com/Neural-Networks-Learning-Machines-3rd/dp/0131471392/ref=sr_1_2?crid=1STNUTDOCZWE5&keywords=Neural+Networks+and+Learning+Machines&qid=1641151437&sprefix=%2Caps%2C408&sr=8-2), 3rd edition, by Simon S. Haykin. Pearson, 2008.
-
+- [matrixcookbook.pdf](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 ## 📄 Class Material
 ### Week 1 - Lorem Ipsum

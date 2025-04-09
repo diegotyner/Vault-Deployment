@@ -41,13 +41,14 @@ Instructor: Xiaomo Chen xmch@ucdavis.edu
 
 
 ## 📄 Class Material
-### Unit 1 - Lorem Ipsum
-- [[NPB163-L1]]
-- [[NPB163-L2]]
+### Unit 1 - Intro to Recording Techniques
+- Invasive Techniques - [[NPB163-L1]]
+- Noninvasive Techniques - [[NPB163-L2]]
 
 
-### Unit 2 - Lorem Ipsum
-- [[NPB163-L3]]
+### Unit 2 - Neural Codes
+- Neural Codes - [[NPB163-L3]]
+- Neural Codes - [[NPB163-L4]]
 
 
 

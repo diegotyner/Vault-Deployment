@@ -59,7 +59,7 @@ No textbook is required, and below are the recommended books to read:
 - *fill out, missed the lecture*
 ### Unit 2 - 
 04/07	Uniformed Search - [[ECS170-L4]]			
-04/09	Informed Search		
+04/09	Informed Search - [[ECS170-L5]]		
 - *HW 1 Release*	
 04/11	Games and Adversarial Search			
 
