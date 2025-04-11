@@ -87,14 +87,20 @@ Guaranteed to converge in a finite number of iterations:
 - FP: False Positive
 - TN: True Negative
 
+
+|                 | Predicted Positive | Predicted Negative |
+| --------------- | ------------------ | ------------------ |
+| Actual Positive | *TP*               | *FN*               |
+| Actual Negative | *FP*               | *TN*               |
+
 *Classification Evaluation Metrics*
 - Accuracy: $\frac{TP+TN}{TP+FN+FP+TN}$
 - Precision: $\frac{TP}{TP+FP}$. 
 	- True positive rate, how often is a Positive correct?
-	- To get 1, you could predict everything Negative
+	- To get 1, *only predict positive when you're absolutely sure*
 - Recall: $\frac{TP}{TP+FN}$
 	- Rate of identified positives, FN is one you let by.
-	- Can get 1 by predicting everything Positive
+	- Can get 1 by *predicting everything Positive*
 - F$\beta$: $F\beta = (1+\beta^2) \cdot \frac{\text{Precision} \cdot \text{Recall}}{\beta^2 \cdot \text{Precision} + \text{Recall}}$
 	- F1 score frequently used
 	- "It's _an "average" between precision and recall_ that penalizes very large skew between the two and rewards a good balance between them."

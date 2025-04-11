@@ -27,6 +27,7 @@ description includes DLN
 An Introduction to Deep Learning and Neural Networks for Senior Undergraduate and Graduate Students in Computer Science.
 
 ### Topics
+![[Topics-Covered-ECS189G.png]]
 - Background Introduction
 	- ML, NN
 	- Optimization, Tuning
@@ -59,9 +60,12 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 ### Week 1 - Lorem Ipsum
 - [[ECS189G-L1]]
 - [[ECS189G-L2]]
+- [[ECS189G-L3]]
+	- Deeper into SVMs
 
 ### Week 2 - Lorem Ipsum
 - [[ECS189G-L4]]
+- [[ECS189G-L5]]
 
 
 

@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "59a1fc3b7525ad45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/NPB163-L1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NPB163-L1"
-            }
-          },
-          {
             "id": "2b8a423821e0db7e",
             "type": "leaf",
             "state": {
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "ed08b0c117bd7363",
+            "id": "60abe3a229da9571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/NPB163-L3.md",
+                "file": "College/Classes/ECS-170-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,83 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-L3"
-            }
-          },
-          {
-            "id": "560423d41030c3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/ECS170-L3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS170-L3"
-            }
-          },
-          {
-            "id": "6b9c4eef1b49e67a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/NPB-163-Main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NPB-163-Main"
-            }
-          },
-          {
-            "id": "42320851ba092a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/NPB163-L4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NPB163-L4"
+              "title": "ECS-170-Main"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K-means",
+                "query": "Poisson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,13 +145,11 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -790,6 +692,26 @@
             "id": "027017ef857072d2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a01689fa8d5b7f47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e682766c58581b8c",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -797,7 +719,7 @@
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 52
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -858,44 +780,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b9c4eef1b49e67a",
+  "active": "4c2f6288dce7812a",
   "lastOpenFiles": [
-    "College/NPB163-L1.md",
-    "College/NPB-163-Main.md",
-    "College/NPB163-L4.md",
-    "College/ECS170-L3.md",
-    "College/ECS-170-Main.md",
-    "College/ECS170-L2.md",
-    "College/ECS170-L5.md",
-    "College/ECS170-L4.md",
-    "College/ECS-189G-Main.md",
-    "Coding/Course-Content-Vectorizer.md",
-    "College/ECS189G-L4.md",
-    "College/Talks/Toward-A-Taxonomy-Of-Large-Scale-Brain-Networks.md",
-    "College/Classes/ECS132-L16.md",
-    "College/Classes/ECS124-L16.md",
-    "College/Classes/ECS124-L1.md",
-    "College/Classes/ECS124-Final-Prep.md",
-    "College/Classes/ECS124-L13.md",
-    "Attachments/Linear-Regression-Learning-Slide.png",
+    "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB-173-Main.md",
+    "College/Classes/PSC120-L1.md",
+    "College/Classes/ECS170-L6.md",
+    "College/Classes/ECS170-L5.md",
+    "College/Classes/ECS-170-Main.md",
+    "Attachments/Comparisons-of-Uninformed-Search-Algorithms.png",
+    "College/Clubs/Witness-Reading.md",
+    "College/Clubs/EEG-Recording-Protocol.md",
+    "College/Clubs/Analysis-of-Eyewitness-Testimony-Using-Electroencephalogram-Signals.md",
+    "College/Clubs/NT-Project.md",
+    "College/Clubs/Neurotech.md",
     "Work/Plant-Science-People.md",
-    "College/NPB163-L3.md",
+    "College/Classes/NPB163-L3.md",
+    "College/Classes/ECS170-L3.md",
+    "College/_College.md",
+    "College/Classes/NPB163-L1.md",
+    "College/Classes/ECS-189G-Main.md",
+    "College/Classes/ECS189G-L4.md",
+    "College/Classes/ECS189G-L5.md",
+    "Attachments/Topics-Covered-ECS189G.png",
+    "College/Classes/ECS189G-L1.md",
+    "Attachments/Clustering-Evaluation-Metrics.png",
+    "Excalidraw/ECS189G-L4 2025-04-09 18.11.59.excalidraw.md",
+    "College/Classes/NPB163-L4.md",
+    "Excalidraw/NPB163-L4 2025-04-09 15.23.08.excalidraw.md",
+    "Attachments/Place-Code-vs-Value-Code.png",
+    "College/Classes/ECS132-HW3.md",
+    "College/Classes/ECS132-L16.md",
+    "College/Classes/ECS170-L2.md",
+    "Attachments/Linear-Regression-Learning-Slide.png",
     "Attachments/Information-Transmission-Correlation-Coefficient.png",
     "Attachments/Noise-Correlation-Neural-Codes.png",
-    "College/NPB163-L2.md",
-    "College/Classes/NPB-162-Main.md",
     "Attachments/Tree-Search-Graph-Search-Algorithms.png",
-    "College/NPB173-L2.md",
-    "College/_College.md",
     "Attachments/Major-Spinal-Nerve-Pathways.png",
-    "College/ECS170-D1.md",
-    "College/Spring-Quarter-2025.md",
-    "College/NPB-173-Main.md",
     "Attachments/Pasted image 20250403100447.png",
-    "Attachments/Spinal-Cord-Pathways.png",
-    "Attachments/Segmental-Structure-of-the-Spinal-Cord.png",
-    "Attachments/Major-Neuroanatomy-Diagram.png",
-    "Attachments/Major-Divisions-of-the-CNS.png",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
