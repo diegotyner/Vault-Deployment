@@ -51,20 +51,20 @@ No textbook is required, and below are the recommended books to read:
 - Speech and Language Processing, 3rd Ed. Jurafsky & Martin. [available online](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## 📄 Class Material
-### Unit 1 - 
+### Week 1 - Agents 
 03/31	Class/AI Intro - [[ECS170-L1]]
 04/02	Intelligent Agents - [[ECS170-L2]]			
 04/03	Discussion: - [[ECS170-D1]]
 04/04	Search - [[ECS170-L3]]
 - *fill out, missed the lecture*
-### Unit 2 - 
+### Week 2 - Search
 04/07	Uniformed Search - [[ECS170-L4]]			
 04/09	Informed Search - [[ECS170-L5]]		
 - *HW 1 Release*	
 04/11	Informed Search - [[ECS170-L6]]			
 
 ### Unit 
-04/14	Games and Adversarial Search			
+04/14	Games and Adversarial Search - [[ECS170-L7]]	
 04/16				
 04/18	
 

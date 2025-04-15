@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-170-Main.md",
+                "file": "College/Classes/NPB-163-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-170-Main"
+              "title": "NPB-163-Main"
             }
           }
         ],
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -712,6 +713,16 @@
             "id": "e682766c58581b8c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6e41c177fdc3da22",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -719,7 +730,7 @@
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -780,14 +791,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c2f6288dce7812a",
+  "active": "60abe3a229da9571",
   "lastOpenFiles": [
+    "Coding/Course-Content-Vectorizer.md",
     "College/Classes/NPB-163-Main.md",
+    "Coding/Projects.md",
+    "College/Classes/NPB163-L5.md",
+    "Attachments/Chromatic-Organization-Ganglion-Receptive-Fields.png",
+    "Attachments/Sustained-Cells-Transient-Cells.png",
+    "Attachments/Retina-Local-Processing-Center-Surround-Receptive-Fields.png",
+    "Attachments/Pasted image 20250414151529.png",
+    "College/Classes/NPB163-L4.md",
+    "College/Classes/ECS-170-Main.md",
+    "College/Classes/ECS170-L6.md",
+    "Scratch/Pirate.md",
+    "College/Classes/ECS189G-L5.md",
     "College/Classes/NPB-173-Main.md",
     "College/Classes/PSC120-L1.md",
-    "College/Classes/ECS170-L6.md",
     "College/Classes/ECS170-L5.md",
-    "College/Classes/ECS-170-Main.md",
     "Attachments/Comparisons-of-Uninformed-Search-Algorithms.png",
     "College/Clubs/Witness-Reading.md",
     "College/Clubs/EEG-Recording-Protocol.md",
@@ -801,23 +822,13 @@
     "College/Classes/NPB163-L1.md",
     "College/Classes/ECS-189G-Main.md",
     "College/Classes/ECS189G-L4.md",
-    "College/Classes/ECS189G-L5.md",
     "Attachments/Topics-Covered-ECS189G.png",
     "College/Classes/ECS189G-L1.md",
     "Attachments/Clustering-Evaluation-Metrics.png",
     "Excalidraw/ECS189G-L4 2025-04-09 18.11.59.excalidraw.md",
-    "College/Classes/NPB163-L4.md",
-    "Excalidraw/NPB163-L4 2025-04-09 15.23.08.excalidraw.md",
     "Attachments/Place-Code-vs-Value-Code.png",
-    "College/Classes/ECS132-HW3.md",
-    "College/Classes/ECS132-L16.md",
-    "College/Classes/ECS170-L2.md",
     "Attachments/Linear-Regression-Learning-Slide.png",
     "Attachments/Information-Transmission-Correlation-Coefficient.png",
-    "Attachments/Noise-Correlation-Neural-Codes.png",
-    "Attachments/Tree-Search-Graph-Search-Algorithms.png",
-    "Attachments/Major-Spinal-Nerve-Pathways.png",
-    "Attachments/Pasted image 20250403100447.png",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
