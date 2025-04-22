@@ -52,6 +52,7 @@ Instructor: Xiaomo Chen xmch@ucdavis.edu
 
 ### Unit 3 - Sensory Systems
 - Finish Neural Codes / Sensory Systems 1 - [[NPB163-L5]]
-
-### Unit 3 - Sensory Systems
-
+- Sensory Systems 1 - [[NPB163-L6]]
+	- didnt do, focused on data preprocessing for nt
+### Unit 4 - Sensory Systems
+- Sensory Systems 1 - [[NPB163-L7]]

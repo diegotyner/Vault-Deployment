@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:Tasks  ",
+      "query": "path:Reading",
       "color": {
         "a": 1,
         "rgb": 15348806
@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "path:Attachments  ",
+      "query": "path:Excalidraw ",
       "color": {
         "a": 1,
         "rgb": 5066061
@@ -95,6 +95,6 @@
   "repelStrength": 5,
   "linkStrength": 0.496979166666667,
   "linkDistance": 103,
-  "scale": 0.46428286404534796,
-  "close": true
+  "scale": 0.3196645656591222,
+  "close": false
 }

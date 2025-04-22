@@ -1,7 +1,9 @@
 
 
+Toothbrush
+Lemons
+
 
 Basketball
 Laundry:
-- Balls
-- Spritz/Perfume
+- 

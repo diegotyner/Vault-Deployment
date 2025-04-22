@@ -70,6 +70,7 @@ aliases:
 [ERP Boot Camp Online](https://erpinfo.org/the-erp-boot-camp)
 [UCD Datalab Github](https://github.com/orgs/ucdavisdatalab/repositories)
 [UCLA ML NLP](https://uclanlp.github.io/CS269-17/overview)
+[Intro to Neural Data Science Course](https://github.com/neural-data-science/NESC_3505_textbook)
 
 ![[College-Talks#🔗 -> Event Postings / Resources]]
 

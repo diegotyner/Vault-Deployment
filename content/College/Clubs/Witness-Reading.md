@@ -60,6 +60,8 @@ We now have a [Notion Page](https://www.notion.so/dhruvsangamwar/NeuroCrime-Reso
 ![[Witness-Face-Study-Design.png|400]]
 
 
+![[Witness-Reading 2025-04-15 11.17.00.excalidraw]]
+
 ## ✒️ -> Reading Notes
 ### Analysis of eyewitness testimony using electroencephalogram signals
 #### Design

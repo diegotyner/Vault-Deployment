@@ -35,5 +35,6 @@
     "editor:configure-toolbar"
   ],
   "showInlineTitle": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "vimMode": false
 }

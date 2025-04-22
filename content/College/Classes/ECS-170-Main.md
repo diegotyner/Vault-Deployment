@@ -65,8 +65,8 @@ No textbook is required, and below are the recommended books to read:
 
 ### Unit 
 04/14	Games and Adversarial Search - [[ECS170-L7]]	
-04/16				
-04/18	
+04/16	Games and Adversarial Search - [[ECS170-L8]]
+04/18	Non-Classical Search - [[ECS170-L9]]
 
 
 ---

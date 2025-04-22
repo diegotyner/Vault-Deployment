@@ -55,18 +55,26 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 	- [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm), 1st edition, by Charu Aggarwal. Springer, 2018.
 	- [Neural Networks and Learning Machines](https://www.amazon.com/Neural-Networks-Learning-Machines-3rd/dp/0131471392/ref=sr_1_2?crid=1STNUTDOCZWE5&keywords=Neural+Networks+and+Learning+Machines&qid=1641151437&sprefix=%2Caps%2C408&sr=8-2), 3rd edition, by Simon S. Haykin. Pearson, 2008.
 - [matrixcookbook.pdf](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&t=85864s&ab_channel=freeCodeCamp.org)
 
 ## 📄 Class Material
-### Week 1 - Lorem Ipsum
+### Week 1 -Class Intro / Intro ML
 - [[ECS189G-L1]]
 - [[ECS189G-L2]]
 - [[ECS189G-L3]]
 	- Deeper into SVMs
 
-### Week 2 - Lorem Ipsum
+### Week 2 - Intro ML
 - [[ECS189G-L4]]
 - [[ECS189G-L5]]
+- [[ECS189G-L6]]
 
+### Unit 3 - Optimization and Deep Learning Intro
+- [[ECS189G-L7]]
+- [[ECS189G-L8]]
+- [[ECS189G-L9]]
 
+### Unit 4 - Auto-Encoders
+- [[ECS189G-L10]]
 
 

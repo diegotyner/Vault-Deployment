@@ -30,6 +30,7 @@ Obsidian Plugin
 - Or maybe not an LLM, but a crawler that will go and make you review and clean up notes? IE
 	- Crawls notes and looks for notes that dont have "reviewed: true" yaml tag. Allow customization, specifying regex or tags for file names you want to review, like "~= m/ECS" or something to that effect 
 	- Go run the crawler once a week, and review the notes. Forces you to go through lectures for the week for example. Force me to fill in the "Refresh the info" section 
+- [Agentic Systems for Obsidian](https://chatgpt.com/c/6804df7f-0284-8007-bea0-f88211fd4696)
 [[Note-Bumper]]
 [[Calendar-Merger]]
 [[Transplantable-SNN]]

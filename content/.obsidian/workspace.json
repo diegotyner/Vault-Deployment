@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "60abe3a229da9571",
+            "id": "fbe8e44877f37dfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB-163-Main.md",
+                "file": "College/Classes/NPB-173-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB-163-Main"
+              "title": "NPB-173-Main"
+            }
+          },
+          {
+            "id": "95c9eb35ca0ad6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/NPB173-L6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NPB173-L6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Poisson",
+                "query": "what pathways",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +169,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -723,6 +748,136 @@
             "id": "6e41c177fdc3da22",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4cc0074f261cb1ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d95e5dc7cf181223",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e9f8514978addc97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a2cd5b0cb938d7c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bb528c8430308d9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b924cb24c30fc24d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2437548c10a8456f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "792763ec2f509eb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0befd0bed3b01e20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "432c43cba86c8e24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6585346ba32c1f18",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "12526b180ee5f171",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dd6ad11fa49b9e56",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -730,7 +885,7 @@
             }
           }
         ],
-        "currentTab": 53
+        "currentTab": 66
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -791,44 +946,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60abe3a229da9571",
+  "active": "95c9eb35ca0ad6be",
   "lastOpenFiles": [
-    "Coding/Course-Content-Vectorizer.md",
-    "College/Classes/NPB-163-Main.md",
-    "Coding/Projects.md",
-    "College/Classes/NPB163-L5.md",
-    "Attachments/Chromatic-Organization-Ganglion-Receptive-Fields.png",
-    "Attachments/Sustained-Cells-Transient-Cells.png",
-    "Attachments/Retina-Local-Processing-Center-Surround-Receptive-Fields.png",
-    "Attachments/Pasted image 20250414151529.png",
-    "College/Classes/NPB163-L4.md",
-    "College/Classes/ECS-170-Main.md",
-    "College/Classes/ECS170-L6.md",
-    "Scratch/Pirate.md",
-    "College/Classes/ECS189G-L5.md",
     "College/Classes/NPB-173-Main.md",
-    "College/Classes/PSC120-L1.md",
-    "College/Classes/ECS170-L5.md",
-    "Attachments/Comparisons-of-Uninformed-Search-Algorithms.png",
-    "College/Clubs/Witness-Reading.md",
-    "College/Clubs/EEG-Recording-Protocol.md",
-    "College/Clubs/Analysis-of-Eyewitness-Testimony-Using-Electroencephalogram-Signals.md",
-    "College/Clubs/NT-Project.md",
-    "College/Clubs/Neurotech.md",
-    "Work/Plant-Science-People.md",
-    "College/Classes/NPB163-L3.md",
-    "College/Classes/ECS170-L3.md",
-    "College/_College.md",
-    "College/Classes/NPB163-L1.md",
+    "College/Classes/NPB173-L6.md",
+    "College/Classes/NPB173-L5.md",
     "College/Classes/ECS-189G-Main.md",
-    "College/Classes/ECS189G-L4.md",
-    "Attachments/Topics-Covered-ECS189G.png",
-    "College/Classes/ECS189G-L1.md",
-    "Attachments/Clustering-Evaluation-Metrics.png",
-    "Excalidraw/ECS189G-L4 2025-04-09 18.11.59.excalidraw.md",
-    "Attachments/Place-Code-vs-Value-Code.png",
-    "Attachments/Linear-Regression-Learning-Slide.png",
-    "Attachments/Information-Transmission-Correlation-Coefficient.png",
+    "College/Classes/ECS189G-L10.md",
+    "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
+    "Attachments/Auto-Encoder-Model-Architecture.png",
+    "College/Classes/ECS189G-L0.md",
+    "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-L7.md",
+    "Attachments/Neural-Maps-In-V1.png",
+    "Work/Plant-Science-People.md",
+    "Coding/Projects.md",
+    "College/Classes/ECS189G-L9.md",
+    "Coding/Course-Content-Vectorizer.md",
+    "Templates/Course-Lecture.md",
+    "College/_College.md",
+    "College/Clubs/NT-Project.md",
+    "College/Classes/ECS-170-Main.md",
+    "College/Classes/ECS170-L9.md",
+    "College/Talks/College-Talks.md",
+    "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md",
+    "College/Clubs/Witness-Reading.md",
+    "College/Clubs/Analysis-of-Eyewitness-Testimony-Using-Electroencephalogram-Signals.md",
+    "Attachments/Pasted image 20250415184205.png",
+    "Attachments/Pasted image 20250415184201.png",
+    "Attachments/Pasted image 20250415184124.png",
+    "Attachments/Pasted image 20250415184118.png",
+    "Attachments/Pasted image 20250415184001.png",
+    "Attachments/Pasted image 20250415183926.png",
+    "Attachments/Pasted image 20250415183841.png",
+    "NTprojce.md",
+    "Excalidraw/Witness-Reading 2025-04-15 11.17.00.excalidraw.md",
+    "Scratch/Today.md",
+    "Templates/Programming-Language-Guide.md",
+    "Excalidraw/ECS154A-L21 2025-03-19 20.58.37.excalidraw.md",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",

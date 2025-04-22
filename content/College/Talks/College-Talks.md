@@ -62,7 +62,8 @@ A hub for all the college talks I attend
 - [[Towards-Planning-In-Creative-Contexts]]
 - [[NeuroFest-10th-Anniversary]]
 - [[Towards-Novel-Categorical-Embedding-for-Enhanced-Data-Representation]]
-- 
-- 
+- stats in notebook
+- stats in notebook
+- [[Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders]]
 - 
 

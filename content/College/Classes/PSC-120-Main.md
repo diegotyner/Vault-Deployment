@@ -50,6 +50,7 @@ description includes ABM
 
 ### Week 3
 - Aggregation Code Along Lab
+	- [[The-Emergence-of-Us-and-Them-in-80-Lines of Code]]
 - Aggregation Code Along Lab 2
 	- **Quiz 1**
 

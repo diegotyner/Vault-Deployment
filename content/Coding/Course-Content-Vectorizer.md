@@ -26,10 +26,14 @@ On top of that, I routinely have to catch up on a large batch of content! (skipp
 Brainstorming Deepseek Chat - [Link](https://chat.deepseek.com/a/chat/s/b9cfe872-3d54-4de4-add9-d10f60a6cebb)
 
 
+
 ### Official
 Its officially on the way! 
 - The scraping is live on the github, and the first attempt at semantic search is done now!
 
+#### End Goal
+A user friendly Taurus app!!
+That would be so cool
 
 ## 🧲 Published
 ### Deployment:

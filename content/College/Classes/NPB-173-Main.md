@@ -4,16 +4,16 @@ created:
 tags:
   - Classes/Organizer
 aliases:
+  - DSRD
+  - Neurobiology of Brain Disorders
 ---
 
-# 📗 -> Class name
-### Add class name and short code  as alias
-### Add code as alias to see to dos
+# 📗 -> Neurobiology of Brain Disorders
 ```tasks
 short mode
 not done
 tags include #class
-description includes foo
+description includes DSRD
 ```
 ---
 ## 🔗 Critical Links
@@ -47,12 +47,12 @@ Readings: Background reading assignments will come from chapters in the book Neu
 Introduction - [[NPB173-L1]]
 Spinal cord injury - [[NPB173-L2]]
 ### Week 2
-Cerebrovascular Disease – Stroke  
-Localized brain damage  
+Cerebrovascular Disease – Stroke - [[NPB173-L3]]
+Localized brain damage - [[NPB173-L4]]
 ### Week 3
-Epilepsy  
-Review and synthesis of concepts in Section 1
-
+Epilepsy - [[NPB173-L5]]
+Review and synthesis of concepts in Section 1 - [[NPB173-L6]]
+> - PREP FOR EXAM 1
 ### Week 4
 **EXAM #1**  
 Huntington Disease  

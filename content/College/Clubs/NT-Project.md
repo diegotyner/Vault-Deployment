@@ -15,14 +15,24 @@ list from [[]] and !outgoing([[]])
 
 
 [[Witness-Reading]]
-## 🧾 Project Description
-### Blurt
+
+This pretty much got moved to the Note above ^ 
 
 
-### Official
 
+Tried filtering 0.1-40, but saw small line noise at 60 still. Notched beforehand to remove.
 
-## 🎯 Objective
+|     | Raw                                  | Filtered                             |
+| --- | ------------------------------------ | ------------------------------------ |
+| P1  | ![[Pasted image 20250415181706.png]] | ![[Pasted image 20250415183139.png]] |
+| P2  | ![[Pasted image 20250415183836.png]] | ![[Pasted image 20250415183841.png]] |
+| P3  | ![[Pasted image 20250415183926.png]] | ![[Pasted image 20250415184001.png]] |
+| P4  | ![[Pasted image 20250415184118.png]] | ![[Pasted image 20250415184124.png]] |
+| P5  | ![[Pasted image 20250415184201.png]] | ![[Pasted image 20250415184205.png]] |
+Notes:
+P1) Note the odd orange, light green, and blue electrodes: T4, F4, Cz
+P2) Note that one channel doesn't properly attenuate?
+P3) Jesuuus, looks awful. Cz not properly on?
 
 
 
@@ -47,6 +57,6 @@ I'm going to be doing some research today.
 - [ML Techniques for EEG BCI](https://www.sciencedirect.com/science/article/pii/S2665917423001599)
 - [Medium article with resources](https://medium.com/@arishuynhvan/a-beginners-journey-to-eeg-bci-part-1-af885363e064)
 	- Check out the signal processing
-- [Intro to modern BCI Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)w
+- [Intro to modern BCI Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 
 

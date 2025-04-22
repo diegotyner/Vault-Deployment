@@ -41,6 +41,7 @@ tags:
 - [Predicting individual decision-making responses based on single-trial EEG](https://www.sciencedirect.com/science/article/pii/S1053811919309243)
 #### Behavior
 - [[Why-Male-Ground-Squirrels-Disperse]]
+- [[The-Emergence-of-Us-and-Them-in-80-Lines of Code]]
 #### Systems/Networks
 - [Network Neuroscience](https://www.nature.com/articles/nn.4502.pdf)
 

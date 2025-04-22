@@ -102,3 +102,6 @@ Default Mode -> Medial Frontoparietal Network (M-FPN)
 [[Beta-Band]]
 [[Gamma-Band]]
 [[ERP-Components]]
+
+
+## Recording techniques?
