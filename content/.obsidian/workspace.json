@@ -61,30 +61,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB-163-Main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NPB-163-Main"
-            }
-          },
-          {
-            "id": "1c37b67b937f936f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "College/Classes/NPB163-L8.md",
                 "mode": "source",
                 "source": false,
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -962,6 +938,16 @@
             "id": "6d78b9bfc89fa85a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c6d4daeed9233aa9",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -969,7 +955,7 @@
             }
           }
         ],
-        "currentTab": 72
+        "currentTab": 73
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1030,11 +1016,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c37b67b937f936f",
+  "active": "9e8bd9b437a7a407",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250425180735.png",
-    "College/Classes/NPB163-L8.md",
     "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-L8.md",
+    "Attachments/Pasted image 20250425180735.png",
     "College/Classes/NPB163-L4.md",
     "College/Classes/NPB163-Textbook.md",
     "Coding/Vim-Cheatsheet.md",
