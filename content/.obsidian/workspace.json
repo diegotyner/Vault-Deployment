@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "fbe8e44877f37dfb",
+            "id": "9e8bd9b437a7a407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB-173-Main.md",
+                "file": "College/Classes/NPB-163-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB-173-Main"
+              "title": "NPB-163-Main"
             }
           },
           {
-            "id": "95c9eb35ca0ad6be",
+            "id": "14ad417d3bdfe1bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB173-L6.md",
+                "file": "College/Classes/NPB163-Textbook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB173-L6"
+              "title": "NPB163-Textbook"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "what pathways",
+                "query": "precision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -878,6 +878,66 @@
             "id": "dd6ad11fa49b9e56",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1e36adaad3095d13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e6222015bdac6534",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "806b2e6264411437",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f084269d9eb17dc8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "244ae711d09014dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6d78b9bfc89fa85a",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -885,7 +945,7 @@
             }
           }
         ],
-        "currentTab": 66
+        "currentTab": 72
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -946,34 +1006,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95c9eb35ca0ad6be",
+  "active": "9e8bd9b437a7a407",
   "lastOpenFiles": [
-    "College/Classes/NPB-173-Main.md",
-    "College/Classes/NPB173-L1.md",
-    "College/Classes/NPB173-L6.md",
-    "Coding/ChatGPT-Prompts.md",
-    "College/Classes/NPB173-L5.md",
+    "College/Classes/NPB163-L4.md",
+    "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-Textbook.md",
+    "Coding/Vim-Cheatsheet.md",
+    "College/Classes/PSC-134-Main.md",
+    "College/Classes/PSC134-Textbook.md",
+    "College/Classes/CCN_Book_Ch09.md",
+    "College/Classes/CCN_Book_Ch08.md",
+    "College/Classes/CCN_Book_Ch07.md",
+    "College/Classes/CCN_Book_Ch06.md",
+    "College/Classes/CCN_Book_Ch05.md",
+    "College/Classes/CCN_Book_Ch04.md",
+    "College/Classes/CCN_Book_Ch03.md",
+    "College/Classes/CCN_Book_Ch02.md",
+    "College/Classes/CCN_Book_Ch01.md",
     "College/Classes/ECS-189G-Main.md",
-    "College/Classes/ECS189G-L10.md",
+    "Work/Plant-Science-People.md",
+    "Coding/_Coding.md",
+    "Coding/ML-Study/_ML-Study.md",
+    "index.md",
+    "Scratch/Today.md",
+    "Reading/Reading.md",
+    "College/_College.md",
+    "About-Me.md",
+    "College/Talks/College-Talks.md",
+    "Scratch/Obsidian-Themes.md",
     "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
     "Attachments/Auto-Encoder-Model-Architecture.png",
-    "College/Classes/ECS189G-L0.md",
-    "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-L7.md",
     "Attachments/Neural-Maps-In-V1.png",
-    "Work/Plant-Science-People.md",
-    "Coding/Projects.md",
-    "College/Classes/ECS189G-L9.md",
-    "Coding/Course-Content-Vectorizer.md",
-    "Templates/Course-Lecture.md",
-    "College/_College.md",
-    "College/Clubs/NT-Project.md",
-    "College/Classes/ECS-170-Main.md",
-    "College/Classes/ECS170-L9.md",
-    "College/Talks/College-Talks.md",
-    "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md",
-    "College/Clubs/Witness-Reading.md",
-    "College/Clubs/Analysis-of-Eyewitness-Testimony-Using-Electroencephalogram-Signals.md",
     "Attachments/Pasted image 20250415184205.png",
     "Attachments/Pasted image 20250415184201.png",
     "Attachments/Pasted image 20250415184124.png",
@@ -981,9 +1044,6 @@
     "Attachments/Pasted image 20250415184001.png",
     "Attachments/Pasted image 20250415183926.png",
     "Attachments/Pasted image 20250415183841.png",
-    "NTprojce.md",
-    "Excalidraw/Witness-Reading 2025-04-15 11.17.00.excalidraw.md",
-    "Scratch/Today.md",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",

@@ -57,6 +57,7 @@ description includes ABM
 ### Week 4
 - Lab 2: Freezing Aggregation
 - Lab 2: Freezing Aggregation 2
+[diegotyner/PSC120-Lab2](https://github.com/diegotyner/PSC120-Lab2)
 
 ### Week 5
 - **Exam 2 (open book)**

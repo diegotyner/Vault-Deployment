@@ -1,4 +1,11 @@
 ---
+created:
+  - " 04-07-2025 18:08"
+tags:
+  - Classes/Lecture
+aliases:
+---
+---
 tags:
   - Hub
 ---
@@ -12,12 +19,12 @@ tags:
 [[Projects]]
 
 ## Learning
-[[_ML-Study]]
+[[_ML-Study|Machine Learning]]
 [[Web-Dev]]
 [[Cyber-Security]]
 [[Databases]]
 [[Design]]
-
+[[Vim-Cheatsheet]]
 
 ## Continued Reading
 #### Web Dev

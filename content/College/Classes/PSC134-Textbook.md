@@ -4,6 +4,8 @@ created:
 tags:
   - Collection
   - Resource
+aliases:
+  - CCN Book Main
 ---
 
 ---
@@ -33,26 +35,17 @@ Reactions need to include:
 2) Specifics: specific reaction to one aspect of the reading
 > Did a specific aspect of the reading raise questions for you or relate to other ideas and findings you’ve encountered, or are there other related issues you wish had been covered?)
 
-## 📌 -> Themes
-- What ideas does the collection as a whole raise?
-
-## ✒️ -> Usage
-- How can you use the knowledge you are obtaining?
-
-## 🔗 -> Related Topics
-- Tie this to a few topics so you can come back to this later
-
 
 
 ### Create pages below
 ---
-[[CCN_Book_Ch1]]
-[[CCN_Book_Ch2]]
-[[CCN_Book_Ch3]]
-[[CCN_Book_Ch4]]
-[[CCN_Book_Ch5]]
-[[CCN_Book_Ch6]]
-[[CCN_Book_Ch7]]
-[[CCN_Book_Ch8]]
-[[CCN_Book_Ch9]]
+[[CCN_Book_Ch01]]
+[[CCN_Book_Ch02]]
+[[CCN_Book_Ch03]]
+[[CCN_Book_Ch04]]
+[[CCN_Book_Ch05]]
+[[CCN_Book_Ch06]]
+[[CCN_Book_Ch07]]
+[[CCN_Book_Ch08]]
+[[CCN_Book_Ch09]]
 [[CCN_Book_Ch10]]

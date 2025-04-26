@@ -69,12 +69,13 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 - [[ECS189G-L5]]
 - [[ECS189G-L6]]
 
-### Unit 3 - Optimization and Deep Learning Intro
+### Unit 3 - Optimization / ? / Deep Learning Intro
 - [[ECS189G-L7]]
 - [[ECS189G-L8]]
 - [[ECS189G-L9]]
 
-### Unit 4 - Auto-Encoders
+### Unit 4 - Auto-Encoders / CNN
 - [[ECS189G-L10]]
+- [[ECS189G-L11]]
 
 

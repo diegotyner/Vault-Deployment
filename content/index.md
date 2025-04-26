@@ -28,21 +28,21 @@ Quick tips before you get started:
 
 
 ### Studies
-[[_College]]
+[[_College|College]]
 [[Reading]]
 
 
 ### Self Study
-[[_Coding]]
-[[_Math]]
-[[_Brain]]
+[[_Coding|Coding]]
+[[_Math|Math]]
+[[_Brain|Brain]]
 > - Watch out for empty links!
 
 
 ### Quick Notes
- [[_Scratch]]
+ [[_Scratch|Scratch]]
 [[Today|Tasks]]
  
 ### Personal (hidden)
-[[_Work]]
+[[_Work|Work]]
 

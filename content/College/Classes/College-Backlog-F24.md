@@ -32,7 +32,7 @@ kanban-plugin: board
 ## Catch Up
 
 **Complete**
-- [x] CCN - Reach [[CCN_Book_Ch3|Ch. 3]] in depth #t #class ✅ 2024-12-15
+- [x] CCN - Reach [[CCN_Book_Ch03|Ch. 3]] in depth #t #class ✅ 2024-12-15
 - [x] ALL - Review the GPT Summaries #t #class ✅ 2024-12-15
 
 

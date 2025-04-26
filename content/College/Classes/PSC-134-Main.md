@@ -59,9 +59,9 @@ Alan Lu, Christian Nelson, and Alan Zheng
 
 - [[Preclass-survey]]
 ### Week 2 - Neurons
-- Neurons (Chapter 1) - [[CCN_Book_Ch1]]
+- Neurons (Chapter 1) - [[CCN_Book_Ch01]]
 	- [[PSC134-L2]]
-- Neurons (Chapter 2) - [[CCN_Book_Ch2]]
+- Neurons (Chapter 2) - [[CCN_Book_Ch02]]
 	- [[PSC134-L3]]
 - **Homework**: Chapter 2 due (Questions marked advanced (2.4 and 2.6) are optional)
 - [[PSC134-Lab2]]
@@ -69,7 +69,7 @@ Alan Lu, Christian Nelson, and Alan Zheng
 ### Week 3 - Networks
 - Networks
 	- [[PSC134-L4]]
-- Networks (Chapter 3) - [[CCN_Book_Ch3]]
+- Networks (Chapter 3) - [[CCN_Book_Ch03]]
 	- [[PSC134-L5]]
 - **Homework**: Chapter 3 due
 - [[PSC134-Lab3]]
@@ -82,7 +82,7 @@ Alan Lu, Christian Nelson, and Alan Zheng
 - [[PSC134-Lab4]]
 
 ### Week 5 - Learning / Brain Areas
-- Learning (Chapter 4) - [[CCN_Book_Ch4]]
+- Learning (Chapter 4) - [[CCN_Book_Ch04]]
 	- [[PSC134-L8]]
 - Brain Areas
 	- [[PSC134-L9]]
@@ -90,9 +90,9 @@ Alan Lu, Christian Nelson, and Alan Zheng
 - [[PSC134-Lab4]]
 
 ### Week 6 - Perception
-- Perception (Chapter 5) - [[CCN_Book_Ch5]]
+- Perception (Chapter 5) - [[CCN_Book_Ch05]]
 	- [[PSC134-L10]]
-- Perception (Chapter 6) - [[CCN_Book_Ch6]]
+- Perception (Chapter 6) - [[CCN_Book_Ch06]]
 	- [[PSC134-L11]]
 - **Homework**: Chapter 6 due
 - [[PSC134-Lab5]]
@@ -100,7 +100,7 @@ Alan Lu, Christian Nelson, and Alan Zheng
 ### Week 7 - Memory
 - Memory
 	- [[PSC134-L12]]
-- Memory (Chapter 7) [[CCN_Book_Ch7]]
+- Memory (Chapter 7) [[CCN_Book_Ch07]]
 	- [[PSC134-L13]]
 - **Homework**: Chapter 7 due
 - [[PSC134-Lab7]]
@@ -108,7 +108,7 @@ Alan Lu, Christian Nelson, and Alan Zheng
 ### Week 8 - Motor
 - Motor
 	- [[PSC134-L14]]
-- Motor (Chapter 8) - [[CCN_Book_Ch8]]
+- Motor (Chapter 8) - [[CCN_Book_Ch08]]
 	- [[PSC134-L15]]
 - **Homework**: Chapter 8 due
 - [[PSC134-Lab8]]
@@ -116,7 +116,7 @@ Alan Lu, Christian Nelson, and Alan Zheng
 ### Week 9 - Executive Function
 - Executive Function
 	- [[PSC134-L16]]
-- Executive Function (Chapter 9) - [[CCN_Book_Ch9]]
+- Executive Function (Chapter 9) - [[CCN_Book_Ch09]]
 	- [[PSC134-L17]]
 - **Homework**: Chapter 9 due - [[CCN_Book_Ch10]]
 - [[PSC134-Lab9]]

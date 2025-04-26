@@ -49,7 +49,7 @@ This is a broad category, as there are literally 100s of neurotransmitters. Some
 - Adrenaline / Noradrenaline
 
 
-![[CCN_Book_Ch4#Error Driven Learning]]
+![[CCN_Book_Ch04#Error Driven Learning]]
 
 ## 🌎 Location
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfv_3jfF-uoqyJ5FprgwHgnl4fY7RghgzLnZZTCQ3cJRvBBcAq6TDhoCEbNip_luCho0oRMIL-xmuFVPnYeqHeKKOqkHvPO1jAm7Y7QgmeoEPZhTrc7uhvMnCqzg1YuSzTwocwx9dXySilkKXZzTaBgC_4?key=dI-tU5hboEz87MSLxKoy0g)

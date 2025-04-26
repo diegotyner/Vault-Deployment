@@ -9,7 +9,7 @@ aliases:
 - [ ] Research White Matter Tracts
 - [ ] Research Brain Networks
 - [ ] Put in a section called visual processing, that lists all the sections of the visual network pipeline and what they do (V1, V2/V4, ...)
-- [ ] Finish filling in information from [[CCN_Book_Ch5]]. A lot of good info there.
+- [ ] Finish filling in information from [[CCN_Book_Ch05]]. A lot of good info there.
 - [ ] Create pages for each frequency band and their associations
 
 
