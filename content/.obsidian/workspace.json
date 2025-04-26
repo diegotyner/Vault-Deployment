@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "1c37b67b937f936f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/NPB163-L8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NPB163-L8"
+            }
+          },
+          {
             "id": "14ad417d3bdfe1bb",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -1006,10 +1030,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e8bd9b437a7a407",
+  "active": "1c37b67b937f936f",
   "lastOpenFiles": [
-    "College/Classes/NPB163-L4.md",
+    "Attachments/Pasted image 20250425180735.png",
+    "College/Classes/NPB163-L8.md",
     "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-L4.md",
     "College/Classes/NPB163-Textbook.md",
     "Coding/Vim-Cheatsheet.md",
     "College/Classes/PSC-134-Main.md",
@@ -1032,8 +1058,6 @@
     "Reading/Reading.md",
     "College/_College.md",
     "About-Me.md",
-    "College/Talks/College-Talks.md",
-    "Scratch/Obsidian-Themes.md",
     "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
     "Attachments/Auto-Encoder-Model-Architecture.png",
     "Attachments/Neural-Maps-In-V1.png",
@@ -1043,7 +1067,6 @@
     "Attachments/Pasted image 20250415184118.png",
     "Attachments/Pasted image 20250415184001.png",
     "Attachments/Pasted image 20250415183926.png",
-    "Attachments/Pasted image 20250415183841.png",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
