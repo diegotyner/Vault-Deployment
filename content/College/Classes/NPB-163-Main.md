@@ -23,7 +23,6 @@ description includes SYS
 > Registrar:
 > Concepts and techniques in systems neuroscience: e.g., measuring and manipulating neural activity, structure of neocortex, sensory processing, motor control, storage of information, neural codes, neural mechanisms underlying cognitive functions
 
-
 ### Course goals:
 Develop an understanding for
 - what systems neuroscience is, what kind of scientific questions are being asked, and what experimental techniques are used to address these questions.
@@ -32,7 +31,6 @@ Develop an understanding for
 - the relationship between structure and function of different parts of the brain (neocortex, basal ganglia, cerebellum).
 - neural mechanisms that support the short-term and long-term storage of information.
 - neural mechanisms underlying cognitive control and other cognitive functions (e.g., attention, sensorimotor integration, decision-making)
-
 
 ## ❗ Important
 ### Instructor: 

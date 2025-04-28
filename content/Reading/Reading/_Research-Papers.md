@@ -30,6 +30,8 @@ tags:
 - Kolmogorov-Arnold Networks
 - BERT
 - [Neural Architecture Search (NAS)](https://arxiv.org/abs/2006.04647)
+- [Decoupled Weight Decay Regularization](https://arxiv.org/pdf/1711.05101)
+
 
 ### AI
 - [Neural Systems and Machine Learning Lab](https://bouchardlab.lbl.gov/)

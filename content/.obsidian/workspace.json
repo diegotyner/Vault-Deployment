@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB163-L8.md",
+                "file": "College/Classes/NPB-163-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-L8"
+              "title": "NPB-163-Main"
             }
           },
           {
-            "id": "14ad417d3bdfe1bb",
+            "id": "8e6d1c8e66e8867c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB163-Textbook.md",
+                "file": "College/Classes/NPB163-L5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-Textbook"
+              "title": "NPB163-L5"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -948,6 +948,56 @@
             "id": "c6d4daeed9233aa9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5303bd41386ed982",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dbe32c75fd649248",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e2d7ea324068d664",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c2476ff9da37f936",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bfbada5bd1eabc0f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -955,7 +1005,7 @@
             }
           }
         ],
-        "currentTab": 73
+        "currentTab": 78
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1016,13 +1066,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e8bd9b437a7a407",
+  "active": "8e6d1c8e66e8867c",
   "lastOpenFiles": [
     "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-L5.md",
     "College/Classes/NPB163-L8.md",
+    "Work/Plant-Science-People.md",
+    "College/_College.md",
+    "4913",
+    "Untitled.md",
+    "College/Classes/NPB163-Textbook.md",
+    "Reading/Reading/_Research-Papers.md",
     "Attachments/Pasted image 20250425180735.png",
     "College/Classes/NPB163-L4.md",
-    "College/Classes/NPB163-Textbook.md",
     "Coding/Vim-Cheatsheet.md",
     "College/Classes/PSC-134-Main.md",
     "College/Classes/PSC134-Textbook.md",
@@ -1036,14 +1092,10 @@
     "College/Classes/CCN_Book_Ch02.md",
     "College/Classes/CCN_Book_Ch01.md",
     "College/Classes/ECS-189G-Main.md",
-    "Work/Plant-Science-People.md",
     "Coding/_Coding.md",
     "Coding/ML-Study/_ML-Study.md",
     "index.md",
     "Scratch/Today.md",
-    "Reading/Reading.md",
-    "College/_College.md",
-    "About-Me.md",
     "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
     "Attachments/Auto-Encoder-Model-Architecture.png",
     "Attachments/Neural-Maps-In-V1.png",
@@ -1062,7 +1114,6 @@
     "Excalidraw/PDF-Annotation/ARCH-W25-Review",
     "Excalidraw/PDF-Annotation/ECS 154A WI25 Final Review Copy.pdf",
     "Excalidraw/PDF-Annotation/assessment3.f24.txt.pdf",
-    "Excalidraw/PDF-Annotation/assessment2.f24.pdf",
     "Untitled.canvas"
   ]
 }
