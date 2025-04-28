@@ -7,7 +7,6 @@
 "nmap <C-u> <C-u>zz
 "nmap <C-d> <C-d>zz
 
-
 " Clear Search Highlight
 nmap <Esc> :nohl<CR>
 

@@ -80,6 +80,12 @@
         "Alt"
       ],
       "key": "ArrowDown"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
     }
   ],
   "editor:swap-line-up": [
@@ -88,6 +94,12 @@
         "Alt"
       ],
       "key": "ArrowUp"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
     }
   ],
   "editor:toggle-checklist-status": [],

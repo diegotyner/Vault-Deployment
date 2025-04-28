@@ -998,6 +998,36 @@
             "id": "bfbada5bd1eabc0f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "37b15cde748dc456",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e6792e6b4576e960",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ed86010520a5cf54",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -1005,7 +1035,7 @@
             }
           }
         ],
-        "currentTab": 78
+        "currentTab": 81
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1068,12 +1098,13 @@
   },
   "active": "8e6d1c8e66e8867c",
   "lastOpenFiles": [
+    "College/Spring-Quarter-2025.md",
     "College/Classes/NPB-163-Main.md",
+    "4913",
     "College/Classes/NPB163-L5.md",
     "College/Classes/NPB163-L8.md",
     "Work/Plant-Science-People.md",
     "College/_College.md",
-    "4913",
     "Untitled.md",
     "College/Classes/NPB163-Textbook.md",
     "Reading/Reading/_Research-Papers.md",
@@ -1094,8 +1125,6 @@
     "College/Classes/ECS-189G-Main.md",
     "Coding/_Coding.md",
     "Coding/ML-Study/_ML-Study.md",
-    "index.md",
-    "Scratch/Today.md",
     "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
     "Attachments/Auto-Encoder-Model-Architecture.png",
     "Attachments/Neural-Maps-In-V1.png",

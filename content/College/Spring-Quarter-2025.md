@@ -10,10 +10,10 @@ tags:
 
 
 # 📗 -> Courses taken in Winter 2025
-- [[ECS-170-Main]]
+- [[PSC-120-Main]]
 - [[NPB-163-Main]]
 - [[NPB-173-Main]]
-- [[PSC-120-Main]]
+- [[ECS-170-Main]]
 - [[ECS-189G-Main]]
 
 
