@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "8e6d1c8e66e8867c",
+            "id": "85ca780e95f8f5b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB163-L5.md",
+                "file": "College/Classes/NPB163-L6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-L5"
+              "title": "NPB163-L6"
+            }
+          },
+          {
+            "id": "8e074b9e82162dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/NPB163-L7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NPB163-L7"
+            }
+          },
+          {
+            "id": "f360867df1d500e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Confused_Cat.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Confused_Cat"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1096,12 +1132,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e6d1c8e66e8867c",
+  "active": "f360867df1d500e8",
   "lastOpenFiles": [
-    "College/Spring-Quarter-2025.md",
+    "College/Classes/NPB163-L6.md",
+    "College/Classes/NPB163-L7.md",
     "College/Classes/NPB-163-Main.md",
-    "4913",
     "College/Classes/NPB163-L5.md",
+    "College/Spring-Quarter-2025.md",
+    "4913",
     "College/Classes/NPB163-L8.md",
     "Work/Plant-Science-People.md",
     "College/_College.md",
@@ -1124,7 +1162,6 @@
     "College/Classes/CCN_Book_Ch01.md",
     "College/Classes/ECS-189G-Main.md",
     "Coding/_Coding.md",
-    "Coding/ML-Study/_ML-Study.md",
     "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
     "Attachments/Auto-Encoder-Model-Architecture.png",
     "Attachments/Neural-Maps-In-V1.png",

@@ -8,7 +8,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
   return (
     <article class="popover-hint">
-      <img src="./Attachments/Confused_Cat.jpg" width="400" height="auto" alt="Confused_Cat|400"></img>    
+      <img src="/Attachments/Confused_Cat.jpg" width="400" height="auto" alt="Confused_Cat|400"></img>
       <h1>404</h1>
       <p>Quick tip: You can preview where a link will take you by hovering it!</p>
       <p>{i18n(cfg.locale).pages.error.notFound}</p>
