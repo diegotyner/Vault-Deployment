@@ -65,5 +65,6 @@ A hub for all the college talks I attend
 - stats in notebook
 - stats in notebook
 - [[Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders]]
-- 
+- [[2025-California-Neurotechnology-Conference]]
+
 

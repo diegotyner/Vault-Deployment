@@ -14,10 +14,27 @@ list from [[]] and !outgoing([[]])
 ---
 
 
+> [!tip] This project is done as I envisioned it. 
+> I have my current iteration hosted here: [diegotyner/CanvasResourceSemanticSearch](https://github.com/diegotyner/CanvasResourceSemanticSearch)
+> However, I want to do better with processing, and make it more general so that I can throw in research papers and the like.
+> To that end, I'll be continuing on here: [[Text-Extractor-Database]]
 
 
+## 🧲 Published
+### GitHub:
+- [diegotyner/CanvasResourceSemanticSearch](https://github.com/diegotyner/CanvasResourceSemanticSearch)
+On the github, I explain the technical implementation and technologies used more in depth through the readme. 
+I use:
+- Selenium
+- Requests
+- Postgres
+- Transformers
+Check the github for a more rigorous summary of how I went about it, or reach out to chat!
+
+I might pick it up to do something fun, like a UMAP on course transcripts
 
 ## 🧾 Project Description
+
 ### Blurt
 This project will center around RAG and word vectorization. I'm very interested about working it in to analyze large chunks of text, especially to get insight from them. This could be expanded to a number of domains, like potentially the symposium proceedings? We'll see!
 
@@ -25,21 +42,9 @@ On top of that, I routinely have to catch up on a large batch of content! (skipp
 
 Brainstorming Deepseek Chat - [Link](https://chat.deepseek.com/a/chat/s/b9cfe872-3d54-4de4-add9-d10f60a6cebb)
 
-
-
-### Official
 Its officially on the way! 
 - The scraping is live on the github, and the first attempt at semantic search is done now!
 
-#### End Goal
-A user friendly Taurus app!!
-That would be so cool
-
-## 🧲 Published
-### Deployment:
-- 
-### GitHub:
-- [diegotyner/CanvasResourceSemanticSearch](https://github.com/diegotyner/CanvasResourceSemanticSearch)
 
 ## 🎯 Objective
 

@@ -55,9 +55,9 @@ Review and synthesis of concepts in Section 1 - [[NPB173-L6]]
 > - PREP FOR EXAM 1
 ### Week 4
 **EXAM #1**  
-Huntington Disease  
+Huntington Disease - [[NPB173-L7]]  
 ### Week 5
-Parkinson Disease  
+Parkinson Disease - [[NPB173-L8]]
 Alzheimer Disease and other dementias
 ### Week 6
 Amyotrophic Lateral Sclerosis  

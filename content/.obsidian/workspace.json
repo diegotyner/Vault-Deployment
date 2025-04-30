@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d64db2349fbb6bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/_College.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_College"
-            }
-          },
-          {
-            "id": "2b8a423821e0db7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Plant-Science-People.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Plant-Science-People"
-            }
-          },
-          {
-            "id": "9e8bd9b437a7a407",
+            "id": "4d40257c3ef94244",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +32,7 @@
             }
           },
           {
-            "id": "85ca780e95f8f5b5",
+            "id": "880d2bebec56373c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,12 +56,12 @@
             }
           },
           {
-            "id": "8e074b9e82162dcd",
+            "id": "1e34b8a257b603af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB163-L7.md",
+                "file": "College/Classes/NPB163-MT1-Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,23 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-L7"
+              "title": "NPB163-MT1-Prep"
             }
           },
           {
-            "id": "f360867df1d500e8",
+            "id": "8c3ddde9f1456db1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Confused_Cat.jpg"
+                "file": "College/Classes/NPB163-Problem-Set-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Confused_Cat"
+              "icon": "lucide-file",
+              "title": "NPB163-Problem-Set-3"
+            }
+          },
+          {
+            "id": "e48e4ddf8d4fd849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Talks/2025-California-Neurotechnology-Conference.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-California-Neurotechnology-Conference"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precision",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1064,6 +1052,26 @@
             "id": "ed86010520a5cf54",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c8c382edad59aca7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0dde952ceaf45584",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -1071,7 +1079,7 @@
             }
           }
         ],
-        "currentTab": 81
+        "currentTab": 83
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1132,45 +1140,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f360867df1d500e8",
+  "active": "e48e4ddf8d4fd849",
   "lastOpenFiles": [
+    "Brain/_Brain.md",
+    "College/Talks/2025-California-Neurotechnology-Conference.md",
+    "Attachments/CA-NT-25-BCI-SSVEP-Alpha-Classifiers.jpg",
+    "Attachments/CA-NT-25-BCI-NT-Davis-Filtering.jpg",
+    "Attachments/CA-NT-25-BCI-Hyper-Dimensional-Computing.jpg",
+    "Attachments/CA-NT-25-BCI-Ideal-Brain-Interface.jpg",
+    "Attachments/CA-NT-25-BCI-Focused-Ultrasound-Neuromodulation.jpg",
+    "Attachments/CA-NT-25-BCI-Brain-State-Control-Discovery.jpg",
+    "Attachments/CA-NT-25-BCI-Brain-State-Control-Data.jpg",
+    "Attachments/CA-NT-25-BCI-Closed-Loop-Control.jpg",
+    "Attachments/CA-NT-25-BCI-Medtronic-Adaptive-DBS.jpg",
+    "Attachments/CA-NT-25-BCI-ADAPT-PD-Study.jpg",
+    "College/Classes/NPB163-Problem-Set-3.md",
+    "College/Talks/College-Talks.md",
     "College/Classes/NPB163-L6.md",
-    "College/Classes/NPB163-L7.md",
     "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-L5.md",
-    "College/Spring-Quarter-2025.md",
-    "4913",
-    "College/Classes/NPB163-L8.md",
-    "Work/Plant-Science-People.md",
-    "College/_College.md",
-    "Untitled.md",
-    "College/Classes/NPB163-Textbook.md",
+    "College/Classes/NPB163-MT1-Prep.md",
+    "College/Classes/NPB163-L1.md",
     "Reading/Reading/_Research-Papers.md",
-    "Attachments/Pasted image 20250425180735.png",
+    "College/Classes/NPB163-Problem-Set-2.md",
+    "College/_College.md",
+    "College/Spring-Quarter-2025.md",
+    "College/Classes/NPB163-L3.md",
     "College/Classes/NPB163-L4.md",
-    "Coding/Vim-Cheatsheet.md",
-    "College/Classes/PSC-134-Main.md",
-    "College/Classes/PSC134-Textbook.md",
-    "College/Classes/CCN_Book_Ch09.md",
-    "College/Classes/CCN_Book_Ch08.md",
-    "College/Classes/CCN_Book_Ch07.md",
-    "College/Classes/CCN_Book_Ch06.md",
-    "College/Classes/CCN_Book_Ch05.md",
-    "College/Classes/CCN_Book_Ch04.md",
-    "College/Classes/CCN_Book_Ch03.md",
-    "College/Classes/CCN_Book_Ch02.md",
-    "College/Classes/CCN_Book_Ch01.md",
-    "College/Classes/ECS-189G-Main.md",
-    "Coding/_Coding.md",
-    "Attachments/Image-Style-Transfer-With-Auto-Encoder-Architecture.png",
-    "Attachments/Auto-Encoder-Model-Architecture.png",
-    "Attachments/Neural-Maps-In-V1.png",
-    "Attachments/Pasted image 20250415184205.png",
-    "Attachments/Pasted image 20250415184201.png",
-    "Attachments/Pasted image 20250415184124.png",
-    "Attachments/Pasted image 20250415184118.png",
-    "Attachments/Pasted image 20250415184001.png",
-    "Attachments/Pasted image 20250415183926.png",
+    "College/Classes/NPB163-L5.md",
+    "College/Classes/NPB163-Problem-Set-1.md",
+    "College/Winter-Quarter-2025.md",
+    "College/Classes/NPB287A-L1.md",
+    "College/Classes/NPB163-L2.md",
+    "Work/_Work.md",
+    "Work/Plant-Science-People.md",
+    "Work/IRL-Researcher-App.md",
+    "College/Classes/NPB-173-Main.md",
+    "College/Classes/NPB173-L8.md",
+    "Brain/Neurotransmitters.md",
+    "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",

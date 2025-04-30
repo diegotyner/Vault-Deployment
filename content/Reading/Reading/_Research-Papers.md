@@ -19,6 +19,8 @@ tags:
 ### Recommendations:
 - [Human cerebral organoids - tool for research](https://www.nature.com/articles/s41582-022-00723-9)
 - [Neurovascular crosstalk and cerebrovascular alterations: an underestimated therapeutic target in autism spectrum disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC10491023/)
+- [Ditterich Researchgate](https://www.researchgate.net/scientific-contributions/Jochen-Ditterich-7859190)
+
 - [BEAR Lab Publications](https://www.bearlaboratory.com/publications)
 - [Evolutionary Machine Learning: A Survey](https://dl.acm.org/doi/fullHtml/10.1145/3467477)
 

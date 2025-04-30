@@ -25,9 +25,9 @@ The objective is to steep my toes into the realm of AI, and really learn how stu
 
 
 ### 🗣️ Blurt
-This is the most intense project on my plate, and I really want to get started on something in this realm. It remains to be seen how this end up. My biggest inspiration is the [[Neural Factors]] talk that Mark Churchland gave. 
+This is the most intense project on my plate, and I really want to get started on something in this realm. It remains to be seen how this end up. My biggest inspiration is the [[Churchland-Centrality-of-Factors]] talk that Mark Churchland gave. 
 
-
+Algorithm to neural network compiler?
 
 ### 🏢 Existing
 

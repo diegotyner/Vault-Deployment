@@ -77,5 +77,7 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 ### Unit 4 - Auto-Encoders / CNN
 - [[ECS189G-L10]]
 - [[ECS189G-L11]]
+- [[ECS189G-L12]]
 
-
+### Unit 5 - GAN
+- [[ECS189G-L13]]

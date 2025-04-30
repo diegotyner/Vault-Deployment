@@ -39,8 +39,7 @@ tags:
 [[Production-Checklist]]
 [[ChatGPT-Prompts]]
 [[Python-Packages]]
-[[Cpp-Cheatsheet]]
-^ copy from notion
+[[Coding-Languages-Cheatsheets]]
 
-- [StatQuest Trailer, 2019](https://www.youtube.com/@statquest)
+[StatQuest Trailer, 2019](https://www.youtube.com/@statquest)
 

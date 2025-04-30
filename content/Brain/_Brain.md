@@ -77,6 +77,15 @@ Add Brodmann's?
 - Grey/White matter graphs
 - Timeline of ages with milestones / age markers (first words, walking etc.)
 
+### Disorders
+[[Autism]]
+[[Parkinsons-Disease]]
+[[Huntingtons-Disease]]
+[[Alzheimers-Disease]]
+[[Epilepsy]]
+[[Multiple-Sclerosis]]
+[[Amyotrophic-Lateral-Sclerosis]]
+
 
 ## Brain Networks / Pathways
 [[Default-Mode-Network]]

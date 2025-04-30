@@ -1,12 +1,9 @@
 ---
 created:
   - " 30-08-2024 19:39"
-aliases:
-  - Brain Areas
+aliases: 
 tags:
-  - BrainArea
   - Brain
-  - Hub
 ---
 ## Dataview:
 ```dataview
@@ -36,3 +33,5 @@ list from [[]] and !outgoing([[]])
 
 
 ![[PSC134-L9#Brain Anatomy Images]]
+
+

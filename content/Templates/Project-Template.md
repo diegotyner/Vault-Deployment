@@ -14,36 +14,26 @@ list from [[]] and !outgoing([[]])
 ---
 
 
-
-
-
-## 🧾 Project Description
-### Blurt
-
-
-### Official
-
-
 ## 🧲 Published
 ### Deployment:
 - 
 ### GitHub:
 - 
 
-## 🎯 Objective
-
-
-
-## 📂 Project Logs 
-
-
-
 ## 🎟 Features
 ### Existing
 
-
 ### Todo
 
+
+## 🧾 Project Description
+
+### Blurt
+
+### Official
+
+
+## 📂 Project Logs 
 
 
 ## 🔗 -> Links

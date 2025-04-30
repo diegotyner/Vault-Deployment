@@ -13,36 +13,39 @@ list from [[]] and !outgoing([[]])
 ### Finished
 Quartz
 Obsidian Plugin
-
-### Ongoing
-[[Risego]]
-[[Portfolio]]
 [[YT-Playlist]]
 [[ChatGPT-Summarizer]]
-[[Music-Recommender]]
+
+### Ongoing
+[[Course-Content-Vectorizer]]
+- Continuation: [[Text-Extractor-Database]]
+[[Portfolio]]
 [[Handwriting-Recognition]]
+[[Risego]]
+[[Music-Recommender]]
 
 
 ### Future
+[[Calendar-Merger]]
+[[Note-Bumper]]
 [[NBA-Analytics-Website]]
-[[Course-Content-Vectorizer]]
+[[Paper-Trading-Website]]
 [[Obsidian-LLM-Integration]]
 - Or maybe not an LLM, but a crawler that will go and make you review and clean up notes? IE
 	- Crawls notes and looks for notes that dont have "reviewed: true" yaml tag. Allow customization, specifying regex or tags for file names you want to review, like "~= m/ECS" or something to that effect 
 	- Go run the crawler once a week, and review the notes. Forces you to go through lectures for the week for example. Force me to fill in the "Refresh the info" section 
 - [Agentic Systems for Obsidian](https://chatgpt.com/c/6804df7f-0284-8007-bea0-f88211fd4696)
-[[Note-Bumper]]
-[[Calendar-Merger]]
+[[Bilingual-Speech-Practice-Chatbot]]
 [[Transplantable-SNN]]
-[[Paper-Trading-Website]]
 
-Chatbot for learning language? Speech recognition -> LLM -> TTS?
 Audio book app?
+Audiobook download and stream app
+- maybe just audio editor?
+
 more imaging processing apps
 - background Pixelator
 - background remover
 - ai generator?
-
 From scratch NN with Go
 - CNN? 
 - Shallow NN? 
@@ -55,12 +58,6 @@ Fun Daily Game:
 - generate a random adjective and noun, search Google images and pull the first result. Then have players guess the prompt words
 - give guesses a similarity score (vector) To each word
 
-Canvas downloader tool
-
-Audiobook download and stream app
-- maybe just audio editor?
-
-Algorithm to neural network compiler
 
 SJC Airport effect? "Clockclock24"
 
