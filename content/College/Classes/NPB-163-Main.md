@@ -48,15 +48,14 @@ Kandel et al.: Principles of Neural Science (4th, 5th, or 6th Edition)
 ### Unit 2 - Neural Codes
 - Neural Codes - [[NPB163-L3]]
 - Neural Codes - [[NPB163-L4]]
-### Unit 3 - Sensory Systems
+### Unit 3 - Vision
 - Finish Neural Codes / Sensory Systems 1 - [[NPB163-L5]]
 - Sensory Systems 1 - [[NPB163-L6]]
-	- didnt do, focused on data preprocessing for NT
-### Unit 4 - Sensory Systems
+### Unit 4 - Vision
 - Sensory Systems 1 - [[NPB163-L7]]
 - Sensory Systems 1 - [[NPB163-L8]]
-### Unit 5 - Auditory Systems?
-- Lec - [[NPB163-L9]]
+### Unit 5 - Audition
+- Audition / Sensory Systems 1 - [[NPB163-L9]]
 - **Midterm 1**
 	- [[NPB163-MT1-Prep]]
 

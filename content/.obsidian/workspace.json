@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d40257c3ef94244",
+            "id": "8aac6dc9260fb014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB-163-Main.md",
+                "file": "College/Classes/ECS-189G-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB-163-Main"
+              "title": "ECS-189G-Main"
             }
           },
           {
-            "id": "880d2bebec56373c",
+            "id": "b879ad54f164f8a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB163-L6.md",
+                "file": "College/Classes/ECS189G-L14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-L6"
+              "title": "ECS189G-L14"
             }
           },
           {
-            "id": "1e34b8a257b603af",
+            "id": "910102624a9327f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/NPB163-MT1-Prep.md",
+                "file": "Work/IRL-Researcher-App.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPB163-MT1-Prep"
-            }
-          },
-          {
-            "id": "8c3ddde9f1456db1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/NPB163-Problem-Set-3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NPB163-Problem-Set-3"
-            }
-          },
-          {
-            "id": "e48e4ddf8d4fd849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Talks/2025-California-Neurotechnology-Conference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-California-Neurotechnology-Conference"
+              "title": "IRL-Researcher-App"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1072,6 +1024,36 @@
             "id": "0dde952ceaf45584",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b231484218d261e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "96a89f153d887936",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e2636d81ebbd0bac",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -1079,7 +1061,7 @@
             }
           }
         ],
-        "currentTab": 83
+        "currentTab": 86
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1140,43 +1122,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e48e4ddf8d4fd849",
+  "active": "910102624a9327f1",
   "lastOpenFiles": [
-    "Brain/_Brain.md",
     "College/Talks/2025-California-Neurotechnology-Conference.md",
-    "Attachments/CA-NT-25-BCI-SSVEP-Alpha-Classifiers.jpg",
-    "Attachments/CA-NT-25-BCI-NT-Davis-Filtering.jpg",
-    "Attachments/CA-NT-25-BCI-Hyper-Dimensional-Computing.jpg",
-    "Attachments/CA-NT-25-BCI-Ideal-Brain-Interface.jpg",
-    "Attachments/CA-NT-25-BCI-Focused-Ultrasound-Neuromodulation.jpg",
-    "Attachments/CA-NT-25-BCI-Brain-State-Control-Discovery.jpg",
-    "Attachments/CA-NT-25-BCI-Brain-State-Control-Data.jpg",
-    "Attachments/CA-NT-25-BCI-Closed-Loop-Control.jpg",
-    "Attachments/CA-NT-25-BCI-Medtronic-Adaptive-DBS.jpg",
-    "Attachments/CA-NT-25-BCI-ADAPT-PD-Study.jpg",
-    "College/Classes/NPB163-Problem-Set-3.md",
-    "College/Talks/College-Talks.md",
-    "College/Classes/NPB163-L6.md",
-    "College/Classes/NPB-163-Main.md",
+    "Attachments/Pasted Image 20250315144624_894.png",
+    "Attachments/Architectures-of-Learning-Humans-LLMs-AI-Agents.jpg",
+    "Attachments/Computational-Model-Neurotransmitter-Circuits-Wakefulness.jpg",
+    "Attachments/ML-Models-Classifying-Dementia-Survey.jpg",
+    "Attachments/FlowMo-ViT-fMRI-Guided-Vision-Transformer-Pretraining-Neural-Image-Reconstruction.jpg",
+    "Work/IRL-Researcher-App.md",
+    "College/Classes/ECS189G-L14.md",
+    "Attachments/Image-Representation-Examples.png",
+    "College/Classes/ECS-189G-Main.md",
+    "Attachments/GAN-Iterative-Learning-Distribution-Fitting.png",
+    "College/Classes/ECS189G-L13.md",
+    "College/_College.md",
+    "Work/_Work.md",
+    "College/Classes/ECS170-L14.md",
+    "Attachments/FOL-Syntax-Backus-Naur-Form.png",
     "College/Classes/NPB163-MT1-Prep.md",
+    "College/Classes/NPB163-L4.md",
+    "College/Classes/NPB163-L3.md",
+    "College/Classes/NPB163-L5.md",
+    "College/Classes/NPB-163-Main.md",
+    "Attachments/Comparisons-of-Various-Logics.png",
+    "College/Classes/ECS-170-Main.md",
+    "Attachments/Noise-Correlation-Visualization.png",
+    "College/Classes/NPB163-L8.md",
+    "College/Classes/NPB163-L7.md",
+    "College/Classes/NPB163-L2.md",
     "College/Classes/NPB163-L1.md",
+    "College/Classes/NPB163-L6.md",
+    "College/Classes/NPB163-Problem-Set-3.md",
+    "Brain/_Brain.md",
+    "College/Talks/College-Talks.md",
     "Reading/Reading/_Research-Papers.md",
     "College/Classes/NPB163-Problem-Set-2.md",
-    "College/_College.md",
     "College/Spring-Quarter-2025.md",
-    "College/Classes/NPB163-L3.md",
-    "College/Classes/NPB163-L4.md",
-    "College/Classes/NPB163-L5.md",
-    "College/Classes/NPB163-Problem-Set-1.md",
-    "College/Winter-Quarter-2025.md",
-    "College/Classes/NPB287A-L1.md",
-    "College/Classes/NPB163-L2.md",
-    "Work/_Work.md",
-    "Work/Plant-Science-People.md",
-    "Work/IRL-Researcher-App.md",
-    "College/Classes/NPB-173-Main.md",
-    "College/Classes/NPB173-L8.md",
-    "Brain/Neurotransmitters.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",

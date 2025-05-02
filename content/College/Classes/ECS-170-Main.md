@@ -63,10 +63,22 @@ No textbook is required, and below are the recommended books to read:
 - *HW 1 Release*	
 04/11	Informed Search - [[ECS170-L6]]			
 
-### Unit 
+### Week 3 - Games Search 
 04/14	Games and Adversarial Search - [[ECS170-L7]]	
 04/16	Games and Adversarial Search - [[ECS170-L8]]
 04/18	Non-Classical Search - [[ECS170-L9]]
+
+### Week 4 - 
+ 04/21	Constraint Satisfaction Problem - [[ECS170-L10]]
+04/23	Constraint Satisfaction Problem - [[ECS170-L11]]
+04/25	Propositional Logic - [[ECS170-L12]]	
+
+### Week 5 - 
+04/28	Propositional Logic - [[ECS170-L13]]
+04/30	First Order Logic - [[ECS170-L14]]
+05/02	Propositional Logic - [[ECS170-L15]]
+ 
+
 
 
 ---

@@ -270,7 +270,13 @@ Platt scaling algorithm
 
 fNIRS
 
+---
+### Posters
 
+![[FlowMo-ViT-fMRI-Guided-Vision-Transformer-Pretraining-Neural-Image-Reconstruction.jpg|400]]
+![[ML-Models-Classifying-Dementia-Survey.jpg|400]]
+![[Computational-Model-Neurotransmitter-Circuits-Wakefulness.jpg|400]]
+![[Architectures-of-Learning-Humans-LLMs-AI-Agents.jpg|400]]
 
 
 

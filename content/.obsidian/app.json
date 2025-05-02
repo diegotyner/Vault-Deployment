@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
-  "readableLineLength": true,
+  "readableLineLength": false,
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,

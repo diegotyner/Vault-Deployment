@@ -42,6 +42,7 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 	- Graph-Bert
 
 ## ❗ Important
+**REVIEW GAN LOSS FUNCTION, FINAL QUESTION ON IT**
 ### Instructor: 
 - Jiawei Zhang
 	- Interest in: ML, DL, data mining and big data
@@ -79,5 +80,7 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 - [[ECS189G-L11]]
 - [[ECS189G-L12]]
 
-### Unit 5 - GAN
+### Unit 5 - GAN / Computer Vision
 - [[ECS189G-L13]]
+- [[ECS189G-L14]]
+**REVIEW GAN LOSS FUNCTION, FINAL QUESTION ON IT**
