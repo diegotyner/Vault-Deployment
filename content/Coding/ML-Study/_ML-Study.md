@@ -14,12 +14,11 @@ tags:
 
 
 ## ❗ Important
-[General Intro - ML](https://towardsdatascience.com/machine-learning-basics-part-1-a36d38c7916)
 
 > [!NOTE] Categories
 > Machine Learning is generally categorized into three types: Supervised Learning, Unsupervised Learning, Reinforcement learning
 ### Supervised:
-#### Classification - Discrete Classification
+#### [[Classification]] - Discrete Classification
 In classification problems the machine must learn to predict discrete values. That is, the machine must predict the most probable category, class, or label for new examples. Applications of classification include predicting whether a stock's price will rise or fall, or deciding if a news article belongs to the politics or leisure section. 
 - Predict gender from shoulder / waist sizes.
 
@@ -28,8 +27,13 @@ In regression problems the machine must predict the value of a continuous respon
 - Predict house price
 
 ### Unsupervised:
-When we have unclassified and unlabeled data, the system attempts to uncover patterns from the data . There is no label or target given for the examples. One common task is to group similar examples together called clustering.
+When we have unclassified and unlabeled data, the system attempts to uncover patterns from the data . There is no label or target given for the examples. 
+#### [[Clustering]] - Grouping similar things
+One common task is to group similar examples together called clustering.
 - Group and separate unlabeled songs
+#### [[Dimensionality-Reduction]] - Reducing scope
+Another common goal of unsupervised algorithms is to reduce dimensions. This can help algorithms to run faster, reduce noise, and can sometimes to make data more interpretable.
+
 
 ### Reinforcement Learning (RL):
 Attempting to maximize a goal. Feedback is given to an agent / model.
@@ -39,6 +43,7 @@ Attempting to maximize a goal. Feedback is given to an agent / model.
 
 
 ## Important Concept Links
+- [[Gradient-Optimization]]
 - [[Data-Processing]]
 - [[Dimensionality-Reduction]]
 - SVD?

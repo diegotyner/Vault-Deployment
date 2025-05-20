@@ -58,22 +58,22 @@ Review and synthesis of concepts in Section 1 - [[NPB173-L6]]
 Huntington Disease - [[NPB173-L7]]  
 ### Week 5
 Parkinson Disease - [[NPB173-L8]]
-Alzheimer Disease and other dementias
+Alzheimer Disease and other dementias - [[NPB173-L9]]
 ### Week 6
-Amyotrophic Lateral Sclerosis  
-Review and synthesis of concepts in Section 2
+Amyotrophic Lateral Sclerosis  - [[NPB173-L10]]
+Review and synthesis of concepts in Section 2 - [[NPB173-L11]]
 
 ### Week 7
-**EXAM #2**  
-Fragile X-Associated Disorders  
+**EXAM #2**  - [[NPB173-MT2-Prep]]
+Fragile X-Associated Disorders  - [[NPB173-L12]]
 ### Week 8
-Autism spectrum disorder  
-Attention Deficit Hyperactivity Disorder
+Autism spectrum disorder  - [[NPB173-L13]]
+Attention Deficit Hyperactivity Disorder - [[NPB173-L14]]
 ### Week 9
-Anxiety disorders  
-Depression and Schizophrenia
+Anxiety disorders - [[NPB173-L15]]
+Depression and Schizophrenia - [[NPB173-L16]]
 ### Week 10
-Review and synthesis of concepts in Section 3
+Review and synthesis of concepts in Section 3 - [[NPB173-L17]]
 **EXAM #3**
 
 

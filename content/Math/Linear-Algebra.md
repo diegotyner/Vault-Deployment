@@ -13,16 +13,15 @@ list from [[]] and !outgoing([[]])
 ```
 ---
 
-# 📗 -> Insert word
-
-
+# 📗 -> Linear Algebra
 ## ❗ Information
 Linear Algebra is the branch of mathematics that deals with vectors and matrices, and is particularly useful in the transformation of big data, as big data is represented as an array (or matrix).
 
 ## 📄 -> Methodology 
-- Simple or full description 
+[[Matrix-Multiplication]]
+[[X-Transpose-Times-X]]
 
-## ✒️ -> Different Applications
+## ✒️ -> Topics
 ### MIT Basic Syllabus: 
 - Systems of linear equations
 - Row reduction and echelon forms

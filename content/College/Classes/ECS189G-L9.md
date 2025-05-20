@@ -15,7 +15,18 @@ aliases:
 
 
 ## ❗ Unit and Larger Context
-Small summary
+### Section 5 - DL Basic Summary
+Background Knowledge
+- What is deep learning?
+- Why we need deep learning?
+- A brief history of deep learning
+- What makes deep learning work?
+Technical Details
+- Biological Neuron vs Artificial Neuron
+- Perceptron and its Weakness
+- Multi-layer perceptron and applications
+- How to train a MLP
+> - Error Backpropagation Algorithm
 
 
 

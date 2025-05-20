@@ -78,7 +78,30 @@ No textbook is required, and below are the recommended books to read:
 04/30	First Order Logic - [[ECS170-L14]]
 05/02	Propositional Logic - [[ECS170-L15]]
  
+### Week 6 - 
+05/05	First Order Logic - [[ECS170-L16]]
+05/07	Probabilistic Agents - [[ECS170-L17]]
+05/09	Naive Bayes - [[ECS170-L18]]	
 
+### Week 7
+05/12	Naive Bayes (cont) - [[ECS170-L19]]
+05/14	Bayesian Networks - [[ECS170-L20]]	
+05/16	Bayesian Networks - [[ECS170-L21]]	
+
+### Week 8
+05/19	Hidden Markov Models  - [[ECS170-L22]] 
+- Review, only sparse notes
+05/21	Hidden Markov Models  - [[ECS170-L23]] 		 	 
+05/23	Hidden Markov Models  - [[ECS170-L24]] 		 	 
+
+### Week 9
+05/26	No Class (Holiday)		 	 
+05/28	Machine Learning - [[ECS170-L25]] 		 	 
+05/30	Neural Networks and Transformers - [[ECS170-L26]] 		 	 
+
+### Week 10
+06/02	Neural Networks and Transformers - [[ECS170-L27]] 		 	 		 	 
+06/04	Large Language Models - [[ECS170-L28]] 		 	 		
 
 
 ---

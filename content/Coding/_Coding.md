@@ -38,8 +38,9 @@ tags:
 ## Resources
 [[Production-Checklist]]
 [[ChatGPT-Prompts]]
-[[Python-Packages]]
 [[Coding-Languages-Cheatsheets]]
+[[]]
 
 [StatQuest Trailer, 2019](https://www.youtube.com/@statquest)
+[Huggingface MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)
 

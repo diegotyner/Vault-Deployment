@@ -60,27 +60,44 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 
 ## 📄 Class Material
 ### Week 1 -Class Intro / Intro ML
-- [[ECS189G-L1]]
-- [[ECS189G-L2]]
-- [[ECS189G-L3]]
+- Intro - [[ECS189G-L1]]
+- ML Basics: ML Tasks, Train/Test, and SVM - [[ECS189G-L2]]
+- ML Basics: SVM Classification - [[ECS189G-L3]]
 	- Deeper into SVMs
 
 ### Week 2 - Intro ML
-- [[ECS189G-L4]]
-- [[ECS189G-L5]]
-- [[ECS189G-L6]]
+- ML Basics: Regression, Unsupervised (clustering) - [[ECS189G-L4]]
+- ML Basics: Evaluation. Project - [[ECS189G-L5]]
+- Project: [[ECS189G-L6]]
 
-### Unit 3 - Optimization / ? / Deep Learning Intro
-- [[ECS189G-L7]]
-- [[ECS189G-L8]]
-- [[ECS189G-L9]]
+### Unit 3 - Optimization / Deep Learning Intro
+- Optimization: Introduction to GD and batching - [[ECS189G-L7]]
+- Optimization/DL Basics: Optimizers and Intro to DL - [[ECS189G-L8]]
+- DL Basics: [[ECS189G-L9]]
 
 ### Unit 4 - Auto-Encoders / CNN
-- [[ECS189G-L10]]
-- [[ECS189G-L11]]
-- [[ECS189G-L12]]
+- Autoencoders: [[ECS189G-L10]]
+- Autoencoders/CNN: [[ECS189G-L11]]
+- CNN: [[ECS189G-L12]]
 
 ### Unit 5 - GAN / Computer Vision
-- [[ECS189G-L13]]
-- [[ECS189G-L14]]
+- GAN: [[ECS189G-L13]]
+- GAN/Computer Vision: [[ECS189G-L14]]
+- [[ECS189G-L15]]
 **REVIEW GAN LOSS FUNCTION, FINAL QUESTION ON IT**
+
+### Unit 6 - Midterm Week / GPT
+- Midterm Overview: [[ECS189G-L16]]
+- **Midterm**
+- [[ECS189G-L17]]
+
+### Unit 7 - RNN
+- Recurrent Neural Network - [[ECS189G-L18]]
+- MT Review and RNN - [[ECS189G-L19]]
+- RNN? - [[ECS189G-L20]]
+
+
+### Unit 8 - 
+- RNN / - [[ECS189G-L21]]
+
+[[ECS189G-Section4]]

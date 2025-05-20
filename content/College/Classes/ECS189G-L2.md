@@ -27,7 +27,7 @@ Computers learning from historical data, and using for future
 Learn a **function mapping** from historical data to predict:
 - *Discrete class labels* - classification, supervised
 - *Continuous values* - Regression, supervised
-- *Cluster inidicators* - Clustering, unsupervised
+- *Cluster indicators* - Clustering, unsupervised
 
 Also have semi-supervised and reinforcement learning
 
@@ -54,8 +54,14 @@ Testing is used only to evaluate model
 *How to partition data?*
 - Pre-defined (sometimes you are given split data, Kaggle contests ex.)
 - Random sampling (not stable)
+	- Randomly split data into train and test (70% train, 30% test)
+	- Not stable, different results everytime
 - Cross Validation (K fold CV)
-- Leave one out
+	- Split the data into k partitions, with each partition/fold having a different train/test partition
+	- If results are good, train a final model on full dataset and deploy
+- Leave one out (LOOCV)
+	- The case of K folder where k=n. 
+	- Leave a single data point out, and repeat for the entire data set. 
 Sometimes features of the data will define how you can split it. 
 - Stock market data is time dependent, and you might use the oldest 75% for training, and the newest 25% for testing. 
 	- In this case, random sampling wouldn't make sense

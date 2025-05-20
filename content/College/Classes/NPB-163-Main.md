@@ -58,7 +58,16 @@ Kandel et al.: Principles of Neural Science (4th, 5th, or 6th Edition)
 - Audition / Sensory Systems 1 - [[NPB163-L9]]
 - **Midterm 1**
 	- [[NPB163-MT1-Prep]]
+### Unit 6 - Audition
+- Predictive Coding - [[NPB163-L10]]
+- w - [[NPB163-L11]]
 
+### Unit 7 - 
+- Lecture Video (Motor Systems?) - [[NPB163-L12]]
+- DItched(midterm and motor? - [[NPB163-L13]]
+	- 
+### Unit 8 - 
+- Motor - [[NPB163-L14]]
 
 
 

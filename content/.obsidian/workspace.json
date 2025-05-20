@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38255709c3f35377",
+        "id": "ca067ac980e0fd76",
         "type": "tabs",
         "children": [
           {
-            "id": "8aac6dc9260fb014",
+            "id": "0ab6f7b0a39e69ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-189G-Main.md",
+                "file": "Work/Plant-Science-Work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-189G-Main"
+              "title": "Plant-Science-Work"
             }
           },
           {
-            "id": "b879ad54f164f8a7",
+            "id": "516f839ede6cca55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS189G-L14.md",
+                "file": "College/Classes/ECS154A-Assessment1-Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS189G-L14"
-            }
-          },
-          {
-            "id": "910102624a9327f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/IRL-Researcher-App.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IRL-Researcher-App"
+              "title": "ECS154A-Assessment1-Prep"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,10 +90,10 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -132,21 +108,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "9ad6429270a539d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attachments/ECS122A-HW5 2024-12-05 23.36.32.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,16 +153,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Fall-Quarter-2024"
-            }
-          },
-          {
-            "id": "1d4a45a0151f5faa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
             }
           },
           {
@@ -1054,14 +1007,124 @@
             "id": "e2636d81ebbd0bac",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6efd8a71fa1a5ba8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d902b3b1f404bc8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3d0e73fb1ed6e87c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b4d504e7536ae81c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8f1d54cb861bdf1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "460d10f62e64e0de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e482e5e7404ea00a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f62fe4a5fd65379b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3ae817a0b429cda2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f3b80bbcb8a6613a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e4d802a48af93819",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 86
+        "currentTab": 96
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1117,48 +1180,46 @@
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "910102624a9327f1",
+  "active": "516f839ede6cca55",
   "lastOpenFiles": [
-    "College/Talks/2025-California-Neurotechnology-Conference.md",
-    "Attachments/Pasted Image 20250315144624_894.png",
-    "Attachments/Architectures-of-Learning-Humans-LLMs-AI-Agents.jpg",
-    "Attachments/Computational-Model-Neurotransmitter-Circuits-Wakefulness.jpg",
-    "Attachments/ML-Models-Classifying-Dementia-Survey.jpg",
-    "Attachments/FlowMo-ViT-fMRI-Guided-Vision-Transformer-Pretraining-Neural-Image-Reconstruction.jpg",
-    "Work/IRL-Researcher-App.md",
-    "College/Classes/ECS189G-L14.md",
-    "Attachments/Image-Representation-Examples.png",
     "College/Classes/ECS-189G-Main.md",
-    "Attachments/GAN-Iterative-Learning-Distribution-Fitting.png",
-    "College/Classes/ECS189G-L13.md",
-    "College/_College.md",
-    "Work/_Work.md",
-    "College/Classes/ECS170-L14.md",
-    "Attachments/FOL-Syntax-Backus-Naur-Form.png",
-    "College/Classes/NPB163-MT1-Prep.md",
-    "College/Classes/NPB163-L4.md",
-    "College/Classes/NPB163-L3.md",
-    "College/Classes/NPB163-L5.md",
+    "College/Classes/ECS189G-L20.md",
+    "College/Classes/ECS189G-L21.md",
+    "Attachments/Pasted image 20250519184747.png",
+    "Attachments/Pasted image 20250519184735.png",
+    "Attachments/Transformer-Architecture.png",
+    "Attachments/Hierarchical-RNN-Document-Classification.png",
+    "Attachments/Hierarchical-Document-RNN.png",
     "College/Classes/NPB-163-Main.md",
-    "Attachments/Comparisons-of-Various-Logics.png",
+    "College/Classes/NPB163-L14.md",
+    "Coding/_Coding.md",
+    "Attachments/Dorsal-Ventral-Motor-Stream-PMd-PMv.png",
+    "Attachments/Behaviorally-Relevant-M1-Stimulation.png",
+    "Attachments/External-Load-Affecting-Motor-Population-Vector.png",
+    "Attachments/Hand-Representation-Digit-Movement.png",
     "College/Classes/ECS-170-Main.md",
-    "Attachments/Noise-Correlation-Visualization.png",
-    "College/Classes/NPB163-L8.md",
-    "College/Classes/NPB163-L7.md",
-    "College/Classes/NPB163-L2.md",
-    "College/Classes/NPB163-L1.md",
-    "College/Classes/NPB163-L6.md",
-    "College/Classes/NPB163-Problem-Set-3.md",
-    "Brain/_Brain.md",
-    "College/Talks/College-Talks.md",
-    "Reading/Reading/_Research-Papers.md",
-    "College/Classes/NPB163-Problem-Set-2.md",
-    "College/Spring-Quarter-2025.md",
+    "College/Classes/ECS170-L22.md",
+    "College/Classes/ECS189G-Section4.md",
+    "Work/Plant-Science-Work.md",
+    "College/Classes/NPB173-L12.md",
+    "College/Classes/NPB-173-Main.md",
+    "Coding/Linux.md",
+    "Coding/Window-Management.md",
+    "Attachments/Word-Embeddings-Image.png",
+    "College/Classes/ECS189G-L19.md",
+    "College/Classes/ECS189G-L18.md",
+    "College/Classes/Office-Hours.md",
+    "College/Talks/Neurosurgery-Understanding-The-Brain.md",
+    "College/Classes/NPB173-L11.md",
+    "College/Classes/NPB173-MT2-Prep.md",
+    "College/Classes/NPB173-L6.md",
+    "College/Classes/ECS170-L3.md",
+    "College/Classes/ECS170-D1.md",
+    "College/Classes/ECS170-L2.md",
+    "College/Classes/ECS170-L1.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",

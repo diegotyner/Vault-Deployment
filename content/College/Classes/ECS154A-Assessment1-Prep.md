@@ -46,17 +46,31 @@ Boolean Algebra - [[ECS154A-L2]]
         Minterms, Maxterms  
 	        - Minterm: Where the functions is one (1)
 	        - Maxterm: Where the functions is zero (0)
-        SOP, POS forms of equations  
-	        - SOP: Sum Of Products form canonical form. 
-		        -  the sum (OR) of products (ANDs forming minterms) for which the output is TRUE
-		        - "If its any of these cases/rows, function evaluates to true"
-		        - $F = A\bar{B} + \bar{A}B$
-	        - POS: Product Of Sums form canonical form. 
-			- Effectively the DeMorgans negation of SOP. Its just the false rows ANDed together, with each case linked by AND
-			- $F=(A+B)(\bar{A}\bar{B})$
-		- Both $F$s are equivalent
-        Minimizing equations
-	        - Use K-Map and circle the largest components.
+
+
+| A   | B   |     | f(a,b) |
+| --- | --- | --- | ------ |
+| 0   | 0   | ->  | 0      |
+| 0   | 1   | ->  | 1      |
+| 1   | 0   | ->  | 0      |
+| 1   | 1   | ->  | 1      |
+
+SOP, POS forms of equations  
+		- SOP: Sum Of Products form canonical form. 
+			-  the sum (OR) of products (ANDs forming minterms) for which the output is TRUE
+			- "If its any of these cases/rows, function evaluates to true"
+			- $F = AB + \bar{A}B$
+		- POS: Product Of Sums form canonical form. 
+			- Effectively the DeMorgans negation of SOP. Its just the negation of the false rows ANDed together, with each case linked by AND
+			- "This function is true only if it avoids all the false cases"
+			- $F=(A+B)(\bar{A}+B)$
+			- Derivation: 
+				- $\lnot F = \overline{AB} + A\bar{B}$
+				- $\lnot \lnot F = F = \lnot (\overline{AB} + A\bar{B})$
+				-  $F=(A+B)(\bar{A}+B)$
+	- Both $F$s are equivalent
+	Minimizing equations
+		- Use K-Map and circle the largest components.
 
 Karnaugh maps  
         What they are  

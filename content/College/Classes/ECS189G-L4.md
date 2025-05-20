@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-# 📗 ->  04/07/25: ECS189G-L3
+# 📗 ->  04/07/25: ECS189G-L4
 ---
 [ML Basics Slides](https://drive.google.com/file/d/1-UnT3uMgD5we_rrRlAqxTxtvf0fKbHDP/view)
 
@@ -32,8 +32,18 @@ $w$ are the weight parameters
 ![[Linear-Regression-Learning-Slide.png|400]]
 
 #### Other Regression Models
-Refresher: $||x||$ is the norm of X, or the magnitude of a vector. $||X|| = \sqrt{x^2 + \dots d^2 }$
-L-p norm: $||x||_p = \left( \;\sum^n_{i=1}|x(i)^p\; \right )^\frac{1}{p}$
+##### Refresher - Norm
+Refresher: $||x||$ is the norm of X, or the magnitude of a vector. $||x|| = \sqrt{\sum^n_{i=1}x(i)^2}  = \sqrt{x_1^2 + \dots + x_d^2 }$
+$||x||_\infty = \max(|x(1)|, \dots, |x(d)|)$
+L-p norm: $||x||_p = \left( \;\sum^n_{i=1}|x(i)|^p\; \right )^\frac{1}{p}$
+*Cases of p:*
+- $p=1$, the taxicab norm, manhattan norm, or L1-norm
+- $p=2$, euclidean norm, or L2-norm. This is the assumed norm of vector
+-  $p=\infty$, maximum norm, as p approaches infinity the norm will be reduced to the maximum value
+
+
+
+##### Back to regression
 
 *Ridge Regression Model*
 - Addresses some of the problems of OLS by imposing a penalty on the size of coefficients $w$
@@ -59,13 +69,23 @@ Aim to partition the data into different groups, where instances in each cluster
 
 ##### Distance Measures:
 Find ways to quantify (dist: V x V -> R)
+- Measures need to have the following properties:
+	- Non-negative (can't have a negative distance)
+	- Identity: $dist(x_i,x_j)=0 \iff x_i = x_j$
+	- Symmetric: $dist(x_i, x_j) = dist(x_j, x_i)$
+	- Triangular inequality: $dist(x_i, x_j) \leq dist(x_i, x_k) + dist(x_k, x_j)$
+		- IE, cant have a shorter distance than the direct path
+Frequently used measures:
 - *Minkowsky Dist*
 	- Finding the L-P norm distance between two vectors, and depending on P chosen can reduce to Minkowski Distance of P=1, Euclidean distance if P=2 
 - *Manhattan Dist*
+	- Case of Minkowsky distance, of L-p norm with p=1
 - *Euclidean Dist*
+	- Case of Minkowsky distance, of L-p norm with p=2
 - *Chebyshev Dist*
-
-##### K-Means
+	- $dist_{CD}(x_i,x_j)=\max(|x_{i,1}-x_{j,1}|, \dots, |x_{i,d}, x_{j,d}|)$
+	- Case of Minkowsky distance, of L-p norm with p=$\infty$
+##### [[K-means]]
 > An iterative clustering algorithm
 - Initialize: Pick K random points as cluster centers
 - Alternate:
@@ -77,8 +97,11 @@ Guaranteed to converge in a finite number of iterations:
 - Running time per iteration is:
 	- O(KN) for assignment of points to clusters
 	- O(N) for changing cluster center to average of its assigned points
-- If we fix $\mu$, we can optimize $C$
-- If we fix $C$, we can optimize $\mu$
+From an optimizing perspective:
+1) Step 1: If we fix $\mu$, we can optimize $C$ 
+	- Assign data points to clusters
+2) Step 2: If we fix $C$, we can optimize $\mu$
+	- Change cluster centers to the average of assigned points 
 
 ### Evaluation Metrics
 *Classification Confusion Matrix*

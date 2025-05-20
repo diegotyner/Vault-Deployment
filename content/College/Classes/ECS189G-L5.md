@@ -76,13 +76,12 @@ Typically, a chart will be provided with model performance measured by each metr
 For these measures:
 - Within clusters, we want to minimize the distances 
 - Between clusters, we want to maximize the distances
-
+#### Measures
 - Average distance
 - Diameter
 - Inter-Cluster Distance
 - Inter-Cluster Center Distance
-
-
+#### More Complicated Measures
 - DB Index
 	- Tries to find maximum values within clusters, and compares against another cluster
 	- Find pairs that maximize terms

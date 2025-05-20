@@ -71,6 +71,8 @@ aliases:
 [UCD Datalab Github](https://github.com/orgs/ucdavisdatalab/repositories)
 [UCLA ML NLP](https://uclanlp.github.io/CS269-17/overview)
 [Intro to Neural Data Science Course](https://github.com/neural-data-science/NESC_3505_textbook)
+[Norm Matloff Classes](https://heather.cs.ucdavis.edu/matloff/public_html/)
+- Includes a number of ECS classes, like ECS 158 (programming parallelism)
 
 ![[College-Talks#🔗 -> Event Postings / Resources]]
 

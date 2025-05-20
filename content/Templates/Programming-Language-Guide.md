@@ -2,7 +2,7 @@
 > [!tip] Might want to...
 > change all code box type to desired language
 
-### 🔗 Online Resources / Samples
+### 🔗 Resources / Samples
 - Ex.
 
 ### Data Types

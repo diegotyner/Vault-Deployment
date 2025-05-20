@@ -28,7 +28,21 @@ Files to prep for office hours, and take notes about what was discussed
 - What ideas does the collection as a whole raise?
 
 ## ✒️ -> Usage
-- How can you use the knowledge you are obtaining?
+### Running Questions
+#### Computer Science
+How to effectively regularize a machine learning model? How to implement effectively:
+- Dropout vs weight decay
+
+
+#### Neuroscience
+More about the basal ganglia
+
+Future in neurotech? Neuroprosthetics?
+
+Why is the BG specifically targeted in Huntingtin's
+
+Most useful math? Level of competency
+
 
 ## 🔗 -> Related Topics
 - Tie this to a few topics so you can come back to this later

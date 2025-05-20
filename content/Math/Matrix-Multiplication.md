@@ -27,3 +27,5 @@ $C_{ij}​=\sum^n_{k=1}​A_{ik}​B_{kj}​$
 - i: Corresponds to the **height of A** (its rows) and is used to determine the rows of C.
 - j: Corresponds to the **width of B** (its columns) and is used to determine the columns of C.
 - k: Corresponds to the **width of A** (or the height of B), which must be the same for multiplication to be defined.
+
+

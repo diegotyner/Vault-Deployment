@@ -3,7 +3,8 @@
 > change all code box type to desired language
 
 ### 🔗 Online Resources / Samples
-- https://v2.tauri.app/assets/learn/community/HTML_CSS_JavaScript_and_Rust_for_Beginners_A_Guide_to_Application_Development_with_Tauri.pdf
+- [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
+- [Tauri Rust Guide](https://v2.tauri.app/assets/learn/community/HTML_CSS_JavaScript_and_Rust_for_Beginners_A_Guide_to_Application_Development_with_Tauri.pdf)
 	- Page 203 on
 
 ### Philosophy
