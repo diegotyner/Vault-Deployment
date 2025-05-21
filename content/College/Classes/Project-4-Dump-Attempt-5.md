@@ -1,3 +1,5 @@
+
+```
 torch running with cuda
 torch running with cuda
 torch running with cuda
@@ -765,3 +767,6 @@ evaluating performance...
 MLP Test Accuracy: 0.7609
 
 ************ Finish ************
+```
+
+
