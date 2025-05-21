@@ -1,3 +1,12 @@
+GRU attempt bigger bigger  - 150 epochs
+Its just steadily going up right now. Very slowly, like 1% every couple epochs. 87% train and 84% test acc on epoch 78.
+Gets up to 94.3% train and 85.82% test on epoch 150.
+- Batch = 2048
+- LR = 3e-5
+- Hidden = 256
+- Layers = 2 
+- Bidirectional = False
+- Dropout = 0.5
 
 ```
 torch running with cuda

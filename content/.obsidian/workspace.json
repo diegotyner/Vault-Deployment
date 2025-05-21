@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "ECS189G-Section4"
             }
+          },
+          {
+            "id": "c53b66badcae4a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/Project-4-Dump-Attempt-7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project-4-Dump-Attempt-7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -1231,11 +1255,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5afde25198115cd8",
+  "active": "c53b66badcae4a07",
   "lastOpenFiles": [
-    "College/Classes/Project-4-Dump-Attempt-5.md",
     "College/Classes/ECS189G-Section4.md",
     "College/Classes/Project-4-Dump-Attempt-6.md",
+    "College/Classes/Project-4-Dump-Attempt-5.md",
+    "College/Classes/Project-4-Dump-Attempt-7.md",
     "College/Classes/ECS-189G-Main.md",
     "College/Classes/ECS154A-Assessment1-Prep.md",
     "College/Classes/ECS189G-L20.md",
@@ -1268,7 +1293,6 @@
     "College/Classes/NPB173-MT2-Prep.md",
     "College/Classes/NPB173-L6.md",
     "College/Classes/ECS170-L3.md",
-    "College/Classes/ECS170-D1.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",

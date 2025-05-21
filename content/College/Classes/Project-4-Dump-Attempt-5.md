@@ -1,3 +1,11 @@
+GRU attempt bigger batches - 150 epochs
+Does welllish, trends upward but stagnates at 77-78% test acc 80% train and then starts doing unsteady updates
+- Batch = 1024
+- LR = 5e-5
+- Hidden = 128
+- Layers =2 
+- Bidirectional = False
+- Dropout = 0.3
 
 ```
 torch running with cuda
