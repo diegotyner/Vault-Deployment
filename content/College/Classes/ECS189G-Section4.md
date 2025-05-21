@@ -41,3 +41,5 @@ This stage aims to help students get familiar with the recurrent neural network 
 	- Specifically we want it to go what did the... -> “what did the bartender say to the jumper cables? You better not try to start anything"
 
 
+[[Project-4-Dump-Attempt-5]]
+[[Project-4-Dump-Attempt-6]]
