@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "c53b66badcae4a07",
+            "id": "81d0257e8220e5e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/Project-4-Dump-Attempt-7.md",
+                "file": "College/Classes/Project-4-Dump-Attempt-6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project-4-Dump-Attempt-7"
+              "title": "Project-4-Dump-Attempt-6"
+            }
+          },
+          {
+            "id": "e1ca35f0409e696c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/Project-4-Dump-Attempt-8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project-4-Dump-Attempt-8"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1255,12 +1279,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c53b66badcae4a07",
+  "active": "e1ca35f0409e696c",
   "lastOpenFiles": [
-    "College/Classes/ECS189G-Section4.md",
     "College/Classes/Project-4-Dump-Attempt-6.md",
-    "College/Classes/Project-4-Dump-Attempt-5.md",
+    "College/Classes/ECS189G-Section4.md",
+    "College/Classes/Project-4-Dump-Attempt-8.md",
     "College/Classes/Project-4-Dump-Attempt-7.md",
+    "College/Classes/Project-4-Dump-Attempt-5.md",
     "College/Classes/ECS-189G-Main.md",
     "College/Classes/ECS154A-Assessment1-Prep.md",
     "College/Classes/ECS189G-L20.md",
@@ -1292,7 +1317,6 @@
     "College/Classes/NPB173-L11.md",
     "College/Classes/NPB173-MT2-Prep.md",
     "College/Classes/NPB173-L6.md",
-    "College/Classes/ECS170-L3.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
