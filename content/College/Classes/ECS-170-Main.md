@@ -92,6 +92,7 @@ No textbook is required, and below are the recommended books to read:
 05/19	Hidden Markov Models  - [[ECS170-L22]] 
 - Review, only sparse notes
 05/21	Hidden Markov Models  - [[ECS170-L23]] 		 	 
+- PDF used for slides? [Stanford HMM PDF](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 05/23	Hidden Markov Models  - [[ECS170-L24]] 		 	 
 
 ### Week 9

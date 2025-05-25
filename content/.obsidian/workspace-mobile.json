@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Get-From-Home.md",
+                "file": "College/_College.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Get-From-Home"
+              "title": "_College"
             }
           }
         ]
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "College/Talks/2025-California-Neurotechnology-Conference.md",
+            "file": "College/_College.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,13 +154,12 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "afdafc51bae09d09",
   "lastOpenFiles": [
+    "Scratch/Get-From-Home.md",
     "College/Talks/2025-California-Neurotechnology-Conference.md",
     "Untitled",
     "Attachments/20250426_161726.jpg",
@@ -176,7 +175,6 @@
     "Attachments/20250426_132403.jpg",
     "Attachments/20250426_132210.jpg",
     "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md",
-    "Scratch/Get-From-Home.md",
     "College/Classes/ECS-174-Main.md",
     "Scratch/Groceries.md",
     "College/Classes/ECS122A-Final-Prep.md",

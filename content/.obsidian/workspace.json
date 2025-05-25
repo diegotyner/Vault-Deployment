@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "516f839ede6cca55",
+            "id": "e4e5709ba9a5d4fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS154A-Assessment1-Prep.md",
+                "file": "College/Classes/ECS-170-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS154A-Assessment1-Prep"
+              "title": "ECS-170-Main"
             }
           },
           {
-            "id": "469ef5b460066785",
+            "id": "a3f08ce8f5951d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-189G-Main.md",
+                "file": "College/Talks/White-Box-Transformers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-189G-Main"
+              "title": "White-Box-Transformers"
             }
           },
           {
-            "id": "d60fd9b72473ea5c",
+            "id": "e1095a6ff9b48a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Music-Recommender-Resources.md",
+                "file": "Coding/PyTorch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Music-Recommender-Resources"
+              "title": "PyTorch"
+            }
+          },
+          {
+            "id": "f29e6a273dab8117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS189G-Section4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ECS189G-Section4"
+            }
+          },
+          {
+            "id": "0cc8f1ab761d89f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/Project-4-Dump-Generation-Incremental.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project-4-Dump-Generation-Incremental"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1231,44 +1279,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d60fd9b72473ea5c",
+  "active": "0cc8f1ab761d89f8",
   "lastOpenFiles": [
-    "College/Classes/ECS-189G-Main.md",
-    "Coding/Music-Recommender-Resources.md",
+    "College/Classes/Project-4-Dump-Generation-Incremental.md",
     "College/Classes/ECS189G-Section4.md",
-    "College/Classes/Project-4-Dump-Attempt-9.md",
-    "College/Classes/Project-4-Dump-Attempt-6.md",
-    "College/Classes/Project-4-Dump-Attempt-8.md",
-    "College/Classes/Project-4-Dump-Attempt-7.md",
+    "Coding/Coding-Languages-Cheatsheets.md",
     "College/Classes/Project-4-Dump-Attempt-5.md",
-    "College/Classes/ECS154A-Assessment1-Prep.md",
-    "College/Classes/ECS189G-L20.md",
-    "College/Classes/ECS189G-L21.md",
-    "Attachments/Pasted image 20250519184747.png",
-    "Attachments/Pasted image 20250519184735.png",
-    "Attachments/Transformer-Architecture.png",
-    "Attachments/Hierarchical-RNN-Document-Classification.png",
-    "Attachments/Hierarchical-Document-RNN.png",
-    "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-L14.md",
+    "Coding/tmux-Cheatsheet.md",
+    "Coding/PyTorch.md",
+    "Coding/sed-Cheatsheet.md",
+    "College/Talks/White-Box-Transformers.md",
+    "Coding/Bash-Cheatsheet.md",
+    "Coding/Python-Packages.md",
+    "Coding/Matplotlib.md",
+    "Coding/Numpy.md",
+    "Coding/awk-Cheatsheet.md",
     "Coding/_Coding.md",
-    "Attachments/Dorsal-Ventral-Motor-Stream-PMd-PMv.png",
-    "Attachments/Behaviorally-Relevant-M1-Stimulation.png",
-    "Attachments/External-Load-Affecting-Motor-Population-Vector.png",
-    "Attachments/Hand-Representation-Digit-Movement.png",
     "College/Classes/ECS-170-Main.md",
-    "College/Classes/ECS170-L22.md",
-    "Work/Plant-Science-Work.md",
-    "College/Classes/NPB173-L12.md",
     "College/Classes/NPB-173-Main.md",
-    "Coding/Linux.md",
-    "Coding/Window-Management.md",
-    "Attachments/Word-Embeddings-Image.png",
-    "College/Classes/ECS189G-L19.md",
-    "College/Classes/ECS189G-L18.md",
-    "College/Classes/Office-Hours.md",
-    "College/Talks/Neurosurgery-Understanding-The-Brain.md",
-    "College/Classes/NPB173-L11.md",
+    "College/Classes/ECS189G-L22.md",
+    "College/Classes/ECS-189G-Main.md",
+    "College/Classes/NPB-163-Main.md",
+    "Attachments/Pasted image 20250521183952.png",
+    "Attachments/Pasted image 20250521183013.png",
+    "College/Classes/ECS189G-L21.md",
+    "College/Talks/College-Talks.md",
+    "Attachments/Pasted image 20250521155928.png",
+    "Attachments/Pasted image 20250521155919.png",
+    "Attachments/Pasted image 20250521155840.png",
+    "Attachments/Pasted image 20250521155754.png",
+    "Attachments/Pasted image 20250521155656.png",
+    "Attachments/Pasted image 20250521155226.png",
+    "Attachments/Pasted image 20250521155103.png",
+    "Attachments/Pasted image 20250521154855.png",
+    "College/Classes/ECS170-L23.md",
+    "Work/Plant-Science-Work.md",
+    "College/Classes/ECS154A-Assessment1-Prep.md",
+    "Coding/Music-Recommender-Resources.md",
+    "College/Classes/Project-4-Dump-Attempt-9.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",

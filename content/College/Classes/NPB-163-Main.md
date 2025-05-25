@@ -60,16 +60,19 @@ Kandel et al.: Principles of Neural Science (4th, 5th, or 6th Edition)
 	- [[NPB163-MT1-Prep]]
 ### Unit 6 - Audition
 - Predictive Coding - [[NPB163-L10]]
-- w - [[NPB163-L11]]
+- Finished Predtive Coding, Started Motor 2, occular movement - [[NPB163-L11]]
+	- Studied for DLN, sat in class but no attention
 
 ### Unit 7 - 
-- Lecture Video (Motor Systems?) - [[NPB163-L12]]
-- DItched(midterm and motor? - [[NPB163-L13]]
-	- 
+- Lecture Video (Motor 3 - Skeletal System) - [[NPB163-L12]]
+- DItched(midterm and more motor 3?) - [[NPB163-L13]]
+
 ### Unit 8 - 
-- Motor - [[NPB163-L14]]
-
-
+- Motor 4 - Cortical Movement Control - [[NPB163-L14]]
+- Finish Motor 4 (optimal motor control) and ... ? Cerebellum ? - [[NPB163-L15]]
+	- Skipped to go to [[White-Box-Transformers]] talk
+### Unit 9 - Basal Ganglia
+-  [[NPB163-L16]]
 
 
 

@@ -17,7 +17,7 @@ One of the most important things for me to be effective in Data Science and ML i
 - SciPy
 - TensorFlow
 - Keras
-- PyTorch
+- [[PyTorch]]
 - NLTK
 - Hugging Face
 - Jupyter

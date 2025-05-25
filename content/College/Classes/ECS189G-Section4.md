@@ -27,6 +27,7 @@ tags:
 [[Project-4-Dump-Attempt-8]]
 [[Project-4-Dump-Attempt-9]]
 
+[[Project-4-Dump-Generation-Incremental]]
 ### Exact Instructions
 Stage 4: Text classification and generation with RNN model
 (Dataset, Report Template)

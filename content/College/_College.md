@@ -73,6 +73,7 @@ aliases:
 [Intro to Neural Data Science Course](https://github.com/neural-data-science/NESC_3505_textbook)
 [Norm Matloff Classes](https://heather.cs.ucdavis.edu/matloff/public_html/)
 - Includes a number of ECS classes, like ECS 158 (programming parallelism)
+[Amanda Raybuck Datacenters and OS](https://web.cs.ucdavis.edu/~araybuck/)
 
 ![[College-Talks#🔗 -> Event Postings / Resources]]
 

@@ -67,4 +67,5 @@ A hub for all the college talks I attend
 - [[Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders]]
 - [[2025-California-Neurotechnology-Conference]]
 - [[AIFS-2025-Challenge]]
+- [[White-Box-Transformers]]
 
