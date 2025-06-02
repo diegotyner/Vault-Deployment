@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/_College.md",
+                "file": "Scratch/Movies-To-Watch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_College"
+              "title": "Movies-To-Watch"
             }
           }
         ]
@@ -159,6 +159,7 @@
   },
   "active": "afdafc51bae09d09",
   "lastOpenFiles": [
+    "College/_College.md",
     "Scratch/Get-From-Home.md",
     "College/Talks/2025-California-Neurotechnology-Conference.md",
     "Untitled",
@@ -188,7 +189,6 @@
     "College/Classes/ECS124-Final-Prep.md",
     "College/Classes/NPB162-L18.md",
     "College/Classes/NPB-162-Main.md",
-    "College/_College.md",
     "Scratch/Movies-To-Watch.md",
     "College/Talks/NeuroFest-10th-Anniversary.md",
     "College/Talks/Laminar-Circuit-Motifs-for-Language.md",

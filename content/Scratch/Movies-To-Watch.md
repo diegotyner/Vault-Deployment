@@ -23,11 +23,13 @@
 - age of ultron
 - parasite
 - succession 
-- Donnie dark
+- Donnie darko
 - rosemary baby
 - broke back mountain
 - planet of the apes
 - lord of the rings
+- the notebook
+- manchester house (depression?)
 
 Watched:
 - ~~Gaslight 1944~~

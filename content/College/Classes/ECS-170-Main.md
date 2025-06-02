@@ -97,13 +97,16 @@ No textbook is required, and below are the recommended books to read:
 
 ### Week 9
 05/26	No Class (Holiday)		 	 
-05/28	Machine Learning - [[ECS170-L25]] 		 	 
+05/28	HMM Extended and Machine Learning - [[ECS170-L25]] 		 	 
+- didnt manage to get the first HMM stuff
+05/29	Discussion: - [[ECS170-D9]]
 05/30	Neural Networks and Transformers - [[ECS170-L26]] 		 	 
 
 ### Week 10
 06/02	Neural Networks and Transformers - [[ECS170-L27]] 		 	 		 	 
 06/04	Large Language Models - [[ECS170-L28]] 		 	 		
 
+[[ECS170-Final-Prep]]
 
 ---
 ### Topics

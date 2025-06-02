@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e4e5709ba9a5d4fe",
+            "id": "e1893f4cd9294b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-170-Main.md",
+                "file": "College/Classes/ECS170-Final-Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-170-Main"
+              "title": "ECS170-Final-Prep"
+            }
+          },
+          {
+            "id": "439e74f466ad2574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS170-Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ECS170-Search"
             }
           },
           {
@@ -80,12 +104,12 @@
             }
           },
           {
-            "id": "e1095a6ff9b48a0d",
+            "id": "8e90d565f0b447ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/PyTorch.md",
+                "file": "College/Classes/ECS-170-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PyTorch"
+              "title": "ECS-170-Main"
             }
           },
           {
-            "id": "f29e6a273dab8117",
+            "id": "ca99fb089a960ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS189G-Section4.md",
+                "file": "College/Classes/ECS170-L26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS189G-Section4"
+              "title": "ECS170-L26"
             }
           },
           {
-            "id": "0cc8f1ab761d89f8",
+            "id": "683d41b56cb36a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/Project-4-Dump-Generation-Incremental.md",
+                "file": "College/Classes/ECS170-D9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +172,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project-4-Dump-Generation-Incremental"
+              "title": "ECS170-D9"
+            }
+          },
+          {
+            "id": "9ebe4a9d3382384a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS170-L27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ECS170-L27"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -245,10 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Classes/Fall-Quarter-2024.md"
+                "file": "College/Classes/NPB173-L16.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fall-Quarter-2024"
+              "title": "Outline of NPB173-L16"
             }
           },
           {
@@ -1220,7 +1271,7 @@
             }
           }
         ],
-        "currentTab": 96
+        "currentTab": 1
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1232,7 +1283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "College/Classes/ECS124-Final-Prep.md",
+                "file": "College/Classes/NPB173-L16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1260,7 +1311,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ECS124-Final-Prep"
+              "title": "Graph of NPB173-L16"
             }
           }
         ]
@@ -1279,44 +1330,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0cc8f1ab761d89f8",
+  "active": "9ebe4a9d3382384a",
   "lastOpenFiles": [
-    "College/Classes/Project-4-Dump-Generation-Incremental.md",
-    "College/Classes/ECS189G-Section4.md",
-    "Coding/Coding-Languages-Cheatsheets.md",
-    "College/Classes/Project-4-Dump-Attempt-5.md",
-    "Coding/tmux-Cheatsheet.md",
-    "Coding/PyTorch.md",
-    "Coding/sed-Cheatsheet.md",
-    "College/Talks/White-Box-Transformers.md",
-    "Coding/Bash-Cheatsheet.md",
-    "Coding/Python-Packages.md",
-    "Coding/Matplotlib.md",
-    "Coding/Numpy.md",
-    "Coding/awk-Cheatsheet.md",
-    "Coding/_Coding.md",
+    "Attachments/Bias-Variance-Tradeoff.png",
+    "College/Classes/ECS170-L27.md",
+    "Attachments/Learned-Parameters-Polynomial-Estimators.png",
+    "Attachments/Polynomial-Degree-Generalizability-ML.png",
+    "Attachments/Pasted image 20250602133005.png",
+    "College/Classes/ECS170-D9.md",
     "College/Classes/ECS-170-Main.md",
+    "College/Classes/ECS170-L26.md",
+    "Attachments/Minimax-Alpha-Beta-Pruning.png",
+    "Scratch/Class-Stack.md",
+    "College/Classes/ECS170-L25.md",
+    "College/Talks/White-Box-Transformers.md",
+    "Work/_Work.md",
+    "Attachments/Minimax-Algorithm-Visualization.png",
     "College/Classes/NPB-173-Main.md",
-    "College/Classes/ECS189G-L22.md",
-    "College/Classes/ECS-189G-Main.md",
-    "College/Classes/NPB-163-Main.md",
-    "Attachments/Pasted image 20250521183952.png",
-    "Attachments/Pasted image 20250521183013.png",
-    "College/Classes/ECS189G-L21.md",
-    "College/Talks/College-Talks.md",
-    "Attachments/Pasted image 20250521155928.png",
-    "Attachments/Pasted image 20250521155919.png",
-    "Attachments/Pasted image 20250521155840.png",
-    "Attachments/Pasted image 20250521155754.png",
-    "Attachments/Pasted image 20250521155656.png",
-    "Attachments/Pasted image 20250521155226.png",
-    "Attachments/Pasted image 20250521155103.png",
-    "Attachments/Pasted image 20250521154855.png",
-    "College/Classes/ECS170-L23.md",
+    "College/Classes/NPB173-L16.md",
+    "Attachments/Typical-Antipsychotic-Application-Schizophrenia.png",
+    "Attachments/Pasted image 20250529094557.png",
+    "Brain/Neurotransmitters.md",
+    "Attachments/Monoamine-Neurotransmitters.png",
+    "College/Classes/ECS170-Final-Prep.md",
+    "College/Classes/ECS170-Search.md",
     "Work/Plant-Science-Work.md",
-    "College/Classes/ECS154A-Assessment1-Prep.md",
-    "Coding/Music-Recommender-Resources.md",
-    "College/Classes/Project-4-Dump-Attempt-9.md",
+    "College/Classes/ECS-189G-Main.md",
+    "College/Classes/ECS189G-L24.md",
+    "College/Classes/ECS189G-L22.md",
+    "Coding/ML-Study/Data-Processing.md",
+    "Coding/ML-Study/Normalization-vs-Standardization.md",
+    "Coding/ML-Study/_ML-Study.md",
+    "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-L16.md",
+    "College/Talks/College-Talks.md",
+    "Attachments/Cost-Benefit-Dependent-Action-Selection-Model.png",
+    "College/Classes/ECS170-AI-Intro.md",
+    "Coding/PyTorch.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",

@@ -97,8 +97,11 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 - RNN? - [[ECS189G-L20]]
 
 
-### Unit 8 - 
+### Unit 8 - RNN / Transfomers / GNN
 - RNN / - [[ECS189G-L21]]
 - Transformer - [[ECS189G-L22]]
-
+- GNN - [[ECS189G-L23]]
 [[ECS189G-Section4]]
+### Unit 9 - GNN / Networks Embeddings
+- GNN - [[ECS189G-L24]]
+	- Sparse notes, did not really understand

@@ -72,6 +72,7 @@ Kandel et al.: Principles of Neural Science (4th, 5th, or 6th Edition)
 - Finish Motor 4 (optimal motor control) and ... ? Cerebellum ? - [[NPB163-L15]]
 	- Skipped to go to [[White-Box-Transformers]] talk
 ### Unit 9 - Basal Ganglia
+- **Memorial Day**
 -  [[NPB163-L16]]
 
 

@@ -35,7 +35,7 @@ One common task is to group similar examples together called clustering.
 Another common goal of unsupervised algorithms is to reduce dimensions. This can help algorithms to run faster, reduce noise, and can sometimes to make data more interpretable.
 
 
-### Reinforcement Learning (RL):
+### [[Reinforcement-Learning]] (RL):
 Attempting to maximize a goal. Feedback is given to an agent / model.
 - Maximize points in a game
 

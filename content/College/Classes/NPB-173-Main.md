@@ -72,6 +72,7 @@ Attention Deficit Hyperactivity Disorder - [[NPB173-L14]]
 ### Week 9
 Anxiety disorders - [[NPB173-L15]]
 Depression and Schizophrenia - [[NPB173-L16]]
+- A few sections missing notes
 ### Week 10
 Review and synthesis of concepts in Section 3 - [[NPB173-L17]]
 **EXAM #3**

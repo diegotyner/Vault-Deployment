@@ -71,7 +71,8 @@ Works well for sigmoid activation functions (already expecting 0-1 inputs)
 
 > May not help models that are scale-invariant like linear regression — Linear models don’t require normalization since adding a constant input bias term absorbs any offsets in scale.
 
-
+#### Class Connection:
+![[ECS189G-L22#Normalization]]
 
 
 ## 🧪-> Example

@@ -68,4 +68,7 @@ A hub for all the college talks I attend
 - [[2025-California-Neurotechnology-Conference]]
 - [[AIFS-2025-Challenge]]
 - [[White-Box-Transformers]]
-
+Meta-level Research Approaches:
+1. Additive: P+x = ?
+2. Ablative: P-y = ?
+3. Alternative: P-y+x = ?
