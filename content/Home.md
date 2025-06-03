@@ -18,8 +18,7 @@ Quick tips before you get started:
 	- I love fuzzy finding!
 - You can preview a page by hovering over it
 	- *This can also tell you if I haven't made the page yet*
-- I'd recommend switching to the dark mode, I've configured more of the colors for that:
-	- [[Obsidian-Themes|Colors]]
+	- I'd recommend switching to the dark mode, I've configured more of the [[Obsidian-Themes|colors]] for that:
 - Throughout my vault, you'll see code blocks at the top of the page with headers that say "Dataview". Ignore these, those are personal automations in my vault. 
 
 
@@ -37,6 +36,8 @@ Quick tips before you get started:
 [[_Math|Math]]
 [[_Brain|Brain]]
 > - Watch out for empty links!
+
+[[Music]]
 
 
 ### Quick Notes

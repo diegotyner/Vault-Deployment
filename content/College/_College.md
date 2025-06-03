@@ -74,6 +74,7 @@ aliases:
 [Norm Matloff Classes](https://heather.cs.ucdavis.edu/matloff/public_html/)
 - Includes a number of ECS classes, like ECS 158 (programming parallelism)
 [Amanda Raybuck Datacenters and OS](https://web.cs.ucdavis.edu/~araybuck/)
+[BIM courses - 280 syllabus here](https://bmegg.ucdavis.edu/courses)
 
 ![[College-Talks#🔗 -> Event Postings / Resources]]
 

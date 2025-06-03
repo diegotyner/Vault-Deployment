@@ -103,5 +103,15 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 - GNN - [[ECS189G-L23]]
 [[ECS189G-Section4]]
 ### Unit 9 - GNN / Networks Embeddings
+- *holiday*
 - GNN - [[ECS189G-L24]]
 	- Sparse notes, did not really understand
+- [[ECS189G-L25]]
+	- Skipped, banquet
+
+### Unit 10 - DLN
+- [[ECS189G-L26]]
+	- did not understand anything
+
+
+

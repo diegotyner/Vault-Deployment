@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "8e90d565f0b447ac",
+            "id": "2e023cd51686ba8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS-170-Main.md",
+                "file": "College/Classes/ECS-189G-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS-170-Main"
+              "title": "ECS-189G-Main"
             }
           },
           {
-            "id": "ca99fb089a960ea6",
+            "id": "b8b966cd401728cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS170-L26.md",
+                "file": "College/Classes/ECS189G-L26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS170-L26"
+              "title": "ECS189G-L26"
             }
           },
           {
-            "id": "683d41b56cb36a6a",
+            "id": "aaedc34464a4c251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Music"
+            }
+          },
+          {
+            "id": "6dd0de263b2b0e84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,30 +197,6 @@
               },
               "icon": "lucide-file",
               "title": "ECS170-D9"
-            }
-          },
-          {
-            "id": "9ebe4a9d3382384a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS170-L27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS170-L27"
             }
           }
         ],
@@ -1330,43 +1330,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9ebe4a9d3382384a",
+  "active": "6dd0de263b2b0e84",
   "lastOpenFiles": [
-    "Attachments/Bias-Variance-Tradeoff.png",
+    "College/Classes/LIN175-D9.md",
+    "Music.md",
+    "College/Classes/ECS189G-L26.md",
+    "College/Classes/ECS-189G-Main.md",
+    "College/Talks/White-Box-Transformers.md",
+    "index.md",
+    "Home.md",
+    "College/Classes/NPB-163-Main.md",
+    "College/Classes/NPB163-L17.md",
+    "College/_College.md",
+    "Attachments/Cortical-Association-Areas.png",
+    "College/Classes/ECS-170-Main.md",
+    "College/Classes/ECS170-L26.md",
+    "College/Classes/ECS170-D9.md",
     "College/Classes/ECS170-L27.md",
+    "Attachments/Error-Vs-Training-Set-Size-Polynomial-Estimator.png",
+    "Attachments/Parameters-Degree-9-Polynomial-Training-Set-Size.png",
+    "Attachments/Model-Complexity-and-Bias-Variance.png",
+    "Attachments/Bias-Variance-Tradeoff.png",
     "Attachments/Learned-Parameters-Polynomial-Estimators.png",
     "Attachments/Polynomial-Degree-Generalizability-ML.png",
     "Attachments/Pasted image 20250602133005.png",
-    "College/Classes/ECS170-D9.md",
-    "College/Classes/ECS-170-Main.md",
-    "College/Classes/ECS170-L26.md",
     "Attachments/Minimax-Alpha-Beta-Pruning.png",
     "Scratch/Class-Stack.md",
     "College/Classes/ECS170-L25.md",
-    "College/Talks/White-Box-Transformers.md",
     "Work/_Work.md",
     "Attachments/Minimax-Algorithm-Visualization.png",
     "College/Classes/NPB-173-Main.md",
     "College/Classes/NPB173-L16.md",
-    "Attachments/Typical-Antipsychotic-Application-Schizophrenia.png",
-    "Attachments/Pasted image 20250529094557.png",
     "Brain/Neurotransmitters.md",
-    "Attachments/Monoamine-Neurotransmitters.png",
     "College/Classes/ECS170-Final-Prep.md",
     "College/Classes/ECS170-Search.md",
     "Work/Plant-Science-Work.md",
-    "College/Classes/ECS-189G-Main.md",
     "College/Classes/ECS189G-L24.md",
     "College/Classes/ECS189G-L22.md",
     "Coding/ML-Study/Data-Processing.md",
-    "Coding/ML-Study/Normalization-vs-Standardization.md",
-    "Coding/ML-Study/_ML-Study.md",
-    "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-L16.md",
-    "College/Talks/College-Talks.md",
-    "Attachments/Cost-Benefit-Dependent-Action-Selection-Model.png",
-    "College/Classes/ECS170-AI-Intro.md",
-    "Coding/PyTorch.md",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",

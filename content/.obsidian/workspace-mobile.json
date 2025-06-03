@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Movies-To-Watch.md",
+                "file": "Music.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movies-To-Watch"
+              "title": "Music"
             }
           }
         ]
@@ -159,6 +159,19 @@
   },
   "active": "afdafc51bae09d09",
   "lastOpenFiles": [
+    "Scratch/Movies-To-Watch.md",
+    "Music.md",
+    "College/Classes/ECS189G-L26.md",
+    "College/Classes/NPB163-L17.md",
+    "College/Classes/ECS170-L27.md",
+    "Attachments/Polynomial-Degree-Generalizability-ML.png",
+    "Attachments/Parameters-Degree-9-Polynomial-Training-Set-Size.png",
+    "Attachments/Model-Complexity-and-Bias-Variance.png",
+    "Attachments/Minimax-Alpha-Beta-Pruning.png",
+    "Attachments/Learned-Parameters-Polynomial-Estimators.png",
+    "Attachments/Error-Vs-Training-Set-Size-Polynomial-Estimator.png",
+    "Attachments/Cortical-Association-Areas.png",
+    "Attachments/Bias-Variance-Tradeoff.png",
     "College/_College.md",
     "Scratch/Get-From-Home.md",
     "College/Talks/2025-California-Neurotechnology-Conference.md",
@@ -167,14 +180,6 @@
     "College/Talks/neuroscience-conference.md",
     "College/Talks/College-Talks.md",
     "Attachments/20250426_161718.jpg",
-    "Attachments/20250426_161601.jpg",
-    "Attachments/20250426_161542.jpg",
-    "Attachments/20250426_153433.jpg",
-    "Attachments/20250426_144706.jpg",
-    "Attachments/20250426_153517.jpg",
-    "Attachments/20250426_132542.jpg",
-    "Attachments/20250426_132403.jpg",
-    "Attachments/20250426_132210.jpg",
     "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md",
     "College/Classes/ECS-174-Main.md",
     "Scratch/Groceries.md",
@@ -189,12 +194,7 @@
     "College/Classes/ECS124-Final-Prep.md",
     "College/Classes/NPB162-L18.md",
     "College/Classes/NPB-162-Main.md",
-    "Scratch/Movies-To-Watch.md",
     "College/Talks/NeuroFest-10th-Anniversary.md",
-    "College/Talks/Laminar-Circuit-Motifs-for-Language.md",
-    "College/LIN175-L14.md",
-    "Brain/Frontal-Lobe.md",
-    "Tasks/Reading/PET-Generation-of-Music-and-Language-in-the-Brain.md",
-    "College/LIN175-L10.md"
+    "College/Talks/Laminar-Circuit-Motifs-for-Language.md"
   ]
 }
