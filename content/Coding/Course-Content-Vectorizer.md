@@ -62,6 +62,7 @@ Its officially on the way!
 | 506273622 - 1_tkz9ulng - PID 1770401.txt |     |
 how to tell if a page needs Javascript to load? Fix the no endpoint bug
 - do I have to learn selenium 😢
+	- The answer was sort of. There was the easier to approach of directly hitting canvas api, but the lecture transcript did need javascript to activate button. 
 
 Automated pushing to Google drive. Lectures should be hosted there, not on vps
 
@@ -84,6 +85,9 @@ postgres=# CREATE TABLE chunks (
     created_at TIMESTAMP DEFAULT NOW()
 );
 ```
+
+https://www.reddit.com/r/LangChain/comments/1g1cm9n/generating_embeddings_for_a_large_document_10/
+https://www.youtube.com/watch?v=Hj7PuK1bMZU
 
 ## 🎟 Features
 ### Existing

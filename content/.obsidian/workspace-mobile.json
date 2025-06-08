@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music.md",
+                "file": "Scratch/Groceries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Music"
+              "title": "Groceries"
             }
           }
         ]
@@ -150,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -159,8 +160,10 @@
   },
   "active": "afdafc51bae09d09",
   "lastOpenFiles": [
-    "Scratch/Movies-To-Watch.md",
+    "Music/Piano.md",
+    "College/Classes/NPB173-L17.md",
     "Music.md",
+    "Scratch/Movies-To-Watch.md",
     "College/Classes/ECS189G-L26.md",
     "College/Classes/NPB163-L17.md",
     "College/Classes/ECS170-L27.md",
@@ -193,8 +196,6 @@
     "Work/Plant-Science-Work.md",
     "College/Classes/ECS124-Final-Prep.md",
     "College/Classes/NPB162-L18.md",
-    "College/Classes/NPB-162-Main.md",
-    "College/Talks/NeuroFest-10th-Anniversary.md",
-    "College/Talks/Laminar-Circuit-Motifs-for-Language.md"
+    "College/Classes/NPB-162-Main.md"
   ]
 }

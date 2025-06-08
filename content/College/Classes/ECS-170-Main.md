@@ -105,27 +105,35 @@ No textbook is required, and below are the recommended books to read:
 ### Week 10
 06/02	Neural Networks and Transformers - [[ECS170-L27]] 		 	 		 	 
 06/04	Large Language Models - [[ECS170-L28]] 		 	 		
-
+06/05	Discussion: - [[ECS170-D10]]
 [[ECS170-Final-Prep]]
 
+
 ---
-### Topics
-#### Search
+### Topics Actually Covered
 
-#### Games as Search
+#### AI Intro - [[ECS170-AI-Intro]]
 
-#### Constraint Satisfaction Problem
+#### Search - [[ECS170-Search]]
 
-#### Logic
+#### Constraint Satisfaction - [[ECS170-Constraint-Satisfaction]]
 
-#### Probability
+#### Logic - [[ECS170-Logic]]
 
-#### Markov Processes
+#### Probability - [[ECS170-Probability]]
 
-#### Decision Theoretic Agentics
+#### Machine Learning - [[ECS170-Machine-Learning]]
 
-#### Intro to AI
-
-#### NLP
+---
+### Initial Class Goals
+Search
+Games as Search 
+Constraint Satisfaction Problem
+Logic
+Probability
+Markov Processes
+Decision Theoretic Agentics
+Intro to AI
+NLP
 
 

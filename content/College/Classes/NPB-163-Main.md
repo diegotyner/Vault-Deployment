@@ -77,7 +77,10 @@ Kandel et al.: Principles of Neural Science (4th, 5th, or 6th Edition)
 
 ### Unit 10 - Sensorimotor Intergration
 - [[NPB163-L17]]
+- [[NPB163-L18]]
+	- *Final review sesh*
 
+[[NPB163-Final-Prep]]
 
 
 	

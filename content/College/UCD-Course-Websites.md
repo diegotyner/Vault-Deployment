@@ -1,3 +1,9 @@
+---
+created:
+  - " 06-04-2025 23:48"
+tags:
+---
+
 
 Most of these hosted at `https://web.cs.ucdavis.edu/~instructor/courses`
 
@@ -25,5 +31,10 @@ Game Researcher, has a [GitHub account] where he hosts resources
 [CDM198 Game Platforms](https://github.com/dr-jam/GamePlatforms)
 [ECS289G AI, Games, and Design](https://github.com/dr-jam/AI-Games-Design)
 
+##### Amanda Raybuck
+[Datacenters and OS](https://web.cs.ucdavis.edu/~araybuck/)
 
+##### Norm Matloff 
+[Classes](https://heather.cs.ucdavis.edu/matloff/public_html/)
+- Includes a number of ECS classes, like ECS 158 (programming parallelism)
 

@@ -62,6 +62,8 @@ aliases:
 
 ### Interesting Online Courses / Resources
 [[UCD-Course-Websites]]
+- Big hub for all the online UCD hosted courses I find
+ 
 [CS Tutoring Resource Page](https://ucd-cs-tutoring.notion.site/UCD-CS-Tutoring-Notion-Page-1394d2cecf0d4f36805fa1376f9758cc)
 [LLM Journal Club](https://g-simmons.github.io/llm_persona_website/journal.html)
 [Jiawei Zhang | Homepage](https://jiaweizhang.net/)
@@ -71,10 +73,10 @@ aliases:
 [UCD Datalab Github](https://github.com/orgs/ucdavisdatalab/repositories)
 [UCLA ML NLP](https://uclanlp.github.io/CS269-17/overview)
 [Intro to Neural Data Science Course](https://github.com/neural-data-science/NESC_3505_textbook)
-[Norm Matloff Classes](https://heather.cs.ucdavis.edu/matloff/public_html/)
-- Includes a number of ECS classes, like ECS 158 (programming parallelism)
-[Amanda Raybuck Datacenters and OS](https://web.cs.ucdavis.edu/~araybuck/)
 [BIM courses - 280 syllabus here](https://bmegg.ucdavis.edu/courses)
+[UMICH fMRI Course Online](https://courses.lsa.umich.edu/fmri-training-course/)
+[UCLA AI Safety Club](https://aisafetyatucla.org/)
+- A UCLA club that has some interesting resources, like intro to CUDA workshops
 
 ![[College-Talks#🔗 -> Event Postings / Resources]]
 

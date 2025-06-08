@@ -72,3 +72,5 @@ Meta-level Research Approaches:
 1. Additive: P+x = ?
 2. Ablative: P-y = ?
 3. Alternative: P-y+x = ?
+- [[Probing-Human-Memory-and-Decision-Making-at-the-Single-Neuron-Level]]
+- [[Ad-Click-Prediction-A-Look-at-Industrial-Scale-Ads-Recommendation-Models]]

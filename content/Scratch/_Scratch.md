@@ -8,9 +8,12 @@ tags:
 [[Pirate]]
 [[Movies-To-Watch]]
 
-##### More Interesting
-[[Class-Stack]]
+##### Chicken Scratch
 > [[Obsidian-Themes]] <- Pretty!
+
+[[Class-Stack]]
+[[Tab-Stack]]
+
 
 ##### Old:
 [[CalFresh]]

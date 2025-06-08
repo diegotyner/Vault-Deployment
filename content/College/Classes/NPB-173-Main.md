@@ -42,6 +42,14 @@ Consider how insights about underlying mechanisms may lead to the development of
 Readings: Background reading assignments will come from chapters in the book Neurobiology of Brain Disorders, Michael J. Zigmond, Joseph T. Coyle and Lewis Rowland (Editors). Chapters from this book are freely available from the UC Davis network using this website:
 - https://www.sciencedirect.com/science/book/9780123982704
 
+##### Recommended Further Reading (After Class Finished):
+> Not required for the class, but the perspective of thinking about the brain as a complex dynamical system for understanding brain disorders is nicely described in a recent book by UPenn neuroscientist Nicole Rust:
+> https://www.amazon.com/Elusive-Cures-Neuroscience-Solved-Disorders_and/dp/0691243050Links 
+> And here is a very recent paper that puts that perspective into practice in advancing scientific understanding:
+> https://www.science.org/doi/10.1126/science.adt3971
+> And an associated press release:
+> https://med.stanford.edu/news/all-news/2025/05/emotions-eye-puff.html
+
 ## 📄 Class Material
 ### Week 1
 Introduction - [[NPB173-L1]]
@@ -75,6 +83,6 @@ Depression and Schizophrenia - [[NPB173-L16]]
 - A few sections missing notes
 ### Week 10
 Review and synthesis of concepts in Section 3 - [[NPB173-L17]]
-**EXAM #3**
+**EXAM #3** - [[NPB173-MT3-Prep]]
 
 

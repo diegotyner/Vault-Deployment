@@ -112,6 +112,8 @@ An Introduction to Deep Learning and Neural Networks for Senior Undergraduate an
 ### Unit 10 - DLN
 - [[ECS189G-L26]]
 	- did not understand anything
+- [[ECS189G-L27]]
 
-
+[[ECS189G-Graph-Neural-Networks]]
+[[ECS189G-Final-Prep]]
 

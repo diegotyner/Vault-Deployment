@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ab6f7b0a39e69ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Plant-Science-Work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Plant-Science-Work"
-            }
-          },
-          {
             "id": "e1893f4cd9294b0c",
             "type": "leaf",
             "state": {
@@ -53,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "ECS170-Final-Prep"
-            }
-          },
-          {
-            "id": "439e74f466ad2574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS170-Search.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS170-Search"
             }
           },
           {
@@ -104,7 +56,7 @@
             }
           },
           {
-            "id": "2e023cd51686ba8b",
+            "id": "9c61c425dffd268a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,12 +80,12 @@
             }
           },
           {
-            "id": "b8b966cd401728cd",
+            "id": "da52856508a097d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS189G-L26.md",
+                "file": "College/Classes/ECS189G-Final-Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,40 +100,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS189G-L26"
+              "title": "ECS189G-Final-Prep"
             }
           },
           {
-            "id": "aaedc34464a4c251",
+            "id": "d16737c37806641c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Music.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Attachments/Topics-Covered-ECS189G.png"
               },
-              "icon": "lucide-file",
-              "title": "Music"
+              "icon": "lucide-image",
+              "title": "Topics-Covered-ECS189G"
             }
           },
           {
-            "id": "6dd0de263b2b0e84",
+            "id": "d8589538fb60eda4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Classes/ECS170-D9.md",
+                "file": "Work/_Work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +136,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS170-D9"
+              "title": "_Work"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1327,47 +1267,50 @@
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6dd0de263b2b0e84",
+  "active": "d8589538fb60eda4",
   "lastOpenFiles": [
-    "College/Classes/LIN175-D9.md",
-    "Music.md",
-    "College/Classes/ECS189G-L26.md",
+    "Attachments/Topics-Covered-ECS189G.png",
+    "College/Classes/ECS189G-Final-Prep.md",
     "College/Classes/ECS-189G-Main.md",
     "College/Talks/White-Box-Transformers.md",
-    "index.md",
-    "Home.md",
+    "Excalidraw/NPB163-Final-Prep 2025-06-07 19.14.45.excalidraw.md",
+    "Excalidraw/NPB163-Final-Prep 2025-06-07 18.32.20.excalidraw.md",
+    "College/Classes/NPB163-MT1-Prep.md",
+    "College/Classes/NPB163-Final-Prep.md",
     "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-L17.md",
-    "College/_College.md",
-    "Attachments/Cortical-Association-Areas.png",
-    "College/Classes/ECS-170-Main.md",
-    "College/Classes/ECS170-L26.md",
-    "College/Classes/ECS170-D9.md",
-    "College/Classes/ECS170-L27.md",
-    "Attachments/Error-Vs-Training-Set-Size-Polynomial-Estimator.png",
-    "Attachments/Parameters-Degree-9-Polynomial-Training-Set-Size.png",
-    "Attachments/Model-Complexity-and-Bias-Variance.png",
-    "Attachments/Bias-Variance-Tradeoff.png",
-    "Attachments/Learned-Parameters-Polynomial-Estimators.png",
-    "Attachments/Polynomial-Degree-Generalizability-ML.png",
-    "Attachments/Pasted image 20250602133005.png",
-    "Attachments/Minimax-Alpha-Beta-Pruning.png",
-    "Scratch/Class-Stack.md",
-    "College/Classes/ECS170-L25.md",
-    "Work/_Work.md",
-    "Attachments/Minimax-Algorithm-Visualization.png",
-    "College/Classes/NPB-173-Main.md",
-    "College/Classes/NPB173-L16.md",
-    "Brain/Neurotransmitters.md",
-    "College/Classes/ECS170-Final-Prep.md",
-    "College/Classes/ECS170-Search.md",
-    "Work/Plant-Science-Work.md",
+    "Music/Piano.md",
+    "Attachments/Vestibulo-Oculo-Reflex-VOR-Pathway.png",
+    "Attachments/Pathways-for-Smooth-Pursuit.png",
+    "Attachments/Pasted image 20250607190358.png",
+    "Excalidraw/NPB163-Final-Prep 2025-06-07 18.56.58.excalidraw.md",
+    "Attachments/Major-Pathways-Saccade-Generation.png",
+    "Attachments/Brain-Stem-Circuit-Horizontal-Saccades.png",
+    "Attachments/Brain-Stem-Nuclei-Involved-in-Eye-Movement-Control.png",
+    "College/Classes/NPB163-L1.md",
+    "College/Classes/ECS189G-Graph-Neural-Networks.md",
+    "Attachments/Typical-Antipsychotic-Application-Schizophrenia.png",
+    "Excalidraw/PDF-Annotation/DLN_final.pdf",
+    "Scratch/Tab-Stack.md",
+    "index.md",
+    "Scratch/_Scratch.md",
+    "Music",
+    "Scratch/CalFresh.md",
     "College/Classes/ECS189G-L24.md",
-    "College/Classes/ECS189G-L22.md",
-    "Coding/ML-Study/Data-Processing.md",
+    "College/Classes/ECS189G-L26.md",
+    "College/Talks/College-Talks.md",
+    "College/Talks/Ad-Click-Prediction-A-Look-at-Industrial-Scale-Ads-Recommendation-Models.md",
+    "College/Classes/ECS170-Final-Prep.md",
+    "College/Classes/ECS170-D10.md",
+    "College/Classes/ECS-170-Main.md",
+    "College/Classes/NPB173-MT3-Prep.md",
+    "College/Classes/NPB173-L17.md",
+    "Attachments/Circuit-Mechanisms-Parkinson's-Disease-Basal-Ganglia.png",
+    "Attachments/Anatomical-Connections-Basal-Ganglia-Spinal-Cord.png",
+    "Attachments/Annotated-Basal-Ganglia-Diagram.png",
     "4913",
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
@@ -1376,8 +1319,6 @@
     "Excalidraw/PDF-Annotation/ARCH-Assessment3.pdf",
     "Excalidraw/PDF-Annotation/ARCH-W25-Review.pdf",
     "Excalidraw/PDF-Annotation/ARCH-W25-Review",
-    "Excalidraw/PDF-Annotation/ECS 154A WI25 Final Review Copy.pdf",
-    "Excalidraw/PDF-Annotation/assessment3.f24.txt.pdf",
     "Untitled.canvas"
   ]
 }

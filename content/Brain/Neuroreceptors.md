@@ -31,6 +31,10 @@ Receives glutamate
 Lets in Sodium (Na+) and is one of the biggest workhorses in the brain
 > Its name is derived from its ability to be activated by the artificial glutamate analog AMPA
 
+### mGluR5
+Metabatropic Glutamate Receptor 5
+mentioned in [[NPB173-L17]]. Glutamate receptors, lead to protein synthesis
+
 ### GABA Receptor:
 Plays a big role in inhibition, receptive to GABA
 

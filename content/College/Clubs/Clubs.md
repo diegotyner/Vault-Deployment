@@ -39,4 +39,3 @@ Small summary
 [[Cyber-Security-Club]]
 [[AISC]]
 [[CSSA]]
-[[Cyber]]
