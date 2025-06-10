@@ -61,6 +61,12 @@ Fun Daily Game:
 
 SJC Airport effect? "Clockclock24"
 
+AI-Augmented Personal Text Editor
+- Minimalist, just centering on writing-drafting quick notes as you would in google docs, but with a few added features
+	- Hotkey-triggered LLM actions (grammar checks, tone feedback, passive voice, etc)
+	- Context aware chat interface for feedback, ideating
+
+
 ### Just fun to think about
 [[Blocks-World]]
 [[Notion-Blog]] - This one could be fun, but the time to benefit ratio is kind of awful. Notion exists lol. 

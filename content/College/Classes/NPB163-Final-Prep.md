@@ -6,6 +6,32 @@ tags:
 
 
 ### Week 1 - Intro & Techniques
+> // Review Slides:
+> Measuring Neural Activity
+> - Invasive
+> 	- Extracellular Recording
+> 		- Single-unit 
+> 		- LFPs
+> 		- Multiple contacts electrode
+> 		- Multiple electrode array
+> 	- Intracellular recording
+> 	- iEEG
+> 	- Optical Imaging (intrinsic signal optical imaging, VSD, CaSD)
+> - Non-invasive
+> 	- EEG, MEG, fMRI
+> Manipulating neuronal activity
+> - Inactivation
+> 	- Lesions
+> 		- Patients with lesions
+> 		- Experimental lesions
+> 	- Reversible inactivation
+> 		- Muscimol injection
+> 		- Cooling
+> 	- Optogenetic stimulation
+> - Activation
+> 	- Microstimulation
+> 	- Optogenetic stimulation
+
 ##### Intro:
 - Systems Neuroscience at different Levels
 - Systems Approach
@@ -59,11 +85,76 @@ tags:
 - Specific cells can be targeted 
 
 ### Week 2 - Neural Codes
+> // Review Slides:
+> - Single neuron rate code
+> - Population rate code (place code vs value code)
+> 	- Noise correlation, signal correlation
+> 	- Information theory (entropy, mutual information)
+> - Single neuron timing code
+> - Temporal population code
+> - Generating population response (spike generator, Poisson process)
+> - Reading out population response (population vector decoder, maximum likelihood decorder)
+> - Entropy and mutual information
 
 
 ### Week 3-6 - Sensory Systems
+> // Review Slides:
+> Visual System
+> - Visual sensory epithelium: Retina (Rod, Cone, center-surround RFs)
+> - LGN (retinotopic maps)
+> - V1 (simple, complex cells, depth perception-disparity, RF mapping)
+> 	- Retinotopic map, oriental preference map, ocular dominance map
+> - Visual processing beyond V1
+> 	- Ventral pathway (V2: illusory contour, border ownership; V4: color consistency; IT: object recognition)
+> 	- Dorsal pathway (motion processing, MT, MST)
+> 
+> Auditory System
+> - Auditory sensory epithelium: organ of Corti
+> - Cochlea (cochlear hair cells, frequency tuning)
+> - Sound localization: superior olivary nuclei, ITD, ILD
+> - A1
+> 	- Tonotopic map
+> 	- Spatial tuning (horizontal location)
+> 	- Synchronized code: low frequency & rate code: high frequency
+> - Cortical analysis of complex sound
+> 
+> Sensory Systems - Feedback, predictive coding, anticipating sensory consequences of own actions
+> - Predictive coding
+> - Anticipating sensory consequences of own actions
+> 	- Re-afference vs "efference copy" / "corollary discharge"
+> 	- Neural activity in sensory areas affected by predicted sensory consequences of actions (e.g. V1, MST)
 
 ### Week 6-8 - Motor Systems
+> // Review Slides:
+> Oculomotor System
+> - Purpose of eye movements
+> - Six types of eye movements
+> 	- Saccade, pursuit, VOR, optokietic movements, vergence, fixation
+> - Eye rotation and extraocular muscles
+> - Brain stem nuclei (oculomotor integrator circuitry)
+> - Superior colliculus
+> - Saccade generation (SC, FEF)
+> - Smooth pursuit
+> - VOR
+> 
+> Skeletal Motor System
+> - Skeletal motor system
+> 	- Motor unit
+> 	- Spinal reflexes
+> 		- Properties
+> 		- Types of reflex (e.g. withdrawal reflex; stretch reflex)
+> 		- Reflex vs. voluntary movements
+> 	- Descending pathways
+> 	- Cortical movement control
+> 		- Cortical movement control areas (cortical spinal connections)
+> 		- M1 organization
+> 		- Functions of M1:
+> 			- Encode movement parameters
+> 			- Optimal feedback control theory
+> 			- Graziano experiment: map of behaviorally relevant postures
+> 		- Functions of PM, SMA
+> 		- Optimal motor control theory
+
 #### Motor 1: Motor Systems Intro
 #### Motor 2: Oculomotor System
 ##### 6 Types of Eye Movements:
@@ -172,8 +263,26 @@ VOR & optokinetic both stabilize an image while the head is moving
 
 
 ### Week 8 - Cerebellum
+> // Review slides
+> Cerebellum
+> - Anatomy and functional division
+> - Anatomical structure of cerebellar cortex
+> - Cerebellar plasticity
+> - Overall roles of cerebellum
+> 	- Motor control: feedforward vs feedback controller
+> 	- Sensorimotor learning
+> 	- Timing
+> 	- Examples: eyeblink conditioning, saccade adaptation
 
 ### Week 9 - Basal Ganglia
+> // Review slides
+> Basal Ganglia
+> - Anatomy: 4 nuclei
+> - Mechanisms of actions (direct and indirect pathways)
+> - Huntington disease
+> - Parkinson disease and treatments
+> - Unifying theory: an action (or thought) selection network that is modified by reward-driven learning
+> - Cost-benefit dependent action selection model
 
 ### Week 10 - Sensorimotor Integrations
 
