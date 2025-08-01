@@ -7,6 +7,7 @@ tags:
 ##### Movies
 [[Pirate]]
 [[Movies-To-Watch]]
+[[Cinema-Watched]]
 
 ##### Chicken Scratch
 > [[Obsidian-Themes]] <- Pretty!

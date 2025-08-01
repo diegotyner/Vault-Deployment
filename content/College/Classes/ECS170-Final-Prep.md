@@ -26,6 +26,6 @@ tags:
 #### Machine Learning - [[ECS170-Machine-Learning]]
 - Machine Learning
 - Neural Networks and Transformers
-- Large Language Models
+> - Large Language Models
 
 

@@ -5,6 +5,7 @@
 ## Continued Interest
 #### Personal
 [[React]]
+[[Chrome-Extensions]]
 Astro? Static Next.js?
 
 #### For Work

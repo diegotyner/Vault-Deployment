@@ -11,7 +11,6 @@ list from [[]] and !outgoing([[]])
 
 ### Published
 Deployment
-- https://calendar-front-end-six.vercel.app/
 
 GitHub: 
 - https://github.com/diegotyner/CalendarFrontEnd

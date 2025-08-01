@@ -6,6 +6,7 @@ aliases:
 
 # 📘 Sub Pages
 - [[Goal-Kanban|Goal Kanban]]
+- [[Summer-2025]]
 
 
 # 📑 Task View

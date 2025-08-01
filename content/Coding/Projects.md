@@ -21,8 +21,10 @@ Obsidian Plugin
 - Continuation: [[Text-Extractor-Database]]
 [[Portfolio]]
 [[Handwriting-Recognition]]
-[[Risego]]
 [[Music-Recommender]]
+
+[[Self-Hosting]]
+
 
 
 ### Future

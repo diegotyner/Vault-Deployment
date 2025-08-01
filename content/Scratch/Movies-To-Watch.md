@@ -5,7 +5,7 @@
 - Christopher Nolan
 	- Tenet
 - Wes Anderson
-	- westerns?
+	- Isle of dogs
 - Good will hunting
 - moneyball
 - fast n furious
@@ -29,8 +29,26 @@
 - planet of the apes
 - lord of the rings
 - the notebook
-- manchester house (depression?)
+- james bond (casino royal)
+- green mile
+- green book
+- Mad max fury road
+- fight club
+- the pianist
+- ex machina
+- apocalypse now
+- district 9
+- John wck
+- Indiana jones 
+- old westerns?
+- game of thrones 
+- saving private ryan
+- casanova
+- Schindlers list
+- napoleon dynamite
+
+
 
 Watched:
-- ~~Gaslight 1944~~
-- 
+- Gaslight 1944
+- manchester house
