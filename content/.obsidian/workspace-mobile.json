@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Violin.md",
+                "file": "Scratch/Cinema-Watched.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Violin"
+              "title": "Cinema-Watched"
             }
           }
         ]
@@ -160,6 +160,9 @@
   },
   "active": "afdafc51bae09d09",
   "lastOpenFiles": [
+    "College/Fall-Quarter-2024.md",
+    "Music/Violin.md",
+    "Music/qatched.md",
     "Scratch/Movies-To-Watch.md",
     "Scratch/Cinema-Watched.md",
     "Coding/ID3-Tags.md",
@@ -193,9 +196,6 @@
     "College/Classes/ECS122A-Final-Prep.md",
     "College/Classes/ECS-122A-Main.md",
     "Coding/Projects.md",
-    "Coding/Course-Content-Vectorizer.md",
-    "Excalidraw/ECS154A-D2 2025-03-20 09.41.33.excalidraw.md",
-    "College/Classes/ECS154A-L6.md",
-    "College/Classes/LIN175-Midterm3-Prep.md"
+    "Coding/Course-Content-Vectorizer.md"
   ]
 }

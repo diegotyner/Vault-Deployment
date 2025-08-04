@@ -78,57 +78,9 @@
               "icon": "lucide-file",
               "title": "Piano"
             }
-          },
-          {
-            "id": "731948d99595f2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/_Coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Coding"
-            }
-          },
-          {
-            "id": "ae02da8e39bbae93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Docker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1260,7 +1212,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae02da8e39bbae93",
+  "active": "18ce6a390dd35c16",
   "lastOpenFiles": [
     "Coding/_Coding.md",
     "Coding/Docker.md",

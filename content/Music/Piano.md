@@ -47,3 +47,11 @@ Autumn Leaves
 Fly me to the moon
 The girl from ipanema
 Isn't She Lovely
+"Wave" by Antônio Carlos Jobim (Tom Jobim)
+I'll be seeing you
+
+#### Musescore to transcribe
+Autumn Leaves - Piano Groove
+Pure Imagination - Piano Groove
+Cassiopea Music
+inperplex piano
