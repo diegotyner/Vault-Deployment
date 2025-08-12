@@ -14,6 +14,7 @@ Fun watch! I'm always a sucker for a witty romcom. It felt a bit like three diff
 1) Women's wall street movie. It feels like a bit of a satire of course, point out some of the ridiculousness of dating, and it might of just been me but it missed some of the sharpness I come to expect from this genre.
 2) World comes crumbling down, conflict between boyfriends and own place in the world (am I really a materialist, what do I want from a boyfriend as well as own career, what am I doing here, is this moral to clients)
 3) Self actualization, making amends, and pursuing true love.
+
 *ASTERISK*, fun watch as in worth watching not necessarily a popcorn flick fun. The dating scenes are like a joke from your mom about you at a dining table. So deeply personal, that one will eventually land and you'll be forced to just chuckle awkardly at it.
 
 Pedro Pascal is always a win for me, what a fella. His scenes are always fun, but he feels to warm for me to view him as a bad match lol. I guess that's the point? He's almost perfect on paper but still doesn't work. He never gets to have an emotional personal talk about Lucy, really believes his money is the romance maker, and seems distant towards her as the movie progresses. But by virtue of being Pedro I still wanted more scenes of him. I almost didn't believe him to be as distant as he was depicted as being.
