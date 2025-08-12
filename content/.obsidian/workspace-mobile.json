@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Cinema-Watched.md",
+                "file": "Scratch/Groceries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cinema-Watched"
+              "title": "Groceries"
             }
           }
         ]
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scratch/Movies-To-Watch.md",
+            "file": "Scratch/Cinema-Watched.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,14 +160,17 @@
   },
   "active": "afdafc51bae09d09",
   "lastOpenFiles": [
+    "College/Talks/Neurotech-Promoting-Recovery-Post-Injury.md",
+    "Scratch/Cinema-Watched.md",
+    "Reading/Agapē-Agape.md",
+    "Work/Forage-Sampling.md",
+    "Music/Piano.md",
     "College/Fall-Quarter-2024.md",
     "Music/Violin.md",
     "Music/qatched.md",
     "Scratch/Movies-To-Watch.md",
-    "Scratch/Cinema-Watched.md",
     "Coding/ID3-Tags.md",
     "Scratch/_Scratch.md",
-    "Music/Piano.md",
     "Scratch/Summer-2025.md",
     "Scratch/Groceries.md",
     "College/Classes/NPB173-L17.md",
@@ -193,9 +196,6 @@
     "Attachments/20250426_161718.jpg",
     "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md",
     "College/Classes/ECS-174-Main.md",
-    "College/Classes/ECS122A-Final-Prep.md",
-    "College/Classes/ECS-122A-Main.md",
-    "Coding/Projects.md",
-    "Coding/Course-Content-Vectorizer.md"
+    "College/Classes/ECS122A-Final-Prep.md"
   ]
 }

@@ -9,6 +9,7 @@ tags:
 - [musescore instead of reddit](https://musescore.com/user/40554345/scores/8945060)
 [minor swing?](https://musescore.com/user/8699541/scores/8892003)
 
+[Schindlers List Fingerings](https://violinlab.com/wp-content/uploads/2024/09/Schindlers_List_part_with_fingerings_and_measure_numbers.pdf)
 
 ### Reference
 

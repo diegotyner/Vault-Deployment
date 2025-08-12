@@ -7,7 +7,7 @@ tags:
 ##### Movies
 [[Pirate]]
 [[Movies-To-Watch]]
-[[Cinema-Watched]]
+[[Media-Reviews]]
 
 ##### Chicken Scratch
 > [[Obsidian-Themes]] <- Pretty!
@@ -15,6 +15,7 @@ tags:
 [[Class-Stack]]
 [[Tab-Stack]]
 
+[[Configs]]
 
 ##### Old:
 [[CalFresh]]

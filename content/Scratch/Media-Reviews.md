@@ -51,3 +51,9 @@ Squid games s3:
 - the "squid games but LA" Cliffhanger felt lazy... I don't want to see more. Why would they think I would? Also is this just them officially taking the reins out of the original directors hands and flanderizing it for american audiences? No likey. 
 - I liked the scene of gihun not murdering them in their sleep. I think that was more effective in showing his nobility. Knowing full well he would die for it, and especially in contrast to the front man. Especially in contrast to knowing they did exactly that to him in s1 and s2 (the lights out events)
 - 
+
+[[Severance]]
+
+[[Agapē-Agape]]
+
+[[Materialists]]

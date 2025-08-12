@@ -14,7 +14,7 @@ I organized this one separately. This main page is mostly for my actual *reading
 ### Books
 Leisure
 - Thinking Fast and Slow
-- Agapē Agape
+- 
 
 More rigorous:
 - Cog Sci Book
@@ -49,3 +49,4 @@ Meditations
 
 ## What I Have Read
 The Deep Learning Revolution - Terrence Sejnowski
+[[Agapē-Agape]]

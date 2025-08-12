@@ -31,3 +31,14 @@
 - peanut butter
 - avocado
 - nuts
+
+
+---
+
+Sweet potato
+Black bean 
+Sour cream
+Quinoa
+Cheese
+Chicken
+Tomatoes

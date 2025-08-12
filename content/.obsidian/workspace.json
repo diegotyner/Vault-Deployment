@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "18ce6a390dd35c16",
+            "id": "61c61c721c6dd41c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Piano.md",
+                "file": "Reading/Reading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Piano"
+              "title": "Reading"
+            }
+          },
+          {
+            "id": "2641862ba8c3f371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratch/Media-Reviews.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Media-Reviews"
+            }
+          },
+          {
+            "id": "9b5f1e85073526a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratch/Materialists.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Materialists"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -1212,34 +1259,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "18ce6a390dd35c16",
+  "active": "9b5f1e85073526a2",
   "lastOpenFiles": [
+    "Scratch/Materialists.md",
+    "Scratch/Media-Reviews.md",
+    "Reading/Agapē-Agape.md",
+    "Scratch/Severance.md",
+    "Templates/Media-Review.md",
+    "Reading/Reading.md",
+    "Templates/YAML-Date.md",
+    "Templates/Method.md",
+    "Templates/Project-Analysis.md",
+    "Templates/Template-Brain.md",
+    "Templates/Project-Template.md",
+    "Templates/Programming-Language-Guide.md",
+    "Templates/Literature-Review.md",
+    "Templates/Journal-Entry.md",
+    "Templates/Course-Organizer.md",
+    "Templates/Course-Lecture.md",
+    "Templates/Collection-Entry.md",
+    "Templates/Collection.md",
+    "Scratch/Tab-Stack.md",
+    "Scratch/Configs.md",
+    "Scratch/_Scratch.md",
+    "Attachments/Pasted image 20250804225459.png",
+    "Attachments/Pasted image 20250804221227.png",
+    "Music/Piano.md",
+    "Music/Pure-Imagination-Transcript.md",
     "Coding/_Coding.md",
     "Coding/Docker.md",
-    "Music/Piano.md",
-    "Scratch/Tab-Stack.md",
     "Coding/Self-Hosting.md",
-    "Coding/Networks.md",
-    "Coding/Projects.md",
-    "Coding/Risego.md",
-    "Coding/Chrome-Extensions.md",
-    "Coding/ID3-Tags.md",
-    "Coding/Web-Dev.md",
-    "College/Talks/White-Box-Transformers.md",
-    "Scratch/Cinema-Watched.md",
-    "Music/Music.md",
-    "Music/Violin.md",
-    "Coding/Blocks-World.md",
-    "College/Classes/ECS170-Final-Prep.md",
-    "College/Classes/NPB163-L6.md",
-    "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-Final-Prep.md",
-    "College/Classes/NPB163-L14.md",
-    "College/Classes/NPB163-L10.md",
-    "College/Classes/NPB163-L9.md",
-    "College/Classes/NPB163-L8.md",
-    "College/Classes/NPB163-L7.md",
-    "College/Classes/NPB163-MT1-Prep.md",
     "Attachments/Pasted image 20250611182414.png",
     "Attachments/Laminar-Circuit-Working-Memory-fMRI.jpg",
     "Attachments/Reflexes-and-Voluntary-Movement-Control.png",
@@ -1248,8 +1297,6 @@
     "Attachments/Pathways-for-Smooth-Pursuit.png",
     "Attachments/Pasted image 20250607190358.png",
     "Attachments/Major-Pathways-Saccade-Generation.png",
-    "Attachments/Brain-Stem-Circuit-Horizontal-Saccades.png",
-    "Attachments/Brain-Stem-Nuclei-Involved-in-Eye-Movement-Control.png",
     "Excalidraw/PDF-Annotation/DLN_final.pdf",
     "Music",
     "4913",
