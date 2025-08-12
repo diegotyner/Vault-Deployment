@@ -30,8 +30,11 @@ Lots of fun questions:
 	- Matteeeriallisssmm
 - Vulnerability in dating (mainly through Sophie) - It can hurt to put yourself out there, what happens when no one takes you up on your effort? Also not fully answered, the last we hear directly from Sophie she's dying alone. She's never really consoled by Lucy, who seems a bit apathetic to the fact that she's coming to view herself as worthless. I don't see continuing to date through the firm as a satisfying answer here. Should the answer be to just continue to bash your head into the wall and steeling your heart? I don't know, I feel like there has to be some nuance in the approach itself that we don't tackle at all. I would have completely support Sophie in taking dating into her own hands instead of the company
 - How can you be happy with a partner? Is it extrinsic or instrinsic qualities? - They do a good job on this one I feel! It's not math, but it's also not... nothing else. I've always heard love get called 51% of a good pairing. I talked a bit more about this above.
-- Money - lol.
+- Money - this might be where the movie falls the flattest for me, they try to make the John > Harry a noble statement about money not being enough but something about its delivery just makes me feel that it is that important. Haven't quite disentangled it all yet.
 
+---
+
+> I think I talked enough about the movie for now...
 ### Themes
 #### Broad themes
 
