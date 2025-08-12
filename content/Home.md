@@ -14,7 +14,7 @@ Welcome to my website! This is an online deployment of my Obsidian Vault using [
 Below I've linked some #Hub pages that lead to most of my notes. 
 
 Quick tips before you get started:
-- You can find search for pages directly with Cmd/Ctrl + k
+- You can find search for pages directly with Cmd/Ctrl + k or clicking the magnifying glass
 	- I love fuzzy finding!
 - You can preview a page by hovering over it
 	- *This can also tell you if I haven't made the page yet*
@@ -22,8 +22,10 @@ Quick tips before you get started:
 - Throughout my vault, you'll see code blocks at the top of the page with headers that say "Dataview". Ignore these, those are personal automations in my vault. 
 
 
-**My Favorite:** [[College-Talks#Talk Pages|College-Talks]]
-[[About-Me]] 
+### **My Favorite Pages:** 
+- [[About-Me]] 
+- [[College-Talks#Talk Pages|College-Talks]]
+- [[Media-Reviews]]
 
 
 ### Studies
@@ -43,7 +45,9 @@ Quick tips before you get started:
 ### Quick Notes
  [[_Scratch|Scratch]]
 [[Today|Tasks]]
+
  
 ### Personal (hidden)
 [[_Work|Work]]
+
 
