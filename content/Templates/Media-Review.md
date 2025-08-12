@@ -1,6 +1,7 @@
 ---
 created:
   - "{{date: MM-DD-YYYY}} {{time}}"
+Media-Format: 
 tags:
 ---
 
