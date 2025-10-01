@@ -29,6 +29,7 @@ A hub for all the college talks I attend
 - [Statistics Talks](https://statistics.ucdavis.edu/seminars)
 - [Exploring the Mind](https://mindbrain.ucdavis.edu/news-and-events)
 - [COE Events](https://engineering.ucdavis.edu/events)
+- [ECE Distinguished Lectures](https://engineering.ucdavis.edu/tags/ece-distinguished-seminar)
 - [Datalab](https://datalab.ucdavis.edu/invited-talks/)
 - [CERD Website (has old slides)](https://cerd.cs.ucdavis.edu/)
 - [Perspectives in Neuroscience Seminar Series](https://neuroscience.ucdavis.edu/perspectives-neuroscience-seminar-series)

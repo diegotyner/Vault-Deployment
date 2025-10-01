@@ -46,9 +46,18 @@
 - casanova
 - Schindlers list
 - napoleon dynamite
+- Decision to leave
+- I Think You Should Leave with Tim Robinson ?
+- Love is blind mexico
+- lost in startlight
+- the sixth sense
+- princess mononoke
+- past lives
+- citizen kane
 
 
 
 Watched:
 - Gaslight 1944
 - manchester house
+- the good the bad the ugly

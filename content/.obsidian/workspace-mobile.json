@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Groceries"
             }
+          },
+          {
+            "id": "d2eed86b5a9b9ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratch/Movies-To-Watch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Movies-To-Watch"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +104,8 @@
             "sortOrder": "frequency",
             "useHierarchy": true
           },
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "tag"
         }
       },
       {
@@ -106,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scratch/Cinema-Watched.md",
+            "file": "Scratch/Movies-To-Watch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -158,21 +184,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afdafc51bae09d09",
+  "active": "d2eed86b5a9b9ac5",
   "lastOpenFiles": [
+    "Scratch/Groceries.md",
     "College/Talks/Neurotech-Promoting-Recovery-Post-Injury.md",
+    "Music/Piano.md",
+    "Scratch/Movies-To-Watch.md",
+    "Scratch/Media-Reviews.md",
+    "Templates/Media-Review.md",
     "Scratch/Cinema-Watched.md",
     "Reading/Agapē-Agape.md",
     "Work/Forage-Sampling.md",
-    "Music/Piano.md",
     "College/Fall-Quarter-2024.md",
     "Music/Violin.md",
     "Music/qatched.md",
-    "Scratch/Movies-To-Watch.md",
     "Coding/ID3-Tags.md",
     "Scratch/_Scratch.md",
     "Scratch/Summer-2025.md",
-    "Scratch/Groceries.md",
     "College/Classes/NPB173-L17.md",
     "Music.md",
     "College/Classes/ECS189G-L26.md",
@@ -194,8 +222,6 @@
     "College/Talks/neuroscience-conference.md",
     "College/Talks/College-Talks.md",
     "Attachments/20250426_161718.jpg",
-    "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md",
-    "College/Classes/ECS-174-Main.md",
-    "College/Classes/ECS122A-Final-Prep.md"
+    "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md"
   ]
 }

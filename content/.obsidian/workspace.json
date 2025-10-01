@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "29f85c06c26781be",
+            "id": "4b7ec5d156b49d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "61c61c721c6dd41c",
+            "id": "3d95d65cc4232206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading.md",
+                "file": "Music/Piano.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reading"
+              "title": "Piano"
             }
           },
           {
-            "id": "2641862ba8c3f371",
+            "id": "571bcbe287481ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Media-Reviews.md",
+                "file": "Music/Jazz-Standards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Media-Reviews"
+              "title": "Jazz-Standards"
             }
           },
           {
-            "id": "bb2a4d2345d6ae1e",
+            "id": "2f345d1fb2c82f67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Materialists.md",
+                "file": "Reading/Reading/_Research-Papers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Materialists"
+              "title": "_Research-Papers"
+            }
+          },
+          {
+            "id": "cf1e92ab08e0e193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Reading/Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1251,6 +1275,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": true,
@@ -1259,34 +1284,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb2a4d2345d6ae1e",
+  "active": "cf1e92ab08e0e193",
   "lastOpenFiles": [
-    "index.md",
-    "Scratch/Materialists.md",
-    "Scratch/Media-Reviews.md",
-    "Scratch/How-To-Train-Your-Dragon-LA.md",
-    "Templates/Media-Review.md",
-    "Scratch/Anora.md",
-    "Scratch/Manchester-House.md",
-    "Scratch/Severance-S2.md",
-    "Scratch/Squid-Games-S3.md",
-    "Scratch/Adventures-With-Superman.md",
-    "Scratch/The-Last-Of-Us-S2.md",
-    "Scratch/Superman.md",
-    "Reading/Agapē-Agape.md",
-    "Reading/Reading.md",
-    "Templates/YAML-Date.md",
-    "Templates/Method.md",
-    "Templates/Project-Analysis.md",
-    "Templates/Template-Brain.md",
-    "Templates/Project-Template.md",
-    "Templates/Programming-Language-Guide.md",
-    "Templates/Literature-Review.md",
-    "Templates/Journal-Entry.md",
-    "Templates/Course-Organizer.md",
-    "Templates/Course-Lecture.md",
-    "Templates/Collection-Entry.md",
-    "Templates/Collection.md",
+    "Reading/Reading/Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy.md",
+    "Reading/Reading/_Research-Papers.md",
+    "Music/Jazz-Standards.md",
+    "College/Fall-Quarter-2025.md",
+    "College/ECS140A-L2.md",
+    "College/PSC140Y-L1.md",
+    "College/UWP-101Y-Main.md",
+    "College/UWP101Y-D1.md",
+    "Music/Piano.md",
+    "College/Classes/CMN-152V-Main.md",
+    "College/Classes/ECS-132-Main.md",
+    "College/Classes/ECS-154A-Main.md",
+    "Scratch/Tab-Stack.md",
+    "College/Talks/White-Box-Transformers.md",
+    "College/NPB287A-2-L1.md",
+    "Math/_Math.md",
+    "College/Classes/NPB287A-L1.md",
+    "College/_College.md",
+    "College/ECS140A-L1.md",
+    "College/ECS171-L1.md",
+    "Work/Plant-Science-Work.md",
+    "College/ECS140A-D1.md",
+    "College/Classes/ECS-189G-Main.md",
+    "College/PSC135-L1.md",
+    "Math/_Statistics-Study.md",
+    "Coding/ML-Study/_ML-Study.md",
+    "ichigos.com/sheets",
+    "ichigos.com",
     "Attachments/Pasted image 20250804225459.png",
     "Attachments/Pasted image 20250804221227.png",
     "Attachments/Pasted image 20250611182414.png",
@@ -1305,8 +1332,6 @@
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
     "Excalidraw/PDF-Annotation/ECS 124 Final Prep.pdf",
     "Excalidraw/PDF-Annotation/ARCH-Assessment3.pdf",
-    "Excalidraw/PDF-Annotation/ARCH-W25-Review.pdf",
-    "Excalidraw/PDF-Annotation/ARCH-W25-Review",
     "Untitled.canvas"
   ]
 }

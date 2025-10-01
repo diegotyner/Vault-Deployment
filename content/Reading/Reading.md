@@ -7,16 +7,18 @@ tags:
 
 
 ### Research Paper Page:
-I organized this one separately. This main page is mostly for my actual *reading* reading, not my [[_Research-Papers|Reasearch Paper]] reviews.
+I organized this one separately. This main page is mostly for my actual *reading* reading, not my [[_Research-Papers|Research Paper]] reviews.
 
 
 
 ### Books
 Leisure
-- Thinking Fast and Slow
-- 
+- The Cuckoos Egg
+- Caramelo
+- Meditations
 
 More rigorous:
+- Thinking Fast and Slow
 - Cog Sci Book
 - [[ERP-Handbook]] - Steven Luck
 
@@ -44,9 +46,9 @@ Other recommendations:
 ### Philosophy Book Recs
 The myth of sissyphus
 Albert camus
-Meditations
 
 
 ## What I Have Read
 The Deep Learning Revolution - Terrence Sejnowski
 [[Agapē-Agape]]
+

@@ -16,7 +16,7 @@ Song follows an AABA form
 - A section repeats 3 times, and a B section bridge
 Jazz usually comprised of 32 bar form (4 8 bar sections)
 - Here, B section is 9 bars
-Song written in Eb major (3 flats) - Fb, Bb, Eb
+Song written in [[Eb-Major]] (3 flats) - Fb, Bb, Eb
 
 #### A Section
 1st and second are nearly the same, with the only difference being the final two bars where harmony changes

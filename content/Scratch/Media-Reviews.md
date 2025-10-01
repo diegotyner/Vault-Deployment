@@ -20,4 +20,21 @@ tags:
 [[How-To-Train-Your-Dragon-LA]] - Live action version
 [[Superman]] 
 [[The-Last-Of-Us-S2]] - Season 2
-[[Adventures-With-Superman]]
+
+Sleepless in seattle
+When harry met sally
+
+Caught stealing
+Kpop demon hunters
+
+The good the bad the ugly
+Theres something about mary
+Meet the parents
+Meet the fockers
+
+Goblin slayer
+Chainsaw man
+
+Watching:
+Neon genesis evangelion
+Jazz

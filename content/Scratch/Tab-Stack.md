@@ -11,6 +11,14 @@ tags:
 [Reverse Engineer Discord](https://medium.com/tenable-techblog/lets-reverse-engineer-discord-1976773f4626)
 [Convergence in DL](https://medium.com/@ompramod9921/convergence-in-deep-learning-f96568923d43)
 [Understanding Q,K,V in Transformers](https://medium.com/analytics-vidhya/understanding-q-k-v-in-transformer-self-attention-9a5eddaa5960)
+[You're doing RAG wrong](https://pub.towardsai.net/youre-doing-rag-wrong-how-to-fix-retrieval-augmented-generation-for-local-llms-37c772f4a824)
+[From 100,000 to Under 500 Labels: How Google AI Cuts LLM Training Data by Orders of Magnitude](https://medium.com/@kajalsharma962591/from-100-000-to-under-500-labels-how-google-ai-cuts-llm-training-data-by-orders-of-magnitude-c065258fc24a)
+[Writing a LLM based telegram bot that texts like a person would](https://medium.com/@incapablepolygon/writing-a-llm-based-telegram-bot-that-texts-like-a-person-would-944853849075)
+
+[alphago explained](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
+[distil vs quant ML](https://medium.com/@aadityaura_26777/quantization-vs-distillation-in-neural-networks-a-comparison-8ef522e4fbec)
+
+[cosine similarity not a silver bullet - reddit](https://www.reddit.com/r/MachineLearning/comments/1i0hfsd/r_cosine_similarity_isnt_the_silver_bullet_we/)
 
 ##### Other reading
 [Grokking Bloom Filters](https://maltsev.space/blog/008-bloom-filters-pt1)
@@ -30,6 +38,14 @@ tags:
 [huggingface](https://huggingface.co/models?num_parameters=min:0,max:9B&library=gguf&sort=trending)
 [llama.cpp](https://github.com/ggml-org/llama.cpp?tab=readme-ov-file)
 
+##### Neuro
+Evolutionary constraints on visual cortex architecture from the dynamics of hallucination - Butler et al.
 
+
+##### OCR
+https://www.datacamp.com/tutorial/fuzzy-string-python
+https://www.paddleocr.ai/main/en/version3.x/installation.html
+[finetune?](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/finetune_en.md)
+https://hub.docker.com/layers/paddlepaddle/paddle/latest-dev-cuda12.3-cudnn9.0-trt8.6-gcc12.2/images/sha256-afc69baadc57cc151953aa31426028f1f60a1371629056a3457d080316be6cbb?context=explore
 
 ### Old

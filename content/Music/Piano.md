@@ -10,6 +10,14 @@ tags:
 [bass clef notes label](https://www.musictechteacher.com/music_worksheets/worksheet_0002_bass_clef_notes.pdf)
 [Beginner exercises](https://jeffreychappell.com/pianist/articles/scales-and-arpeggios/)
 [Piano Chord Website](https://www.pianochord.org/)
+[The Real Book](https://archive.org/details/The_Real_Book_Sixth_Edition_volume_1)
+[Video Game Lead Sheets](https://www.vgleadsheets.com/)
+
+#### JRBs
+[Archive.org fakebooks](https://archive.org/details/fakebooks)
+[reddit thread on resources](https://www.reddit.com/r/Jazz/comments/2d1mk0/does_anyone_have_a_pdf_file_of_various_real_books/)
+- [Google drive folder](https://drive.google.com/drive/folders/0B1s4iEL26SobdVM0NWR1aFlJSlk?resourcekey=0-20R6HYi1vYfokV5oruu5fw)
+- [Free scores](https://www.swiss-jazz.ch/partitions-real-book.htm)
 
 #### Fingers
 - [Major scale fingerings](https://www.reddit.com/r/piano/comments/ckgcux/major_scale_fingering/)
@@ -36,9 +44,54 @@ Claire de Lune -
 [Let it be - Beatles](https://sheetsfree.com/sheets/B/The%20Beatles%20-%20Let%20It%20Be.pdf )
 [My way - Beatles](https://musescore.com/user/6317321/scores/5779552)
 [from the start - Laufey](https://static1.squarespace.com/static/60300340d27ffb2c6946ccbe/t/64f0f2039939d26d77f73c74/1693512195944/10+From+the+Start+piano+and+vocal+v4.pdf)
-[Misty - Eroll Garner](https://preterhuman.net/docs/Erroll_Garner_-_Misty_(sheet_music))
 [Girl from Ipanema - Antonio Carlos Jobim](https://musescore.com/will_rowsell/the-girl-from-ipanema) 
 
+A wink and a Smile - Harry Connick Jr (Sleepless in Seattle)
+##### Jazz
+[Misty - Eroll Garner](https://preterhuman.net/docs/Erroll_Garner_-_Misty_(sheet_music))
+*From the Real Book*
+- Girl from Ipanema
+- Misty
+- Take the A train
+- Autumn Leaves
+- In a Sentimental Mood
+- (I love you) For Sentimental Seasons
+- Dream a little dream of me
+- Giant steps
+- Have you met miss jones
+- My favorite things
+- My foolish heart
+- My funny valentine
+- My way
+- Satin Doll
+- Take five
+- Thats amore
+- There will never be another you
+- Triste
+- Wave
+- When I Fall in love
+- Yesterday
+- You're nobody till somebody loves you
+
+- all of me
+- black orpheus
+- blue monk
+- all blues
+call me irresponsible
+young at heart
+
+tenderly - [link](https://drive.google.com/file/d/1VTGpt7YB_QmbpjDJtvUoe5I2UQN-kNpj/view)
+someday my prince will come
+
+*Musescore*
+Just the two of us - [musescore](https://musescore.com/user/27326657/scores/7219893)
+Isn't She Lovely- [musescore](https://musescore.com/user/498481/scores/7882511)
+Laufey Like the Movies
+- [lead sheet](https://musescore.com/user/151975/scores/13570087)
+
+*vgleadsheets*
+[rosalina observatory](https://www.vgleadsheets.com/view/super-mario-galaxy/rosalina-in-the-observatory?transposition=C#)
+[gusty gardens](https://www.vgleadsheets.com/view/super-mario-galaxy/gusty-garden-galaxy?transposition=C)
 ### Suggestions
 - [reddit - Easy full piano pieces](https://www.reddit.com/r/piano/comments/5h83ux/easy_piano_pieces_like_bach_bwv_846_prelude_in_c/)
 	- [BWV 939](https://www.youtube.com/watch?v=D_Uq3luXBRA)
@@ -48,16 +101,103 @@ Claire de Lune -
 
 ### Future?
 [Alfred's Beginner Piano PDF](https://archive.org/details/alfreds-adult-piano-all-in-one-course-level-1-3/Alfred%27s%20Adult%20Piano%20All-in-One%20Course%20Level%201-3/Alfred%27s%20Adult%20Piano%20All-in-One%20Course%20Level%201/Adult%20Piano%20All-in-One%20Course%20Level%201/page/107/mode/2up)
+[Charlie Brown Christmas](https://www.scribd.com/document/338174332/Charlie-Brown-Christmas-Piano-1-1-pdf)
 
-Me and Mrs. Jones
-Autumn Leaves
+love like you - [pdf archive](https://www.pdf-archive.com/2016/04/18/love-like-you-full/)
+
+Blue and sentimental
+- [Musescore 1](https://musescore.com/user/801096/scores/9591727)
+- [Musescore 2](https://musescore.com/user/801096/scores/9414502)
+All night parking (Errol Garner Interlude) - [Official Musescore](https://musescore.com/user/39593115/scores/7267424)
+
+Laufey Like the Movies
+- [sheet music](https://musescore.com/user/36902825/scores/6860989)
+- 
+##### video game
+[space junk road](https://www.vgleadsheets.com/view/super-mario-galaxy/space-junk-road?transposition=C)
+[bob-omb battlefield](https://www.vgleadsheets.com/view/super-mario-64/main-theme?transposition=C#)
+
+[sonic - can u feel the sunshine](https://www.vgleadsheets.com/view/sonic-r/resort-island-can-you-feel-the-sunshine?transposition=C#)
+[green hill zone](https://www.vgleadsheets.com/view/sonic-the-hedgehog/green-hill-zone?transposition=C#)
+
+[portal - still alive]
+
+persona?
+[whims of fate](https://www.vgleadsheets.com/view/persona-5/the-whims-of-fate?transposition=C#)
+[last surprise](https://www.vgleadsheets.com/view/persona-5/last-surprise?transposition=C#)
+[beneath the mask](https://www.vgleadsheets.com/view/persona-5/beneath-the-mask?transposition=C#)
+
+[lon lon ranch](https://www.vgleadsheets.com/view/the-legend-of-zelda-ocarina-of-time/lon-lon-ranch?transposition=C#)
+[clock town](https://www.vgleadsheets.com/view/the-legend-of-zelda-majoras-mask/clock-town-day-1?transposition=C#)
+[gerudo valley](https://www.vgleadsheets.com/view/the-legend-of-zelda-ocarina-of-time/gerudo-valley?transposition=C#)
+[kokiri forest](https://www.vgleadsheets.com/view/the-legend-of-zelda-ocarina-of-time/kokiri-forest?transposition=C#)
+[BOTW theme](https://www.vgleadsheets.com/view/the-legend-of-zelda-breath-of-the-wild/main-theme?transposition=C#)
+
+[Pokemon azalea town](https://www.vgleadsheets.com/view/pokmon-gold-silver/azalea-town?transposition=C#)
+[national park](https://www.vgleadsheets.com/view/pokmon-gold-silver/national-park?transposition=C#)
+
+
+
+minecraft music? - [sweden](https://www.vgleadsheets.com/view/minecraft/sweden?transposition=C)
+
+##### standards to try
+*asap*
+just the way you are - billy joel
+- [3 clef sheet music](https://www.thepianonotes.com/wp-content/uploads/2020/12/Just-The-Way-You-Are-Sheet-Music-Billy-Joel-thepianonotes.com_.pdf)
+- [lead sheet?](https://www.sheetmusicplus.com/en/product/just-the-way-you-are-19425119.html)
+I wish you love
 Fly me to the moon
-The girl from ipanema
-Isn't She Lovely
-"Wave" by Antônio Carlos Jobim (Tom Jobim)
-I'll be seeing you
-Just the two of us
+waltz for debby
+blue bossa
 
+agua de beber
+I'll be seeing you
+blackbird - beatles
+Corcovado
+after you've gone
+i'll remember april - [link](https://j-fenix.co.jp/mystudio/combo_member/I_will_remember_April.pdf)
+lonely as a man without love
+Lament? - jrb
+blues for alice - jrb
+The most beautiful girl in the world? - jrb
+My shining hour - jrb
+I get alone without you very well
+- [ms](https://musescore.com/user/498481/scores/9028541)
+- [sheetmusicplus](https://www.sheetmusicplus.com/en/product/i-get-along-without-you-very-well-except-sometimes-19425595.html)
+
+Once in a moon
+About time
+
+#### Next Print
+```
+road song - 1
+four - 1
+blue bossa - 1
+tune up - 1
+blues for alice - 1
+sunny side of the street 
+```
+- https://musescore.com/user/498481/scores/6396948
+- https://therealbook.info/view/index/1134/
+
+#### Recs
+```
+road song
+four
+tune up
+donna lee? 
+blues for alice
+cherokee?
+confirmation
+
+boplicity?
+
+--- not in jrb ---
+
+sunny side of the street
+sunny
+isnt she lovely
+```
 #### Musescore to transcribe
 Cassiopea Music
 inperplex piano

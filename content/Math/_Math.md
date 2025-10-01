@@ -6,6 +6,8 @@ tags:
 
 
 
+### Statistical Modeling
+[[_Statistics-Study]]
 
 
 ### Artificial Intelligence and Machine Learning Self Study
@@ -13,6 +15,7 @@ tags:
 [[Data-Analytics]]
 [[Linear-Algebra]]
 
+- do svd
 
 ### Latex Reference
 [[Latex-Reference]]

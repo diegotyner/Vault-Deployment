@@ -73,12 +73,13 @@ Attempting to maximize a goal. Feedback is given to an agent / model.
 - [[Sklearn|Scikit Learn]]
 - [[Machine-Learning-Engineer-Learning-Path|Google MLE Learning Path]]
 - [[VU-ML]]
+- [[_Research-Papers|Papers]]
 
 
 ## Links
 - [Transformers as a swiss army knife](https://freedium.cfd/https://towardsdatascience.com/can-transformers-solve-everything-0421ebaf9f8e)
 - [Topology in ML](https://www.pnnl.gov/news-media/topology-algebra-and-geometry-give-math-respect-data-science)
-- [[_Research-Papers|Papers]]
+- [Kaggle learn](https://www.kaggle.com/learn/)
 - 
 - [Data Preprocessing Medium Series](https://medium.com/@WojtekFulmyk/standardizing-data-for-machine-learning-2cf687e621f9)
 - [Visually Explained YT](https://www.youtube.com/@VisuallyExplained/videos)
