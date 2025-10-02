@@ -30,11 +30,13 @@ An intervention focused paper on:
 2) How to adress through policy
 
 #### Mechanisms
-1) Maternal stress hormones - ie cortisol among others. They mention that a review study doubts cortisol is the mechanism
+1) Maternal stress hormones - ie cortisol among others. They mention that a review study doubts cortisol is the mechanism, other stress hormones could still be factors
 2) Placenta - They mention that maternal stress may alter the function of the placenta
 3) Epigenetics - stress can impact gene expression in multiple places, includng the fetal brain and placenta.
 4) Changed health behaviors - Stressed mothers might have impacted health (less sleep, eat unhealthy, exercise less)
 5) Postnatal parenting - For a variety of reasons, stressed mothers might provide poorer parenting (mental health issues, depressed mothers responding less to happy infant faces, misreading infant signals...)
+Direct: hormones & epigentics
+Indirect: health behavior & parenting
 
 #### Policy
 1) Screen for maternal mental health
@@ -44,7 +46,7 @@ An intervention focused paper on:
 5) Stimulate positive postnatal parenting
 
 #### Conclusion
-
+Basically just restating the bullet points above
 
 
 

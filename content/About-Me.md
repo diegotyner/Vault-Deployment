@@ -1,7 +1,7 @@
 
 # Hi There!
 
-I'm **Diego Tyner**, a third year student at UC Davis double majoring in *Computer Science* and *Cognitive Science*, with a minor in *Neuroscience*. 
+I'm **Diego Tyner**, a fourth year student at UC Davis double majoring in *Computer Science* and *Cognitive Science*, with a minor in *Neuroscience*. 
 
 ### *I love* 
 - Neural systems, I'm looking to learn all about [[_ML-Study|deep learning]] and how to build intelligent systems through the [[_Brain|brain]].

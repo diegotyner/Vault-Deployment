@@ -22,6 +22,11 @@ Quick tips before you get started:
 - Throughout my vault, you'll see code blocks at the top of the page with headers that say "Dataview". Ignore these, those are personal automations in my vault. 
 
 
+### **Technical Portfolio**
+If you're coming here to look at my 'portfolio website', go to my [[Project-Showcase|Project Showcase]]
+Most of this website is not a porfolio website, just my personal notes. 
+
+
 ### **My Favorite Pages:** 
 - [[About-Me]] 
 - [[College-Talks#Talk Pages|College-Talks]]

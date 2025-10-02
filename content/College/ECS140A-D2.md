@@ -1,0 +1,8 @@
+---
+created:
+  - " 10-02-2025 11:11"
+tags:
+---
+
+Discussion going over hws
+

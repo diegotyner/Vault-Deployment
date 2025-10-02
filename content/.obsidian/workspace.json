@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading/_Research-Papers.md",
+                "file": "College/Fall-Quarter-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Research-Papers"
+              "title": "Fall-Quarter-2025"
             }
           },
           {
-            "id": "cf1e92ab08e0e193",
+            "id": "93bd302c4025d88b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading/Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy.md",
+                "file": "College/ECS140A-D2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy"
+              "title": "ECS140A-D2"
+            }
+          },
+          {
+            "id": "e9b769fe9a77fa66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "60d98348770469c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About-Me.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "About-Me"
+            }
+          },
+          {
+            "id": "e5cf4cc0efcc7e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "de281107f6cfeb49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Project-Showcase.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project-Showcase"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -1284,12 +1380,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf1e92ab08e0e193",
+  "active": "de281107f6cfeb49",
   "lastOpenFiles": [
+    "About-Me.md",
+    "index.md",
+    "Coding/Project-Showcase.md",
+    "Coding/Projects.md",
+    "College/ECS140A-D2.md",
+    "College/ECS171-L2.md",
+    "College/Fall-Quarter-2025.md",
+    "College/ECS140A-D1.md",
+    "College/PSC140Y-D2.md",
+    "College/Talks/College-Talks.md",
+    "College/Talks/Harnessing-Neural-Oscillations-to-Guide-Novel-Deep-Brain-Stimulation-Therapies.md",
     "Reading/Reading/Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy.md",
     "Reading/Reading/_Research-Papers.md",
+    "College/Talks/AISC-Tech-Mixer.md",
+    "College/Talks/Orthopedic-Biomechanics-Predictive-Simulations-and-Pain-Testing.md",
     "Music/Jazz-Standards.md",
-    "College/Fall-Quarter-2025.md",
     "College/ECS140A-L2.md",
     "College/PSC140Y-L1.md",
     "College/UWP-101Y-Main.md",
@@ -1300,18 +1408,6 @@
     "College/Classes/ECS-154A-Main.md",
     "Scratch/Tab-Stack.md",
     "College/Talks/White-Box-Transformers.md",
-    "College/NPB287A-2-L1.md",
-    "Math/_Math.md",
-    "College/Classes/NPB287A-L1.md",
-    "College/_College.md",
-    "College/ECS140A-L1.md",
-    "College/ECS171-L1.md",
-    "Work/Plant-Science-Work.md",
-    "College/ECS140A-D1.md",
-    "College/Classes/ECS-189G-Main.md",
-    "College/PSC135-L1.md",
-    "Math/_Statistics-Study.md",
-    "Coding/ML-Study/_ML-Study.md",
     "ichigos.com/sheets",
     "ichigos.com",
     "Attachments/Pasted image 20250804225459.png",

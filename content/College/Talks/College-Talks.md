@@ -75,3 +75,10 @@ Meta-level Research Approaches:
 3. Alternative: P-y+x = ?
 - [[Probing-Human-Memory-and-Decision-Making-at-the-Single-Neuron-Level]]
 - [[Ad-Click-Prediction-A-Look-at-Industrial-Scale-Ads-Recommendation-Models]]
+
+---
+**2025-2026 School Year**
+
+- [[AISC-Tech-Mixer ]]
+- [[Harnessing-Neural-Oscillations-to-Guide-Novel-Deep-Brain-Stimulation-Therapies]]
+

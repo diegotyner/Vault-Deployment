@@ -18,10 +18,13 @@ aliases:
 	- [[ECS140A-D1]]
 	- [[ECS140A-L1]]
 	- [[ECS140A-L2]]
+	- [[ECS140A-D2]]
 - [[ECS-171-Main]]
 	- [[ECS171-L1]]
+	- [[ECS171-L2]]
 - [[PSC-140Y-Main]]
 	- [[PSC140Y-L1]]
+	- [[PSC140Y-D2]]
 - [[UWP-101Y-Main]]
 
 - [[PSC-135-Main]]
