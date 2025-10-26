@@ -14,6 +14,7 @@ Lecture 1 - *Introduction*
 - Parametric vs. Non-parametric: 
 	- Fixed num of parameters is called parametric
 	- If the num of parameters increases with data size its called non-parametric
+
 Lecture 2 - *Linear Regression*
 - Linear regression
 	- Ordinary Least Squares (OLS)
@@ -23,6 +24,7 @@ Lecture 2 - *Linear Regression*
 		- OLS or GD
 	- Learn how to implement OLS or GD
 - Least Mean Squares (LMS)
+
 Lecture 3 - *Linear Regression Part 2*
 - Overfitting, polynomial order, and sample size
 - Test/Train curve
@@ -31,6 +33,7 @@ Lecture 3 - *Linear Regression Part 2*
 - Maximum Likelihood Estimator (MLE)
 	- How to do, and equivalent formulas (NLL)
 - RSS/SSE/MSE/OLS
+
 Lecture 4 - *Logistic Regression and Classification*
 - Regression vs. Classification 
 - Sigmoid/Logistic Function
@@ -38,12 +41,14 @@ Lecture 4 - *Logistic Regression and Classification*
 	- MLE and GD
 - Could also use Newton's method
 - Perceptron learning algo
+
 Lecture 5 - *Intro to ANN*
 - Perceptron learning algorithm
 - FFNN, MLP
 - Activation functions (ReLu, logistic, step)
 - When and how to change architecture
 - ANN classifier
+
 Lecture 6 - *Backpropagation in ANN*
 - The entire slide show?
 - Maximize the log likelihood vs minimize the negative log likelihood (cost function)
@@ -62,6 +67,7 @@ Lecture 6 - *Backpropagation in ANN*
 	- FFNN if ANN graph is acyclic
 	- Recurrent networks when it is cyclic
 	- Radial Basis Function Networks, Hopfield Networks, long-short memory etc.
+
 Lecture 7 - *Naive Bayes*
 - Naive bayes method: generative method
 - Concepts of 
@@ -72,6 +78,7 @@ Lecture 7 - *Naive Bayes*
 - Understand how assuming feature independence simplifies calc
 - Measuring classification performance
 	- Cross-validation, binary classification errors, statistical measures (f1, etc), ROC, AUC
+
 Lecture 8 - *Decision Trees and Random Forest*
 - How to decide which rules to split on?
 - What is purity/homogenity of final sets (leaves?)
@@ -83,6 +90,7 @@ Lecture 8 - *Decision Trees and Random Forest*
 	- measure performance
 	- cross-validation
 	- minimum description length
+
 Lecture 9 - *Autoencoders*
 - General structure of autoencoder
 - Desired characteristics:
