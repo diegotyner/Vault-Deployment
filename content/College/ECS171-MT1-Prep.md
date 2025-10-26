@@ -134,6 +134,7 @@ Solve this with either OLS or GD
 
 For any vector: $A^TA=\sum_i a_i^2$
 - Also, $A^TA$ is symmetric
+- That gives us: $RSS=\sum^m(y^i - w^Tx^i)^2=(Y-Xw)^T(Y-Xw)$
 
 Derivation now:
 $$
