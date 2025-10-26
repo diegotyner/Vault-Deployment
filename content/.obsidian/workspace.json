@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "571bcbe287481ea4",
+            "id": "5df3186470d167c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Jazz-Standards.md",
+                "file": "Coding/Jazz-Real-Finder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jazz-Standards"
+              "title": "Jazz-Real-Finder"
             }
           },
           {
-            "id": "2f345d1fb2c82f67",
+            "id": "4df8ee6e321d0bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Fall-Quarter-2025.md",
+                "file": "College/ECS171-MT1-Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,131 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fall-Quarter-2025"
-            }
-          },
-          {
-            "id": "93bd302c4025d88b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/ECS140A-D2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS140A-D2"
-            }
-          },
-          {
-            "id": "e9b769fe9a77fa66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "60d98348770469c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About-Me.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "About-Me"
-            }
-          },
-          {
-            "id": "e5cf4cc0efcc7e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Projects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "de281107f6cfeb49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Project-Showcase.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project-Showcase"
+              "title": "ECS171-MT1-Prep"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eccentrici",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -301,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1380,46 +1261,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de281107f6cfeb49",
+  "active": "4df8ee6e321d0bc4",
   "lastOpenFiles": [
-    "About-Me.md",
-    "index.md",
-    "Coding/Project-Showcase.md",
-    "Coding/Projects.md",
-    "College/ECS140A-D2.md",
-    "College/ECS171-L2.md",
-    "College/Fall-Quarter-2025.md",
-    "College/ECS140A-D1.md",
-    "College/PSC140Y-D2.md",
-    "College/Talks/College-Talks.md",
-    "College/Talks/Harnessing-Neural-Oscillations-to-Guide-Novel-Deep-Brain-Stimulation-Therapies.md",
-    "Reading/Reading/Protecting-the-Fetal-Brain-from-Maternal-Stress-During-Pregnancy.md",
-    "Reading/Reading/_Research-Papers.md",
-    "College/Talks/AISC-Tech-Mixer.md",
-    "College/Talks/Orthopedic-Biomechanics-Predictive-Simulations-and-Pain-Testing.md",
-    "Music/Jazz-Standards.md",
-    "College/ECS140A-L2.md",
-    "College/PSC140Y-L1.md",
+    "Math/Latex-Reference.md",
+    "College/ECS171-MT1-Prep.md",
+    "Coding/Jazz-Real-Finder.md",
+    "College/PSC-140Y-Main.md",
+    "College/PSC140Y-V14.md",
+    "College/PSC140Y-V13.md",
+    "College/PSC140Y-V12.md",
+    "College/PSC140Y-CP4.md",
+    "College/PSC140Y-VL11.md",
+    "Work/Plant-Science-Work.md",
+    "College/ECS-171-Main.md",
+    "College/ECS-140A-Main.md",
+    "College/ECS140A-L9.md",
+    "College/ECS140A-L6.md",
+    "College/ECS171-L7.md",
+    "College/ECS171-L5.md",
+    "College/ECS171-D4.md",
+    "College/PSC140Y-D5.md",
+    "College/PSC140Y-P5.md",
+    "College/ECS140A-L8.md",
+    "College/ECS140A-L7.md",
     "College/UWP-101Y-Main.md",
-    "College/UWP101Y-D1.md",
-    "Music/Piano.md",
-    "College/Classes/CMN-152V-Main.md",
-    "College/Classes/ECS-132-Main.md",
-    "College/Classes/ECS-154A-Main.md",
-    "Scratch/Tab-Stack.md",
-    "College/Talks/White-Box-Transformers.md",
+    "College/UWP101Y-L4.md",
+    "College/PSC140Y-L4.md",
+    "College/UWP101Y-A2-1.md",
+    "College/PSC140Y-P4.md",
+    "Attachments/Motor-Milestones.png",
+    "Attachments/How-to-get-the-Visual-Experience-Dataset.png",
+    "Attachments/Face-sensitivity-follows-experience-location.png",
+    "Attachments/Visual-Diet-of-Object-Locations.png",
+    "Attachments/Heatmap-Of-DNN-Confusion-on-Real-Images.png",
+    "Attachments/Bias-In-Computer-Vision-Systems.png",
+    "Attachments/Visual-Experience-Dataset-Eye-Tracker.png",
+    "Attachments/Brain-Structure-Development.png",
+    "Attachments/Linear-Regression-Outlier-Sensitivity.png",
+    "Attachments/Songbird-HVC-Projections.png",
     "ichigos.com/sheets",
     "ichigos.com",
-    "Attachments/Pasted image 20250804225459.png",
-    "Attachments/Pasted image 20250804221227.png",
-    "Attachments/Pasted image 20250611182414.png",
-    "Attachments/Laminar-Circuit-Working-Memory-fMRI.jpg",
-    "Attachments/Reflexes-and-Voluntary-Movement-Control.png",
-    "Attachments/Topics-Covered-ECS189G.png",
-    "Attachments/Vestibulo-Oculo-Reflex-VOR-Pathway.png",
-    "Attachments/Pathways-for-Smooth-Pursuit.png",
-    "Attachments/Pasted image 20250607190358.png",
-    "Attachments/Major-Pathways-Saccade-Generation.png",
     "Excalidraw/PDF-Annotation/DLN_final.pdf",
     "Music",
     "4913",

@@ -8,7 +8,7 @@ aliases:
 
 # 📗 ->  09/25/25: ECS140A-L1
 ---
-[Lecture Slide Link](https://canvas.ucdavis.edu/courses/1010932/pages/lecture-schedule)
+[Lecture Slide Link](https://canvas.ucdavis.edu/courses/1010932/files/28595166?wrap=1)
 
 ## 🎤 Vocab
 CFG

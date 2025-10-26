@@ -8,8 +8,8 @@ aliases:
 
 # 📗 ->  09/30/25: ECS140A-L2
 ---
-[Lecture Slide Link](https://canvas.ucdavis.edu/courses/1010932/pages/lecture-schedule)
-[Go slides](https://canvas.ucdavis.edu/courses/1010932/pages/lecture-schedule)
+[Lecture Slide Link](https://canvas.ucdavis.edu/courses/1010932/files/28596895?wrap=1)
+[Go slides](https://canvas.ucdavis.edu/courses/1010932/files/28631489?wrap=1)
 ## 🎤 Vocab
 
 

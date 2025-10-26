@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Piano.md",
+                "file": "College/PSC-140Y-Main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Piano"
+              "title": "PSC-140Y-Main"
             }
           }
         ],
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scratch/Movies-To-Watch.md",
+            "file": "College/PSC-140Y-Main.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,10 +186,20 @@
   },
   "active": "d2eed86b5a9b9ac5",
   "lastOpenFiles": [
+    "College/PSC140Y-VL8.md",
+    "College/PSC-140Y-Main.md",
+    "College/PSC140Y-VE3.md",
+    "College/PSC140Y-VL7.md",
+    "College/PSC140Y-CP3.md",
+    "College/PSC140Y-P3.md",
+    "College/PSC140Y-D3.md",
+    "College/PSC140Y-L2.md",
+    "College/PSC140Y-VL6.md",
+    "Work/Plant-Science-Work.md",
+    "Music/Piano.md",
     "Scratch/Movies-To-Watch.md",
     "Scratch/Groceries.md",
     "College/Talks/Neurotech-Promoting-Recovery-Post-Injury.md",
-    "Music/Piano.md",
     "Scratch/Media-Reviews.md",
     "Templates/Media-Review.md",
     "Scratch/Cinema-Watched.md",
@@ -202,10 +212,6 @@
     "Scratch/_Scratch.md",
     "Scratch/Summer-2025.md",
     "College/Classes/NPB173-L17.md",
-    "Music.md",
-    "College/Classes/ECS189G-L26.md",
-    "College/Classes/NPB163-L17.md",
-    "College/Classes/ECS170-L27.md",
     "Attachments/Polynomial-Degree-Generalizability-ML.png",
     "Attachments/Parameters-Degree-9-Polynomial-Training-Set-Size.png",
     "Attachments/Model-Complexity-and-Bias-Variance.png",
@@ -214,14 +220,8 @@
     "Attachments/Error-Vs-Training-Set-Size-Polynomial-Estimator.png",
     "Attachments/Cortical-Association-Areas.png",
     "Attachments/Bias-Variance-Tradeoff.png",
-    "College/_College.md",
-    "Scratch/Get-From-Home.md",
-    "College/Talks/2025-California-Neurotechnology-Conference.md",
     "Untitled",
     "Attachments/20250426_161726.jpg",
-    "College/Talks/neuroscience-conference.md",
-    "College/Talks/College-Talks.md",
-    "Attachments/20250426_161718.jpg",
-    "College/Talks/Shifting-Research-Approaches-New-Insights-Into-Language-And-Reading Disorders.md"
+    "Attachments/20250426_161718.jpg"
   ]
 }

@@ -10,14 +10,11 @@ tags:
 [bass clef notes label](https://www.musictechteacher.com/music_worksheets/worksheet_0002_bass_clef_notes.pdf)
 [Beginner exercises](https://jeffreychappell.com/pianist/articles/scales-and-arpeggios/)
 [Piano Chord Website](https://www.pianochord.org/)
-[The Real Book](https://archive.org/details/The_Real_Book_Sixth_Edition_volume_1)
+[The Real Book Vol 6 Archive](https://archive.org/details/The_Real_Book_Sixth_Edition_volume_1)
 [Video Game Lead Sheets](https://www.vgleadsheets.com/)
 
-#### JRBs
-[Archive.org fakebooks](https://archive.org/details/fakebooks)
-[reddit thread on resources](https://www.reddit.com/r/Jazz/comments/2d1mk0/does_anyone_have_a_pdf_file_of_various_real_books/)
-- [Google drive folder](https://drive.google.com/drive/folders/0B1s4iEL26SobdVM0NWR1aFlJSlk?resourcekey=0-20R6HYi1vYfokV5oruu5fw)
-- [Free scores](https://www.swiss-jazz.ch/partitions-real-book.htm)
+##### The Jazz Real Book Versions
+[[Jazz-Real-Books]]
 
 #### Fingers
 - [Major scale fingerings](https://www.reddit.com/r/piano/comments/ckgcux/major_scale_fingering/)
@@ -167,6 +164,7 @@ I get alone without you very well
 
 Once in a moon
 About time
+glue song
 
 Dearly beloved
 Coco songs
@@ -176,6 +174,8 @@ Try again
 How deep is your love
 just the way you are
 Merry life
+Top of my head
+Superpowers - [ms](https://musescore.com/user/16691236/scores/27040306)
 #### Next Print
 ```
 road song - 1

@@ -19,6 +19,10 @@ Obsidian Plugin
 ### Ongoing
 [[Course-Content-Vectorizer]]
 - Continuation: [[Text-Extractor-Database]]
+[[Jazz-Real-Finder]]
+- Connected project to visualize chord progressions?
+	- N-gram visualizations from each chord?
+	- Front end to interact
 [[Portfolio]]
 [[Handwriting-Recognition]]
 [[Music-Recommender]]
@@ -57,9 +61,9 @@ From scratch NN with Go
 	- https://nips2017creativity.github.io/doc/ASCII_Art_Synthesis.pdf
 
 Fun Daily Game:
-- generate a random adjective and noun, search Google images and pull the first result. Then have players guess the prompt words
-- give guesses a similarity score (vector) To each word
-
+1) generate a random adjective and noun, search Google images and pull the first result. Then have players guess the prompt words
+	- give guesses a similarity score (vector) To each word
+2) Scrandle but guessing which comment is human written vs AI written
 
 SJC Airport effect? "Clockclock24"
 
@@ -67,6 +71,7 @@ AI-Augmented Personal Text Editor
 - Minimalist, just centering on writing-drafting quick notes as you would in google docs, but with a few added features
 	- Hotkey-triggered LLM actions (grammar checks, tone feedback, passive voice, etc)
 	- Context aware chat interface for feedback, ideating
+- Is this just grammarly? 
 
 
 ### Just fun to think about

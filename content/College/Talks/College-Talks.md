@@ -36,6 +36,10 @@ A hub for all the college talks I attend
 - [Data Love Week (DataLab Symposium)](https://uc-love-data-week.github.io/)
 - [UCD MIND Lectures](https://health.ucdavis.edu/mind-institute/videos/video-dls)
 
+##### 2025 Neuroengineering Symp Link
+- [Pictures](https://neuroengineering.ucdavis.edu/photo-galleries/2025-annual-research-symposium)
+- [Recordings](https://neuroengineering.ucdavis.edu/events/4th-annual-research-symposium-center-neuroengineering-and-medicine)
+
 
 ## Talk Pages
 ---
@@ -81,4 +85,5 @@ Meta-level Research Approaches:
 
 - [[AISC-Tech-Mixer ]]
 - [[Harnessing-Neural-Oscillations-to-Guide-Novel-Deep-Brain-Stimulation-Therapies]]
+- [[Visual-Experience-Dataset]]
 

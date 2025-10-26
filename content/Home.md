@@ -24,7 +24,7 @@ Quick tips before you get started:
 
 ### **Technical Portfolio**
 If you're coming here to look at my 'portfolio website', go to my [[Project-Showcase|Project Showcase]]
-Most of this website is not a porfolio website, just my personal notes. 
+Most of this website is not a portfolio website, just my personal notes. 
 
 
 ### **My Favorite Pages:** 

@@ -24,13 +24,6 @@ Others:
 - Targeting stress because of effects
 - Alleviating financial stress (care packages once a month)
 
-First, please list who is in your group today: 
-Diego, Kevin, Zihao, 
-jenny
-kvein
-diego
-ananya
-ivan
 
 1. What effect of stress on prenatal development will your intervention address? Think about the biological and emotional effects of stress.
 We aim to target the physical effects of chronic stress.

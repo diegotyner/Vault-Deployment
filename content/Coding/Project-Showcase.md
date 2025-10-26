@@ -38,6 +38,14 @@ A full-stack technical demo, leaning more on the backend AI side than the web fr
 - Group summer project.  
 - [Demo](https://www.youtube.com/watch?v=KnU6oNDmrB8) · [Code](https://github.com/Lingotech-Davis/NewsDashboard)  
 
+#### NeuroCrime Project
+
+For our project we wanted to try and target the uncertainty of witness testimony by using objective neural signals of recognition. 
+
+- Includes custom stimulus presentation, event alignment, and analysis pipeline (filtering, ICA, segmentation, evoked responses).
+- Neurotech club project team I PMd
+- [Poster](https://drive.google.com/file/d/1IcV2IrhfATR6CEAfNx07lX8Q189STZsD/view?usp=sharing) · [Code](https://github.com/Neurotech-Davis/NeuroCrime)
+
 #### Canvas Resource Semantic Search
 
 A pipeline I built to scrape and organize all of my course files before graduation.  
@@ -60,8 +68,9 @@ Repo for a multi-stage deep learning group project.
 
 Other small but useful tools:  
 
-1. [Hudl Downloader](https://github.com/diegotyner/Hudl_Downloader) — Python script to download streamed Hudl data locally.  
-2. [Libby Downloader](https://github.com/diegotyner/LibbyDownloader) — Chrome extension to download Libby audiobooks from streams.  
-3. [OCR Text Extractor](https://github.com/diegotyner/handwriting-wrapper) — Web wrapper for the OCR.space API, handy for extracting text from screenshots.  
-4. [Obsidian Vault Deployment](https://github.com/diegotyner/Vault-Deployment) — forked Quartz for publishing Obsidian notes online (closest I have to a portfolio site).  
-5. [NBA Playoffs Search Website](https://github.com/diegotyner/PublicBasketballWebsite) — cloned tool for searching NBA playoff games on YouTube.  
+1. [Hudl Downloader](https://github.com/diegotyner/Hudl_Downloader) - Python script to download streamed Hudl data locally.  
+2. [Libby Downloader](https://github.com/diegotyner/LibbyDownloader) - Chrome extension to download Libby audiobooks from streams.  
+3. [OCR Text Extractor](https://github.com/diegotyner/handwriting-wrapper) - Web wrapper for the OCR.space API, handy for extracting text from screenshots.  
+4. [Obsidian Vault Deployment](https://github.com/diegotyner/Vault-Deployment) - forked Quartz for publishing Obsidian notes online (closest I have to a portfolio site).  
+5. [NBA Playoffs Search Website](https://github.com/diegotyner/PublicBasketballWebsite) - cloned tool for searching NBA playoff games on YouTube.  
+6. [AIFS Hackathon Fruit Recognition Project](https://drive.google.com/file/d/1o_rd6L_mHvs8Kb7yIYVy2jOBZRYifRXM/view?usp=sharing) - Edge detection 
