@@ -126,6 +126,30 @@
               "icon": "lucide-file",
               "title": "ECS171-MT1-Prep"
             }
+          },
+          {
+            "id": "d8dcfd5ba121a889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Classes/ECS154A-L2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ECS154A-L2"
+            }
           }
         ],
         "currentTab": 4
@@ -160,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "displaylines",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -186,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -1263,8 +1286,9 @@
   },
   "active": "4df8ee6e321d0bc4",
   "lastOpenFiles": [
-    "Math/Latex-Reference.md",
+    "College/Classes/ECS154A-L2.md",
     "College/ECS171-MT1-Prep.md",
+    "Math/Latex-Reference.md",
     "Coding/Jazz-Real-Finder.md",
     "College/PSC-140Y-Main.md",
     "College/PSC140Y-V14.md",
@@ -1288,7 +1312,6 @@
     "College/UWP101Y-L4.md",
     "College/PSC140Y-L4.md",
     "College/UWP101Y-A2-1.md",
-    "College/PSC140Y-P4.md",
     "Attachments/Motor-Milestones.png",
     "Attachments/How-to-get-the-Visual-Experience-Dataset.png",
     "Attachments/Face-sensitivity-follows-experience-location.png",

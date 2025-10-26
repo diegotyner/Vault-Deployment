@@ -128,7 +128,8 @@ For any vector: $A^TA=\sum_i a_i^2$
 - Also, $A^TA$ is symmetric
 
 Derivation now:
-$$\displaylines{
+$$
+\displaylines{
 RSS=(Y-Xw)^T(Y-Xw) \\
 \frac{\partial RSS}{\partial w} = 0 \text{ (critical point, minima) } \\
 \nabla w [(Y-Xw)^T(Y-Xw)] = 0 \\
