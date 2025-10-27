@@ -102,57 +102,9 @@
               "icon": "lucide-file",
               "title": "Jazz-Real-Finder"
             }
-          },
-          {
-            "id": "4df8ee6e321d0bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/ECS171-MT1-Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS171-MT1-Prep"
-            }
-          },
-          {
-            "id": "d8dcfd5ba121a889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS154A-L2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS154A-L2"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,12 +157,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -1284,12 +1236,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4df8ee6e321d0bc4",
+  "active": "5df3186470d167c9",
   "lastOpenFiles": [
-    "College/Classes/ECS154A-L2.md",
     "College/ECS171-MT1-Prep.md",
-    "Math/Latex-Reference.md",
     "Coding/Jazz-Real-Finder.md",
+    "College/Classes/ECS154A-L2.md",
+    "Math/Latex-Reference.md",
     "College/PSC-140Y-Main.md",
     "College/PSC140Y-V14.md",
     "College/PSC140Y-V13.md",

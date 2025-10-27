@@ -111,6 +111,12 @@ Lecture 9 - *Autoencoders*
 
 
 ### Deeper Dive
+##### Tab stack
+[lec 4](https://canvas.ucdavis.edu/courses/1016188/files?preview=28721966)
+[samp mt](https://canvas.ucdavis.edu/courses/1016188/files?preview=28848227)
+[samp mt sol](https://canvas.ucdavis.edu/courses/1016188/files/folder/Discussion?preview=28937757)
+
+
 #### Lecture 1: Intro
 Nothing too crazy, just the topics above
 
@@ -121,6 +127,7 @@ Linear Regression: Model depends linearly on unknown parameters, estimated from 
 - Multivariate LR: multiple independent, multiple dependent
 	- (general linear regression)
 
+##### OLS
 OLS - Method for estimating parameters in linear regression
 
 Ideal Linear Regression: $y^i = f(x_i;w) = w^Tx_I = \sum ^n_{j=0} w_jx_j^i$
@@ -145,7 +152,7 @@ RSS=(Y-Xw)^T(Y-Xw) \\
 \nabla w[ Y^TY -  Y^TXw - x^TX^TY + w^TX^TXw] = 0 
 \text{ (this next step is weird, look at footnotes)} \\
 \nabla w[-2Y^Txw + w^TX^TXw] = 0 \\
--2X^TY + 2X^TXw = 0
+-2X^TY + 2X^TXw = 0 \\
 X^TXw=X^TY \\
 w = (X^TX)^{-1}X^TY
 }
@@ -154,4 +161,54 @@ Footnotes:
 - $Y^TY$ is a constant, and gets zeroed out by derivative
 - "Since $(Y^{T}Xw)$ is a scalar, its transpose is equal to itself. That is, $((Y^{T}Xw)^{T}=w^{T}X^{T}Y$. Therefore, the two middle terms are equal", which gives us $-2Y^TXw$
 
+##### Gradient Descent (GD)
+3 main types:
+1) Stochastic GD (1) - One sample, update weights accordingly
+2) Mini-batch GD (1<m<n) - A batch of samples smaller than entire training set (think a handful conceptually), update weights
+3) Batch GD (n) - Whole training set
 
+Central rule: 
+- $w_j = w_j - \alpha \frac{\partial RSS}{\partial w_j}$
+- $w_j = w_j - \alpha \frac{\partial (y^i - \sum^n w_kx_k^i)^2}{\partial w_j}$
+
+LMS update rule - (also called Widrow-Hoff):
+- Repeat until convergence:
+	- SGD: $w_j = w_j + \alpha (y^i - w^Tx^i)x_j^i$
+	- BGD: $w_j = w_j + \alpha \sum^m_{i=1}(y^i - w^Tx^i)x_j^i$
+
+#### Lecture 3: Linear Regression Pt.2 
+Understand model complexity and data tradeoffs, the polynomial fitting problem
+
+##### Regularization:
+Bounding the sum of weights, and putting it in the objective function
+
+Ridge/L2 Regularization:
+- $\min \sum^m (y^i -w^Tx^i)^2 + \lambda \sum^n w^2$
+
+Lasso/L1 Regularization:
+- $\min \sum^m (y^i -w^Tx^i)^2 + \lambda \sum^n w$
+
+##### Conditional Probs:
+Reframe problem in a probabilistic way:
+- Error is gaussian: $\epsilon \sim N(0,\sigma^2)$
+- Output is a normal function centered on estimations, with noise throw in:
+	- $y(x) = w^Tx+\epsilon \implies N(y|w^Tx, \sigma^2)$
+	- $\theta = (w, \sigma^2)$
+
+##### Maximum Likelihood Estimation (MLE)
+We want to maximize the chance our parameters $\theta$ produce the data:
+- $\theta = argmax_\theta p(D|\theta)$
+
+Equivalently: 
+- $\theta = argmax_\theta \log p(D|\theta)$
+- Since it's now logs, we can assume M training samples are i.i.d. and treat independently:
+	- $l(\theta) = \log p(D|\theta) = \sum^M \log p(y^i|x^i, \theta)$
+	- $l(\theta) = \sum^M \log[ (\frac{1}{2\pi \sigma^2})^\frac{1}{2}e^{-\frac{(y_i - w^Tx^i)^2}{2\sigma^2}}]$ 
+	- $l(\theta) = -\frac{M}{2} \log(2\pi \sigma^2) - \frac{1}{2\sigma^2}\sum^M (y^i -w^Tx^i)^2$
+		- Estimating prob of observing data given assumptions, smaller if more wrong
+		- "The log-likelihood increases as the residual sum of squares decreases — i.e., the model assigns higher probability to data that lies closer to the predicted line"
+	- Maximizing prob minimizes the RSS, which for linear regressions case gives OLS
+- Instead of maximizing $l(\theta)$ we can minimize the negative log likelihood (NLL):
+	- $NLL(\theta) = -\log p(D|\theta) = -\sum^M \log p (y^i | x^i, \theta)$
+
+#### Lecture 4 - Logistic Regression and Classification
