@@ -45,5 +45,7 @@ This course is designed to help you further develop your academic writing knowle
 - [[UWP101Y-A2-1]]
 - [[UWP101Y-L4]]
 
+### Week 5 -
+- [[UWP101Y-L5]]
 
 

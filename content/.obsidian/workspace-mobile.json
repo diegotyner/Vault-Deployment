@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "PSC-140Y-Main"
             }
+          },
+          {
+            "id": "ff6157de92de8222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Piano-Tab-Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Piano-Tab-Stack"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +208,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d2eed86b5a9b9ac5",
+  "active": "ff6157de92de8222",
   "lastOpenFiles": [
-    "College/PSC140Y-VL8.md",
     "College/PSC-140Y-Main.md",
+    "College/PSC140Y-VL8.md",
     "College/PSC140Y-VE3.md",
     "College/PSC140Y-VL7.md",
     "College/PSC140Y-CP3.md",

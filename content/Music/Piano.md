@@ -5,6 +5,7 @@ tags:
 ---
 
 
+[[Piano-Tab-Stack]]
 
 ### Reference
 [bass clef notes label](https://www.musictechteacher.com/music_worksheets/worksheet_0002_bass_clef_notes.pdf)
@@ -167,6 +168,7 @@ About time
 glue song
 
 Dearly beloved
+My Heart Will Go On
 Coco songs
 Igual que ayer 
 Sabor a ti
@@ -177,14 +179,6 @@ Merry life
 Top of my head
 Superpowers - [ms](https://musescore.com/user/16691236/scores/27040306)
 #### Next Print
-```
-road song - 1
-four - 1
-blue bossa - 1
-tune up - 1
-blues for alice - 1
-sunny side of the street 
-```
 - https://musescore.com/user/498481/scores/6396948
 - https://therealbook.info/view/index/1134/
 

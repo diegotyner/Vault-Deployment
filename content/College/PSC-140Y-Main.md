@@ -82,6 +82,18 @@ Core Knowledge - [[PSC140Y-V12]]
 Vygotsky (Parts 1 and 2) - [[PSC140Y-V13]]
 Dynamic Systems Theory - [[PSC140Y-V14]]
 ### Week 6 - Conceptual Development and Intelligence
+
+*Online*
+Perusal, Achievement and experience - Tale of two schools, owen and david
+Theory of Mind & Developing It- [[PSC140Y-VE6]]
+Play (Part 1 & 2) - [[PSC140Y-VL15]]
+Theory of Mind (VL)
+- When non autistic people do a theory of mind task:
+	- Activate temporal pole, temporo-parietal junction and medial PFC
+- People with ASD don't activate these areas, and instead activate general problem solving areas. 
+- Later understanding of sally and anne ball task too, instead of around age 5, age 10+
+Intelligence - [[PSC140Y-VL16]]
+
 ### Week 7 - Language Development
 **Exam 2**
 ### Week 8 - Attachment

@@ -9,8 +9,6 @@ tags:
 ---
 
 
-[Notion Tracker](https://www.notion.so/579abdd97bd5474995ef6f4f06d13b91?v=9f08735f1a7d42dc98557996762be2ee)
-
 ## In Progress:
 - [[Churchland-Centrality-of-Factors]]
 - [[Computational-Rationality]]
@@ -43,12 +41,19 @@ tags:
 #### EEG
 - [Application of EEG Metrics in the Decision-Making Process](https://link.springer.com/chapter/10.1007/978-3-030-30251-1_14)
 - [Predicting individual decision-making responses based on single-trial EEG](https://www.sciencedirect.com/science/article/pii/S1053811919309243)
-#### Behavior
-- [[Why-Male-Ground-Squirrels-Disperse]]
-- [[The-Emergence-of-Us-and-Them-in-80-Lines of Code]]
 #### Systems/Networks
 - [Network Neuroscience](https://www.nature.com/articles/nn.4502.pdf)
 
+
+### Classes
+#### NPB 162
+[[NPB162-Journal-5]]
+[[Why-Male-Ground-Squirrels-Disperse]]
+#### PSC 120
+[[The-Emergence-of-Us-and-Them-in-80-Lines of Code]]
+#### UWP 101Y - Brain Networks
+[[Large-scale-brain-networks-in-affective-and-social-neuroscience]]
+[[Large-scale-brain-networks-in-cognition]]
 
 
 

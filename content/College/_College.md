@@ -60,6 +60,7 @@ aliases:
 [Tentative Course Offerings 24-25](https://cs.ucdavis.edu/course-schedule)
 [CS Reqs](https://catalog.ucdavis.edu/departments-programs-degrees/computer-science-engineering/computer-science-engineering-bs/#requirementstext)
 [CS Degree Worksheet](https://oasis.ucdavis.edu/forms/worksheet/worksheet.aspx?worksheetId=797733&sv=true)
+- [modern NLP ecs189g](https://mcusercontent.com/e40f677b8e7e22bd326f4fcfb/files/956ca31e-39c7-4c0a-9817-abfc2f40b00f/ECS_189G_Flyer.pdf)
 
 ### Interesting Online Courses / Resources
 [[UCD-Course-Websites]]

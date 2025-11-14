@@ -14,6 +14,7 @@ list from [[]] and !outgoing([[]])
 ---
 
 
+[[Jazz-Real-Finder-LLM-Context]]
 ## 🧲 Published
 ### Deployment:
 - [Deployment](https://real-finder.vercel.app/)
@@ -25,17 +26,16 @@ list from [[]] and !outgoing([[]])
 - OCR pipeline to index new JRBs
 - Matching and fuzzy finding to find jazz standard music
 - Preprocessed pdfs, small file package for users
+- Add more metadata (composer, feel, etc.) - [repo](https://github.com/mikeoliphant/JazzStandards/tree/main)
+- View songs pertaining to a real book, viewable index
 
 ### Todo
 Create json -> song.js converter script to keep old synced with new as you develop
 Add link to github repo
 
-- Add more metadata (composer, feel, etc.)
-	- BAAANNNNGG - [repo](https://github.com/mikeoliphant/JazzStandards/tree/main)
 - Creating setlists (ie keeping track of songs in a session)
 - Maybe creating profiles with learned songs or favorites?
-- View songs pertaining to a real book, viewable index
-	- OOoh i like the idea of like a git diff log between versions
+- OOoh i like the idea of like a git diff log between versions
 - Autocomplete? Could be cool to see autumn leaves popup in search bar
 - Related tunes?
 - Random tune

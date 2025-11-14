@@ -31,6 +31,8 @@ Introduction to machine learning. Supervised and unsupervised learning, includin
 
 
 ## 📄 Class Material
+[[ECS171-Project]]
+
 ### Week 1 - Course Intro
 - [[ECS171-L1]]
 ### Week 2 - Regression & Regularization
