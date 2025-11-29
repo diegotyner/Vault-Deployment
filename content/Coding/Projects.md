@@ -20,18 +20,16 @@ Obsidian Plugin
 [[Course-Content-Vectorizer]]
 - Continuation: [[Text-Extractor-Database]]
 [[Jazz-Real-Finder]]
-- Connected project to visualize chord progressions?
-	- N-gram visualizations from each chord?
-	- Front end to interact
 [[Portfolio]]
 [[Handwriting-Recognition]]
 [[Music-Recommender]]
 
 [[Self-Hosting]]
 
-
-
 ### Future
+MP3 player with recommender system (MRS)
+- https://www.reddit.com/r/selfhosted/comments/ywzawa/selfhostable_open_alternatives_to_spotifys/
+
 [[Calendar-Merger]]
 [[Note-Bumper]]
 [[NBA-Analytics-Website]]

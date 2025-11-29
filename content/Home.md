@@ -54,5 +54,6 @@ Most of this website is not a portfolio website, just my personal notes.
  
 ### Personal (hidden)
 [[_Work|Work]]
+[[_Writing|Writing]]
 
 

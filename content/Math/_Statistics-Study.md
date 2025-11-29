@@ -13,5 +13,6 @@ tags:
 Mixed Effects Modeling
 Kl scores
 ANOVA
+Linear mixed effects model
 
 Statistics talks from notebook to obisdian

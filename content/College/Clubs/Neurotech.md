@@ -50,6 +50,7 @@ Maybe speed up the rhythm?
 ### Description
 Neurotech is a dynamic and innovative neurotechnology club dedicated to advancing the field of brain-computer interfaces (BCIs) and fostering the next generation of neurotech enthusiasts. At Neurotech, we are passionate about exploring the intersection of neuroscience and technology to create cutting-edge solutions that push the boundaries of what is possible.
 
+Welch PSD vs Hilbert Transform?
 
 ![[Neurotech 2025-02-05 19.26.34.excalidraw]]
 

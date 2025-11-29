@@ -4,7 +4,15 @@ created:
 tags:
 ---
 
-- 1 pg - like someone in love
+- 1 pg - when you wish upon a star
+- 1 pg - lullaby of birdland
+- 1 pg - i fall in love too easily (fixed)
+- 1 pg - orbits
+- 2 pg - ruby, my dear 
+
+JRB2
+- 1 pg - but not for me
+- 2 pg - just the way you are
 
 ---
 

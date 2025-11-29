@@ -25,6 +25,11 @@ Link to Source: [link](https://www.sciencedirect.com/science/article/pii/S136466
 ---
 
 ### Scratch Notes:
+This paper is another article describing the switch from modular neuroscience to a more distributed understanding of the brain through large scale brain networks. “A new paradigm is emerging in cognitive neuroscience that moves beyond the simplistic mapping of cognitive constructs onto individual brain areas and emphasizes instead the conjoint function of brain areas working together as large-scale networks.”
+In the "Large-scale structural brain networks” section, the authors go into the mathematical modeling that describes large scale brain networks, namely graph/network theory (the presence of nodes and edges and how to model the brain as a combination of those), and how building these structural networks can be used to infer function. 
+	They go onto provide specific operational definitions for nodes (areas of the brain defined by cytoarchitectonics, local circuits, output projection commonality and input projection commonality) and edges (long range axonal-fiber (white matter) pathways, traced by autoradiographic tracing in animals, diffusion-based magnetic resonance imaging in human brains, and even anatomical features like cortical thickness and volume).
+	This can be used to infer function by providing a framework to describe functional interactions in the brain (by using the physical constraints of the neural system they can place constraints to make it a tractable problem).
+More of the paper goes onto describe the mathier side of this (dynamic causal modeling, functional interdependence, granger causality analysis (GCA), independent component analysis (ICA), Phase synchrony, etc.).
 #### Abstract
 #### Large-scale brain networks and cognition
 #### Large-scale structural brain networks

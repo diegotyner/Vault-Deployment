@@ -52,8 +52,11 @@ tags:
 #### PSC 120
 [[The-Emergence-of-Us-and-Them-in-80-Lines of Code]]
 #### UWP 101Y - Brain Networks
-[[Large-scale-brain-networks-in-affective-and-social-neuroscience]]
-[[Large-scale-brain-networks-in-cognition]]
+[Annotated Bib](https://docs.google.com/document/d/1vfGz4rXUw2FwE9xbLLKdRVyh4BaGcGRECScln4Pt0Uk/edit?usp=sharing)
+- [[Large-scale-brain-networks-in-affective-and-social-neuroscience]]
+- [[Large-scale-brain-networks-in-cognition]]
+- [[Functional-brain-networks-develop-from-a-local-to-distributed-organization]]
+- [[Reading/Reading/Dissociable-oscillatory-theta-signatures-of-memory-formation-in-the-developing-brain]]
 
 
 

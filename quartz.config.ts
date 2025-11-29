@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 /**
  * Quartz 4 Configuration
@@ -21,9 +21,10 @@ const config: QuartzConfig = {
     ignorePatterns: [
       "Private",
       "Work/",
-      "Journal/", 
-      "Excalidraw/", 
-      ".obsidian"
+      "Journal/",
+      "Excalidraw/",
+      "Writing/",
+      ".obsidian",
     ],
     defaultDateType: "created",
     generateSocialImages: true,
@@ -78,7 +79,7 @@ const config: QuartzConfig = {
           italics: "#4C8CE6",
           // Links might be too intense?
           secondary: "#A14CE6", // A14CE6 // 7b97aa
-          tertiary: "#af53fa",  // 84a59d // af53fa
+          tertiary: "#af53fa", // 84a59d // af53fa
           highlight: "rgba(143, 159, 169, 0.03)",
           textHighlight: "#b3aa021A", // b3aa0288
         },
@@ -98,7 +99,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ 
+      Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: true,
         enableCheckbox: true,
         parseArrows: false,
@@ -108,7 +109,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "mathjax" }),
-      Plugin.HardLineBreaks()
+      Plugin.HardLineBreaks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -126,6 +127,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
     ],
   },
-}
+};
 
-export default config
+export default config;

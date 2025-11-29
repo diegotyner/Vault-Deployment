@@ -56,7 +56,7 @@ A hub for all the college talks I attend
 - [[AISCxNT-AI-Symposium]]
 - [[John-Nadra-Neurotech-Talk]]
 - [[Statistical-Advanes-in-Time-Frequency-Analysis-for-Digital-Health]]
-- [[Dissociable-oscillatory-theta-signatures-of-memory-formation-in-the-developing-brain]]
+- [[College/Talks/Dissociable-oscillatory-theta-signatures-of-memory-formation-in-the-developing-brain]]
 - [[Leveraging-Neurophysiology-to-Improve-Cognitive-Performance]]
 - [[How-human-brain-development-shapes-memory-formation]]
 - [[AISC-CS-Symposium]]

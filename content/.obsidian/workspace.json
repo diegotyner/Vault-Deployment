@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "3d95d65cc4232206",
+            "id": "7f49184e3a2a8596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Piano.md",
+                "file": "Music/Piano-Tab-Stack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Piano"
+              "title": "Piano-Tab-Stack"
             }
           },
           {
-            "id": "72634db0c355d7ce",
+            "id": "4d76cd2198ffa254",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading/_Research-Papers.md",
+                "file": "Coding/Projects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Research-Papers"
+              "title": "Projects"
             }
           },
           {
-            "id": "42ffc15bd739de2b",
+            "id": "3e6b05f9bbf718e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading/Large-scale-brain-networks-in-cognition.md",
+                "file": "Writing/_Writing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Large-scale-brain-networks-in-cognition"
+              "title": "_Writing"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "squirrel",
+                "query": "ichigo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -181,13 +181,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -1261,44 +1259,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42ffc15bd739de2b",
+  "active": "3e6b05f9bbf718e9",
   "lastOpenFiles": [
-    "Reading/Reading/Large-scale-brain-networks-in-cognition.md",
-    "Reading/Reading/_Research-Papers.md",
-    "Reading/Reading/Large-scale-brain-networks-in-affective-and-social-neuroscience.md",
-    "Attachments/Frequency-of-Mental-Functions-in-Brain-Networks.png",
-    "Reading/Reading/Computational-Rationality.md",
-    "Reading/Reading/Churchland-Centrality-of-Factors.md",
-    "Reading/Reading/The-Emergence-of-Us-and-Them-in-80-Lines of Code.md",
-    "College/Classes/NPB-162-Main.md",
-    "College/Classes/NPB162-L1.md",
-    "College/Classes/NPB162-Journal-5.md",
-    "Music/Piano.md",
-    "College/ECS171-Project.md",
-    "Music/Piano-Tab-Stack.md",
+    "index.md",
+    "Writing/_Writing.md",
+    "Scratch/_Scratch.md",
+    "Scratch/Untitled.md",
+    "Music/Violin.md",
+    "Writing",
+    "Coding/Projects.md",
     "Coding/Jazz-Real-Finder.md",
-    "Coding/Jazz-Real-Finder-LLM-Context.md",
-    "Music/Jazz-Real-Books.md",
-    "Work/_Work.md",
-    "Work/ASP.NET.md",
+    "Music/Piano-Tab-Stack.md",
+    "College/Clubs/Neurotech.md",
+    "College/ECS171-Project.md",
+    "Scratch/Tab-Stack.md",
+    "College/PSC-140Y-Main.md",
+    "College/PSC140Y-VL21.md",
+    "College/PSC140Y-VL19.md",
+    "College/PSC140Y-VL18.md",
+    "College/PSC140Y-CP3.md",
     "Work/Plant-Science-Work.md",
-    "College/Talks/College-Talks.md",
-    "College/Talks/Single-Neuron-Recording-in-Humans.md",
+    "Work/PS-2025-Alfalfa-Congress.md",
+    "Reading/Reading/Churchland-Centrality-of-Factors.md",
+    "Music/Piano.md",
+    "College/PSC140Y-D8.md",
+    "College/ECS171-MT2-Prep.md",
+    "College/PSC140Y-L8.md",
+    "College/PSC140Y-VL17.md",
+    "Attachments/Child-Attachment-Style-Chart.png",
+    "Reading/Reading/_Research-Papers.md",
+    "College/ECS-171-Main.md",
+    "Attachments/Frequency-of-Mental-Functions-in-Brain-Networks.png",
     "Attachments/Amnestic-Effects-of-Propofol.png",
     "Attachments/Response-Latencies-Human-MTL.png",
     "Attachments/Population-Stats-Remembered-Item-Location-Neurons.png",
-    "College/Classes/NPB-163-Main.md",
-    "College/Classes/NPB163-L2.md",
-    "College/Classes/NPB163-L3.md",
-    "College/Classes/PSC-134-Main.md",
     "Attachments/Medial-Temporal-Lobe-Anatomy.png",
-    "College/ECS-171-Main.md",
-    "College/ECS140A-L1.md",
     "Attachments/Motor-Milestones.png",
     "Attachments/How-to-get-the-Visual-Experience-Dataset.png",
     "Attachments/Face-sensitivity-follows-experience-location.png",
     "Attachments/Visual-Diet-of-Object-Locations.png",
-    "Attachments/Heatmap-Of-DNN-Confusion-on-Real-Images.png",
     "ichigos.com/sheets",
     "ichigos.com",
     "Excalidraw/PDF-Annotation/DLN_final.pdf",
@@ -1308,7 +1307,6 @@
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
     "Excalidraw/PDF-Annotation/ECS 124 Final Prep.pdf",
-    "Excalidraw/PDF-Annotation/ARCH-Assessment3.pdf",
     "Untitled.canvas"
   ]
 }

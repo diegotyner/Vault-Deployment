@@ -33,6 +33,10 @@ list from [[]] and !outgoing([[]])
 Create json -> song.js converter script to keep old synced with new as you develop
 Add link to github repo
 
+- Connected project to visualize chord progressions?
+	- N-gram visualizations from each chord?
+	- Front end to interact
+
 - Creating setlists (ie keeping track of songs in a session)
 - Maybe creating profiles with learned songs or favorites?
 - OOoh i like the idea of like a git diff log between versions

@@ -7,6 +7,10 @@ tags:
 
 [[Piano-Tab-Stack]]
 
+jazz:
+- https://audioplayer.opb.org/kmhd
+- https://www.qobuz.com/us-en/discover
+
 ### Reference
 [bass clef notes label](https://www.musictechteacher.com/music_worksheets/worksheet_0002_bass_clef_notes.pdf)
 [Beginner exercises](https://jeffreychappell.com/pianist/articles/scales-and-arpeggios/)

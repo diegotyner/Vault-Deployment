@@ -97,7 +97,22 @@ Intelligence - [[PSC140Y-VL16]]
 ### Week 7 - Language Development
 **Exam 2**
 ### Week 8 - Attachment
+*Veteran's Day*
+
+*Online*
+Perusal - Childhood attachment styles
+Attachment - [[PSC140Y-VL17]]
 ### Week 9 - Emotional Development
+[[PSC140Y-L8]]
+- [[PSC140Y-D8]]
+
+*Online*
+Self-Awareness and the Rouge Test - [[PSC140Y-VL18]]
+Emotion Regulation - [[PSC140Y-VL19]]
+Parents and Emotional Regulation
+Temperament - [[PSC140Y-VL21]]
+
+
 ### Week 10 - The Family
 **Exam 3**
 ### Week 11 - Moral Devopment

@@ -54,6 +54,7 @@ Discussion on hw1 code
 ### Week 8 - Unsupervised Learning
 *Veterans Day Holiday*
 ### Week 9 - Dimensionality Reduction and Clustering
+[[ECS171-MT2-Prep]]
 ### Week 10 - Project Presentation
 *Thanksgiving Holiday*
 ### Week 11 - Project Presentation
