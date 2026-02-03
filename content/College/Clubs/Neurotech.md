@@ -26,6 +26,9 @@ SORT file.name desc
 ## ❗ ->  Information
 
 
+25-26: [[NT-Weimo]]
+24-25: [[NT-Project]]
+
 ### Recording Checklist:
 - [ ] Bluetooth is off
 - [ ] Move batteries?

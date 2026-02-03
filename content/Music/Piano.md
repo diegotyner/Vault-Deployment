@@ -6,6 +6,7 @@ tags:
 
 
 [[Piano-Tab-Stack]]
+[[Piano-Lick-Tracker]]
 
 jazz:
 - https://audioplayer.opb.org/kmhd
@@ -18,6 +19,7 @@ jazz:
 [The Real Book Vol 6 Archive](https://archive.org/details/The_Real_Book_Sixth_Edition_volume_1)
 [Video Game Lead Sheets](https://www.vgleadsheets.com/)
 
+[Voicing Resources](https://www.reddit.com/r/JazzPiano/comments/1pg2adn/resources_that_teach_voicings_and_voice_leading/)
 ##### The Jazz Real Book Versions
 [[Jazz-Real-Books]]
 
@@ -40,7 +42,6 @@ jazz:
 
 [Predule in E Minor - Chopin](https://musescore.com/classicman/chopin-opus-28-no-4)
 Claire de Lune - 
-
 
 ##### Modern
 [Let it be - Beatles](https://sheetsfree.com/sheets/B/The%20Beatles%20-%20Let%20It%20Be.pdf )

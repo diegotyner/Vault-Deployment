@@ -14,8 +14,11 @@ list from [[]] and !outgoing([[]])
 ---
 
 
-
-
+## 🧲 Published
+### Deployment:
+- https://handwriting-wrapper.vercel.app
+### GitHub:
+- https://github.com/diegotyner/handwriting-wrapper
 
 ## 🧾 Project Description
 ### Blurt
@@ -61,11 +64,6 @@ Maybe I could even tie it into [[Obsidian-LLM-Integration]]?
 ### Official
 
 
-## 🧲 Published
-### Deployment:
-- https://handwriting-wrapper.vercel.app
-### GitHub:
-- https://github.com/diegotyner/handwriting-wrapper
 
 ## 🎯 Objective
 

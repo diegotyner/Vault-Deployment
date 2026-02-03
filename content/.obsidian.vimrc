@@ -43,6 +43,7 @@ exmap surround_backticks surround ` `
 exmap surround_brackets surround ( )
 exmap surround_square_brackets surround [ ]
 exmap surround_curly_brackets surround { }
+exmap surround_dollar_signs surround $ $
 
 " NOTE: must use 'map' and not 'nmap'
 map [[ :surround_wiki<CR>
@@ -56,6 +57,7 @@ map s[ :surround_square_brackets<CR>
 map s] :surround_square_brackets<CR>
 map s{ :surround_curly_brackets<CR>
 map s} :surround_curly_brackets<CR>
+map s$ :surround_dollar_signs<CR>
 
 
 

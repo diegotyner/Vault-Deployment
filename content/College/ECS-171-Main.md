@@ -59,4 +59,5 @@ Discussion on hw1 code
 *Thanksgiving Holiday*
 ### Week 11 - Project Presentation
 
+[[ECS171-Final-Prep]]
 

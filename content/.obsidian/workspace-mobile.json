@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Piano-Tab-Stack.md",
+                "file": "College/Classes/ECS132-L15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Piano-Tab-Stack"
+              "title": "ECS132-L15"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "College/PSC-140Y-Main.md",
+            "file": "College/Classes/ECS132-L15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -210,6 +210,12 @@
   },
   "active": "ff6157de92de8222",
   "lastOpenFiles": [
+    "College/Classes/ECS-132-Main.md",
+    "Music/Jazz-Real-Books.md",
+    "Music/Piano-Tab-Stack.md",
+    "Writing/_Writing.md",
+    "Coding/Projects.md",
+    "Coding/Embedded-Project.md",
     "College/PSC-140Y-Main.md",
     "College/PSC140Y-VL8.md",
     "College/PSC140Y-VE3.md",
@@ -230,12 +236,6 @@
     "Reading/Agapē-Agape.md",
     "Work/Forage-Sampling.md",
     "College/Fall-Quarter-2024.md",
-    "Music/Violin.md",
-    "Music/qatched.md",
-    "Coding/ID3-Tags.md",
-    "Scratch/_Scratch.md",
-    "Scratch/Summer-2025.md",
-    "College/Classes/NPB173-L17.md",
     "Attachments/Polynomial-Degree-Generalizability-ML.png",
     "Attachments/Parameters-Degree-9-Polynomial-Training-Set-Size.png",
     "Attachments/Model-Complexity-and-Bias-Variance.png",

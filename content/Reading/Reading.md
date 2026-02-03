@@ -9,7 +9,9 @@ tags:
 ### Research Paper Page:
 I organized this one separately. This main page is mostly for my actual *reading* reading, not my [[_Research-Papers|Research Paper]] reviews.
 
-
+## What I Have Read
+The Deep Learning Revolution - Terrence Sejnowski
+[[Agapē-Agape]]
 
 ### Books
 Leisure
@@ -48,7 +50,4 @@ The myth of sissyphus
 Albert camus
 
 
-## What I Have Read
-The Deep Learning Revolution - Terrence Sejnowski
-[[Agapē-Agape]]
 

@@ -26,7 +26,6 @@ Flats:
 3) [[Eb-Major]]
 4) [[Ab-Major]]
 5) [[Db-Major]]
-6) [[F-sharp-Major]]
 
 Sharps:
 1) [[G-Major]]
@@ -34,4 +33,6 @@ Sharps:
 3) [[A-Major]]
 4) [[E-Major]]
 5) [[B-Major]]
-6) [[Gb-Major]]
+
+Tritone from C:
+[[Gb-Major]] / [[F-sharp-Major]]

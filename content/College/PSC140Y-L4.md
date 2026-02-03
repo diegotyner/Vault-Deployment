@@ -27,7 +27,7 @@ What are taste buds?
 What are the five primary tastes?
 - Bitter, salty, sweet, umami, sour
 
-Pappilae (raised bumps) on tongue have many sensory taste buds. Also some on rest of mouth, but most on tongue. No localization of 'types' of sensory buds (e.g. false that back of tongue is sensitive to spicy food)
+Papillae (raised bumps) on tongue have many sensory taste buds. Also some on rest of mouth, but most on tongue. No localization of 'types' of sensory buds (e.g. false that back of tongue is sensitive to spicy food)
 
 Flavor also involves olfaction (smell)
 - Regular smell - Through nose to olfactory bulb (receptor)

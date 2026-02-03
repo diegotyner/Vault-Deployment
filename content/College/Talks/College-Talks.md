@@ -87,4 +87,5 @@ Meta-level Research Approaches:
 - [[Harnessing-Neural-Oscillations-to-Guide-Novel-Deep-Brain-Stimulation-Therapies]]
 - [[Visual-Experience-Dataset]]
 - [[Single-Neuron-Recording-in-Humans]]
+- [[Agentic-AI-With-MCP]]
 

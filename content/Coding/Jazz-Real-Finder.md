@@ -28,6 +28,7 @@ list from [[]] and !outgoing([[]])
 - Preprocessed pdfs, small file package for users
 - Add more metadata (composer, feel, etc.) - [repo](https://github.com/mikeoliphant/JazzStandards/tree/main)
 - View songs pertaining to a real book, viewable index
+- Creating setlists
 
 ### Todo
 Create json -> song.js converter script to keep old synced with new as you develop
@@ -37,13 +38,14 @@ Add link to github repo
 	- N-gram visualizations from each chord?
 	- Front end to interact
 
-- Creating setlists (ie keeping track of songs in a session)
-- Maybe creating profiles with learned songs or favorites?
-- OOoh i like the idea of like a git diff log between versions
+- Add personal songs in the setlists (like 'Like The Movies') so you can pull them up quickly
+
+- Link to jazz standards?
+- Search up and somehow find Chet Bakers signature songs
+	- Spotify API companion that scrapes the "This is {artist}" playlist for songs 
 - Autocomplete? Could be cool to see autumn leaves popup in search bar
 - Related tunes?
 - Random tune
-- Link to jazz standards?
 - Link to top recordings
 - Link to vocals? 
 
@@ -51,6 +53,7 @@ Add link to github repo
 Name pop up, hover/interact in order to see where it appears (removes the problem of duplicates in list)
 
 Git diff log between real book editions (see what was removed/added from 5 to 6)
+- This is not really feasible, like half the book gets replaced each iterations (and ALL of ed 3)
 
 ## 🧾 Project Description
 

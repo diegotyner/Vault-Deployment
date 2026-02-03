@@ -17,6 +17,8 @@ tags:
 
 [[Configs]]
 
+[[Charger-Speeds]]
+
 ##### Old:
 [[CalFresh]]
 [[Groceries]]

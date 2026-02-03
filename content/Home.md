@@ -48,7 +48,7 @@ Most of this website is not a portfolio website, just my personal notes.
 
 
 ### Quick Notes
- [[_Scratch|Scratch]]
+[[_Scratch|Scratch]]
 [[Today|Tasks]]
 
  

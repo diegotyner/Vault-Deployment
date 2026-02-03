@@ -111,14 +111,19 @@ Self-Awareness and the Rouge Test - [[PSC140Y-VL18]]
 Emotion Regulation - [[PSC140Y-VL19]]
 Parents and Emotional Regulation
 Temperament - [[PSC140Y-VL21]]
-
-
 ### Week 10 - The Family
 **Exam 3**
-### Week 11 - Moral Devopment
 
----
+*Online*
+Grandparent Caregivers - [[PSC140Y-VE10]]
+Parenting Styles - [[PSC140Y-VL22]]
+### Week 11 - Moral Development
+Perusal - 2 High Quality Preschools
+*No lecture*
+
+*Online*
+Development of Moral Reasoning - [[PSC140Y-CP5]]
 ### **Final**
-
+[[PSC140Y-Final-Prep]]
 
 

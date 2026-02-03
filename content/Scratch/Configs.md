@@ -2,8 +2,10 @@
 created:
   - " 08-04-2025 17:14"
 tags:
+aliases:
+  - dotfiles
+  - setup
 ---
-
 
 
 I'm trying to make my configs more reproducible, so I thought I'd log some things here while I install them all on a new pc:
@@ -54,7 +56,36 @@ Very straightforward
 Managed through dropbox mostly, super easy to install and set vault to that location
 
 ### Vscode
-Managed through account synk through github acc
+Managed through account sync through github acc
 If doing WSL, make sure so to install on windows, then install on linux afterwards by doing `code .` , which will link itself
+
+### Alacritty
+https://github.com/alacritty/alacritty
+### Starship
+`curl -sS https://starship.rs/install.sh | sh`
+
+### Popos Changes
+To dump only user-altered keys:
+  - `dconf dump / > dump.dconf`
+To restore:
+- `dconf load / < dump.dconf`
+backup available in gdrive
+
+(forgot cmd, but changed mouse scroll speed?)
+```
+# Set workspace settings to good defaults
+gsettings set org.gnome.mutter dynamic-workspaces false
+gsettings set org.gnome.desktop.wm.preferences num-workspaces 4
+
+# nav reassigned
+switch-to-workspace-1=['<Super>Home', '<Super>1']
+switch-to-workspace-2=['<Super>2']
+switch-to-workspace-3=['<Super>3']
+switch-to-workspace-4=['<Super>4']
+
+# turn off workspace switching settings
+gsettings set org.gnome.desktop.interface enable-animations false
+
+```
 
 	

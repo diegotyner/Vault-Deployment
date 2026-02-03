@@ -43,6 +43,8 @@ tags:
 [[Coding-Languages-Cheatsheets]]
 [[Linux]]
 [[ID3-Tags]]
+[[Dev-Ops]]
+[[Configs]]
 
 [StatQuest Trailer, 2019](https://www.youtube.com/@statquest)
 [Huggingface MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)

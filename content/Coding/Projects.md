@@ -15,18 +15,21 @@ Quartz
 Obsidian Plugin
 [[YT-Playlist]]
 [[ChatGPT-Summarizer]]
+[[Handwriting-Recognition]]
 
 ### Ongoing
 [[Course-Content-Vectorizer]]
 - Continuation: [[Text-Extractor-Database]]
 [[Jazz-Real-Finder]]
-[[Portfolio]]
-[[Handwriting-Recognition]]
+[[Piano-Index-Vault]]
+
+[[Portfolio]] - I don't like this one, very WIP
 [[Music-Recommender]]
 
 [[Self-Hosting]]
 
 ### Future
+[[Offline-Music-App]]
 MP3 player with recommender system (MRS)
 - https://www.reddit.com/r/selfhosted/comments/ywzawa/selfhostable_open_alternatives_to_spotifys/
 
@@ -42,18 +45,15 @@ MP3 player with recommender system (MRS)
 [[Bilingual-Speech-Practice-Chatbot]]
 [[Transplantable-SNN]]
 
-Audio book app?
-Audiobook download and stream app
-- maybe just audio editor?
+Audio book scraping app?
 
 more imaging processing apps
 - background Pixelator
 - background remover
 - ai generator?
-From scratch NN with Go
+
+Go projects
 - CNN? 
-- Shallow NN? 
-- Visualizations?
 - ASCII Art? Somehow have a CNN quickly learn your favorite pixel to ascii/emoji mappings and apply it to picture->ascii translation?
 	- https://stackoverflow.com/questions/394882/how-do-ascii-art-image-conversion-algorithms-work
 	- https://nips2017creativity.github.io/doc/ASCII_Art_Synthesis.pdf
@@ -63,12 +63,16 @@ Fun Daily Game:
 	- give guesses a similarity score (vector) To each word
 2) Scrandle but guessing which comment is human written vs AI written
 
-SJC Airport effect? "Clockclock24"
+UI:
+- SJC Airport effect? "Clockclock24"
+- Wispy smoke, like steam coming off tea
 
 AI-Augmented Personal Text Editor
 - Minimalist, just centering on writing-drafting quick notes as you would in google docs, but with a few added features
 	- Hotkey-triggered LLM actions (grammar checks, tone feedback, passive voice, etc)
 	- Context aware chat interface for feedback, ideating
+- ooh, hotkeys for certain functions:
+	- Thesaurus, maybe even chat about "remember that word"
 - Is this just grammarly? 
 
 
@@ -76,3 +80,6 @@ AI-Augmented Personal Text Editor
 [[Blocks-World]]
 [[Notion-Blog]] - This one could be fun, but the time to benefit ratio is kind of awful. Notion exists lol. 
 [[Embedded-Project]]
+
+
+

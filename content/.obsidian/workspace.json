@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4b7ec5d156b49d3c",
+            "id": "a5870e8ec9e169fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Tab-Stack.md",
+                "file": "College/ECS122B-Lab4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tab-Stack"
+              "title": "ECS122B-Lab4"
             }
           },
           {
-            "id": "7f49184e3a2a8596",
+            "id": "ea558080268d5ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Piano-Tab-Stack.md",
+                "file": "Reading/Reading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Piano-Tab-Stack"
+              "title": "Reading"
             }
           },
           {
-            "id": "4d76cd2198ffa254",
+            "id": "831f2b967ac4b849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Projects.md",
+                "file": "Reading/Reading/_Research-Papers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "3e6b05f9bbf718e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/_Writing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Writing"
+              "title": "_Research-Papers"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ichigo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -185,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0605c2af982f9899",
@@ -201,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Winter-Quarter-2025.md",
+                "file": "College/ECS-150-Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Winter-Quarter-2025"
+              "title": "Backlinks for ECS-150-Main"
             }
           },
           {
@@ -1197,8 +1174,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b939abd0cfe13f0c",
@@ -1210,7 +1186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "College/Classes/NPB173-L16.md",
+                "file": "College/ECS-150-Main.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1233,12 +1209,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.283355509507917,
+                  "scale": 0.028505319197632755,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NPB173-L16"
+              "title": "Graph of ECS-150-Main"
             }
           }
         ]
@@ -1259,45 +1235,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e6b05f9bbf718e9",
+  "active": "831f2b967ac4b849",
   "lastOpenFiles": [
-    "index.md",
-    "Writing/_Writing.md",
+    "Reading/Reading.md",
+    "College/ECS122B-Lab4.md",
+    "College/Winter-Quarter-2026.md",
+    "College/NPB-136-Main.md",
+    "College/NPB136-HW1.md",
+    "Attachments/NPB136-XOR-Graph.png",
+    "Attachments/Pasted image 20260201181805.png",
+    "Attachments/NPB136-Perceptron-Classification.png",
+    "Attachments/NPB136-Activation-Function-Graph.png",
+    "Scratch/Configs.md",
+    "College/ECS-150-Main.md",
+    "College/ECS-122B-Main.md",
+    "College/Talks/Agentic-AI-With-MCP.md",
+    "College/Talks/College-Talks.md",
+    "College/ECS122B-Lab3.md",
+    "College/ECS150-L10.md",
+    "Attachments/Process-Lifecycle-State-Machine-Diagram.png",
+    "College/ECS-160-Main.md",
+    "College/ECS160-L11.md",
+    "College/ECS160-Quiz2-Prep.md",
+    "College/Classes/NPB173-MT3-Prep.md",
     "Scratch/_Scratch.md",
-    "Scratch/Untitled.md",
-    "Music/Violin.md",
-    "Writing",
-    "Coding/Projects.md",
-    "Coding/Jazz-Real-Finder.md",
-    "Music/Piano-Tab-Stack.md",
+    "College/ECS122B-HW2.md",
+    "College/Classes/PSC134-Lab2.md",
     "College/Clubs/Neurotech.md",
-    "College/ECS171-Project.md",
-    "Scratch/Tab-Stack.md",
-    "College/PSC-140Y-Main.md",
-    "College/PSC140Y-VL21.md",
-    "College/PSC140Y-VL19.md",
-    "College/PSC140Y-VL18.md",
-    "College/PSC140Y-CP3.md",
-    "Work/Plant-Science-Work.md",
-    "Work/PS-2025-Alfalfa-Congress.md",
-    "Reading/Reading/Churchland-Centrality-of-Factors.md",
-    "Music/Piano.md",
-    "College/PSC140Y-D8.md",
-    "College/ECS171-MT2-Prep.md",
-    "College/PSC140Y-L8.md",
-    "College/PSC140Y-VL17.md",
-    "Attachments/Child-Attachment-Style-Chart.png",
-    "Reading/Reading/_Research-Papers.md",
-    "College/ECS-171-Main.md",
-    "Attachments/Frequency-of-Mental-Functions-in-Brain-Networks.png",
-    "Attachments/Amnestic-Effects-of-Propofol.png",
-    "Attachments/Response-Latencies-Human-MTL.png",
-    "Attachments/Population-Stats-Remembered-Item-Location-Neurons.png",
-    "Attachments/Medial-Temporal-Lobe-Anatomy.png",
-    "Attachments/Motor-Milestones.png",
-    "Attachments/How-to-get-the-Visual-Experience-Dataset.png",
-    "Attachments/Face-sensitivity-follows-experience-location.png",
-    "Attachments/Visual-Diet-of-Object-Locations.png",
+    "College/Clubs/NT-Weimo.md",
+    "College/Clubs/NT-Project.md",
+    "Scratch/Charger-Speeds.md",
+    "Coding/_Coding.md",
+    "Coding/Dev-Ops.md",
+    "Coding/Package-Management.md",
+    "Attachments/Division-of-Memory-Heap-Stack.png",
+    "Attachments/OS_Layers_Overview.png",
+    "Attachments/CNN-Layer-1.png",
+    "Attachments/Word-Recognition-Task-Example.png",
+    "Attachments/Modern-software-design-non-monolithic.png",
+    "Writing",
     "ichigos.com/sheets",
     "ichigos.com",
     "Excalidraw/PDF-Annotation/DLN_final.pdf",
