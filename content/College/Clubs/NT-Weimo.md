@@ -58,6 +58,82 @@ Sources:
 - https://docs.python.org/3/library/multiprocessing.html
 - https://docs.python.org/3/library/multiprocessing.shared_memory.html
 
+
+#### Example code:
+
+##### Main.py
+
+```python
+# main.py
+
+import multiprocessing as mp
+from workers import input_worker, monitor_worker
+
+def main():
+    mp.set_start_method("spawn")  # Important for cross-platform safety
+
+    stop_event = mp.Event()
+
+    # Shared memory (string must be fixed length!)
+    shared_value = mp.Manager().Namespace()
+    shared_value.value = ""
+
+    p1 = mp.Process(target=input_worker, args=(shared_value, stop_event))
+    p2 = mp.Process(target=monitor_worker, args=(shared_value, stop_event))
+
+    p1.start()
+    p2.start()
+
+    p1.join()
+    p2.join()
+
+
+if __name__ == "__main__":
+    main()
+
+```
+##### Workers.py
+
+```python
+# workers.py
+
+import multiprocessing as mp
+import time
+
+def input_worker(shared_value, stop_event):
+    """
+    Waits for user CLI input and writes it to shared memory.
+    """
+    while not stop_event.is_set():
+        user_input = input("Type something (or 'quit'): ")
+
+        if user_input == "quit":
+            stop_event.set()
+            break
+
+        shared_value.value = user_input
+
+
+def monitor_worker(shared_value, stop_event):
+    """
+    Monitors shared memory for changes.
+    """
+    last_seen = ""
+
+    while not stop_event.is_set():
+        current = shared_value.value
+
+        if current != last_seen:
+            print(f"[Monitor] Detected change: {current}")
+            last_seen = current
+
+        time.sleep(0.1)
+
+```
+
+
+
+
 ### EEG Processing
 
 Resources:
