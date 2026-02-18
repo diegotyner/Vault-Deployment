@@ -28,6 +28,9 @@ tags:
 - [G drive](https://drive.google.com/drive/folders/0B1s4iEL26SobMFJvQ0lhNVh6UG8?resourcekey=0-tejf7gBZ_jWvn4KJ0A9S7w)
 - 
 
+##### Vocal real books
+- [archive.org](https://archive.org/details/fakebook_the-real-vocal-book)
+
 ### More Resources
 [Archive.org fakebooks](https://archive.org/details/fakebooks)
 [reddit thread on resources](https://www.reddit.com/r/Jazz/comments/2d1mk0/does_anyone_have_a_pdf_file_of_various_real_books/)

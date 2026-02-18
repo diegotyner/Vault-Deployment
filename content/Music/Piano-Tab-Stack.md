@@ -15,6 +15,8 @@ Actually learn:
 - 2 pg - ruby, my dear 
 - 1 pg - foggy day
 - 1 pg - i loves you porgy
+- 1pg - bewitched (bothered and bewildered)
+- 1 pg - a fine romance
 
 JRB2
 - 1 pg - but not for me

@@ -29,6 +29,9 @@ This course provides an introduction to the exciting frontier between biology an
 - Rishidev Chaudhuri - rchaudhuri@ucdavis.edu
 
 ## 📄 Class Material
+
+[[NPB136-Final-Project]]
+
 ### Week 1 - Course Intro
 ### Week 2 - Perceptrons, Learning
 ### Week 3 - Supervised Learning, Cerebellum
@@ -36,8 +39,11 @@ This course provides an introduction to the exciting frontier between biology an
 
 [[NPB136-HW1]]
 ### Week 5 - Visual System, Modeling Sensory Cortices
+
+[[NPB136-L13]] - Why hasn't AI came for radiologists?
 ### Week 6 - Recurrent Nets, Memory
 **Midterm**
+[[NPB136-Lab-6]]
 ### Week 7 - Research Project
 ### Week 8 - RL, Dopamine, Basal Ganglia
 ### Week 9 - Predictive Learning, Generative Modeling

@@ -14,13 +14,14 @@ list from [[]] and !outgoing([[]])
 Quartz
 Obsidian Plugin
 [[YT-Playlist]]
-[[ChatGPT-Summarizer]]
 [[Handwriting-Recognition]]
+[[Jazz-Real-Finder]]
+[[ChatGPT-Summarizer]]
+[[Libby-Downloader]]
 
 ### Ongoing
 [[Course-Content-Vectorizer]]
 - Continuation: [[Text-Extractor-Database]]
-[[Jazz-Real-Finder]]
 [[Piano-Index-Vault]]
 
 [[Portfolio]] - I don't like this one, very WIP

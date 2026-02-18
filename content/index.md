@@ -30,8 +30,6 @@ Most of this website is not a portfolio website, just my personal notes.
 ### **My Favorite Pages:** 
 - [[About-Me]] 
 - [[College-Talks#Talk Pages|College-Talks]]
-- [[Media-Reviews]]
-
 
 ### Studies
 [[_College|College]]

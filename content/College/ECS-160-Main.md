@@ -37,29 +37,29 @@ The course will focus on the following three modules:
 
 ### Week 1 - Course intro, OO, Design Patterns
 - [[ECS160-L1]] - Course overview and intro to OO
-- [[ECS160-L2]]
+- [[ECS160-L2]] - Java + OO Slides
 - [[ECS160-L3]] - Java Basic
-	- Design Patterns
-	- Finished on slide 71/123
 ### Week 2 - Design Patterns, JDK 
-- [[ECS160-L4]]
-- [[ECS160-L5]]
+- [[ECS160-L4]] - More design patterns, decorators thru state design
+- [[ECS160-L5]] - Template method deisng through visitor design
 	- [[ECS160-D2]] - Setting up Java Dev Env
-- [[ECS160-L6]] 
-	- Late, quiz today.
+- [[ECS160-L6]] - *Quiz* + Java Reflection, proxies, annotations
 ### Week 3 - Redis + Dynamic Proxies
 *MLK Day*
-- [[ECS160-L7]] 
-- [[ECS160-L8]] 
+- [[ECS160-L7]] - Reflection cont.
+*Class canceled, prof sick*
 ### Week 4 - Annotations, Microservices, Messaging
-- [[ECS160-L9]]
-- [[ECS160-L10]]
-- [[ECS160-L11]] 
+- [[ECS160-L9]] - Reflection cont.
+- [[ECS160-L10]] - Dynamic Proxies
+- [[ECS160-L11]] - Relational Databases and SQL + *Quiz*
 [[ECS160-Quiz2-Prep]]
 ### Week 5 - Kafka, Broker architecture, Fault Tolerance
-- [[ECS160-L12]]
-- [[ECS160-L13]]
-- [[ECS160-L14]] 
+- [[ECS160-L12]] - Modern Software Architectures
+- [[ECS160-L13]] - Modern Software Architectures
+*Class canceled, prof sick*
+
+[[ECS160-P3]]
+[[ECS160-MT1]]
 ### Week 6 - Metadata and Coordination
 **Midterm**
 - [[ECS160-L15]]
@@ -83,16 +83,13 @@ The course will focus on the following three modules:
 - [[ECS160-L28]] 
 
 ### Summary of Slides:
-##### L1: Course Intro (1d)
+##### L1: Course Intro (1d) - [[ECS160-LS1]]
 ##### D1: Java Basic
 ##### L2: Design Patterns (4d)
-OO + Creational design patterns	
-Structural design patterns	
-Java Basic	
-Behavioral design patterns	
-Design patterns contd.
-##### D2: JDK and Maven
+[[ECS160-LS2]]
+##### D2: JDK and Maven - [[ECS160-D2]]
 ##### L3: Java Annotations and Reflection (4d)
+[[ECS160-LS3]]
 Annotations and runtime reflection
 Java Dynamic proxies
 Java Annotation processor
@@ -100,5 +97,8 @@ Java Annotation processor
 1/21 - Case study: redis perssistence network
 ##### D3: Unit Test
 ##### L4: Microservices (2d)
+[[ECS160-LS4]]
 ##### D4: Reflection
+
+##### D5: SQL (1d) - [[ECS160-L11]]
 

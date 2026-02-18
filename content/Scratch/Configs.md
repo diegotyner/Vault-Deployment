@@ -51,17 +51,16 @@ Very straightforward
 `sudo apt install tmux` (is it already installed in wsl2?)
 `stow tmux`
 
-
-### Obsidian
+#### Obsidian
 Managed through dropbox mostly, super easy to install and set vault to that location
 
-### Vscode
+#### Vscode
 Managed through account sync through github acc
 If doing WSL, make sure so to install on windows, then install on linux afterwards by doing `code .` , which will link itself
 
-### Alacritty
+#### Alacritty
 https://github.com/alacritty/alacritty
-### Starship
+#### Starship
 `curl -sS https://starship.rs/install.sh | sh`
 
 ### Popos Changes
@@ -86,6 +85,24 @@ switch-to-workspace-4=['<Super>4']
 # turn off workspace switching settings
 gsettings set org.gnome.desktop.interface enable-animations false
 
+# stop default behavor of super
+gsettings set org.gnome.mutter overlay-key ''
+
 ```
 
-	
+### Windows Specific
+
+Install chocolatey (windows package manager, ala homebrew/apt install)
+```
+$ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
+
+#### alacritty
+On windows, we need to run it through windows first before going to wsl:
+- `choco install alacritty`
+- Inside `%APPDATA%\alacritty\alacritty.toml`
+```
+[terminal.shell]
+program = "C:\\Windows\\System32\\wsl.exe"
+```
+

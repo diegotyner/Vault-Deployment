@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ca067ac980e0fd76",
+        "id": "d10eb1f6d79454c7",
         "type": "tabs",
         "children": [
           {
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a5870e8ec9e169fc",
+            "id": "19e1855645814079",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/ECS122B-Lab4.md",
+                "file": "Coding/Libby-Downloader.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ECS122B-Lab4"
+              "title": "Libby-Downloader"
             }
           },
           {
-            "id": "ea558080268d5ad2",
+            "id": "f30fb9a6230c7e3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading.md",
+                "file": "College/Clubs/NT-Weimo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reading"
-            }
-          },
-          {
-            "id": "831f2b967ac4b849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/Reading/_Research-Papers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Research-Papers"
+              "title": "NT-Weimo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/ECS-150-Main.md",
+                "file": "College/Talks/Cognitive-Costs-Of-Everyday-Technology-Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ECS-150-Main"
+              "title": "Backlinks for Cognitive-Costs-Of-Everyday-Technology-Use"
             }
           },
           {
@@ -1186,7 +1162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "College/ECS-150-Main.md",
+                "file": "College/Talks/Cognitive-Costs-Of-Everyday-Technology-Use.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1214,7 +1190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ECS-150-Main"
+              "title": "Graph of Cognitive-Costs-Of-Everyday-Technology-Use"
             }
           }
         ]
@@ -1235,44 +1211,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "831f2b967ac4b849",
+  "active": "f30fb9a6230c7e3a",
   "lastOpenFiles": [
-    "Reading/Reading.md",
-    "College/ECS122B-Lab4.md",
-    "College/Winter-Quarter-2026.md",
-    "College/NPB-136-Main.md",
-    "College/NPB136-HW1.md",
-    "Attachments/NPB136-XOR-Graph.png",
-    "Attachments/Pasted image 20260201181805.png",
-    "Attachments/NPB136-Perceptron-Classification.png",
-    "Attachments/NPB136-Activation-Function-Graph.png",
-    "Scratch/Configs.md",
-    "College/ECS-150-Main.md",
-    "College/ECS-122B-Main.md",
-    "College/Talks/Agentic-AI-With-MCP.md",
-    "College/Talks/College-Talks.md",
-    "College/ECS122B-Lab3.md",
-    "College/ECS150-L10.md",
-    "Attachments/Process-Lifecycle-State-Machine-Diagram.png",
-    "College/ECS-160-Main.md",
-    "College/ECS160-L11.md",
-    "College/ECS160-Quiz2-Prep.md",
-    "College/Classes/NPB173-MT3-Prep.md",
-    "Scratch/_Scratch.md",
-    "College/ECS122B-HW2.md",
-    "College/Classes/PSC134-Lab2.md",
-    "College/Clubs/Neurotech.md",
+    "Coding/Libby-Downloader.md",
     "College/Clubs/NT-Weimo.md",
-    "College/Clubs/NT-Project.md",
-    "Scratch/Charger-Speeds.md",
+    "College/ECS-150-Main.md",
+    "Coding/Projects.md",
+    "Coding/Linux-CLI-Useful.md",
+    "College/ECS150-L16.md",
+    "Work/_Work.md",
+    "Work/Auction-Website.md",
+    "College/NPB-136-Main.md",
+    "College/NPB136-Lab-6.md",
+    "Coding/Self-Hosting.md",
+    "College/ECS150-MT2.md",
+    "Music/Piano.md",
+    "Music/Jazz-Real-Books.md",
+    "Scratch/_Scratch.md",
+    "index.md",
+    "Attachments/Thread-Models-Single-vs-Multi.png",
+    "Coding/Portfolio.md",
+    "College/ECS150-MT1.md",
+    "Attachments/Dual-Mode-5-Stage-Pipeline.png",
+    "College/Clubs/Neurotech.md",
+    "College/ECS150-L10.md",
+    "College/ECS150-L6.md",
+    "College/Winter-Quarter-2026.md",
+    "College/ECS-160-Main.md",
+    "College/ECS150-L13.md",
+    "College/ECS150-L14.md",
     "Coding/_Coding.md",
-    "Coding/Dev-Ops.md",
-    "Coding/Package-Management.md",
-    "Attachments/Division-of-Memory-Heap-Stack.png",
-    "Attachments/OS_Layers_Overview.png",
-    "Attachments/CNN-Layer-1.png",
-    "Attachments/Word-Recognition-Task-Example.png",
-    "Attachments/Modern-software-design-non-monolithic.png",
+    "Attachments/Implementation-of-Test-And-Set-Primitive.png",
+    "Attachments/Hardware-Support-For-Synchronization.png",
+    "Attachments/Java-Compilation-Toolchain.png",
+    "Attachments/Pasted image 20260208214645.png",
+    "Attachments/Visitor-Design-Pattern-Shapes.png",
+    "Attachments/Observer-Model-Graphical-Application-Data.png",
+    "Attachments/Decorator-Wrapping-Fraud-Detection-1.png",
+    "Attachments/Decorator-Wrapping-Fraud-Detection-2.png",
     "Writing",
     "ichigos.com/sheets",
     "ichigos.com",

@@ -52,6 +52,8 @@ Basic concepts of operating systems and system programming. Processes and interp
 - [[ECS150-L4]]
 - [[ECS150-L5]]
 - [[ECS150-L6]]
+	- Discussion: Project 1.2
+	- Lecture: OS Layers intro + Compilation and Linking 
 
 ### Week 3 - OS Structure + Kernel Abstraction
 *MLK day*
@@ -62,8 +64,21 @@ Basic concepts of operating systems and system programming. Processes and interp
 - [[ECS150-L8]]
 - [[ECS150-L9]]
 - [[ECS150-L10]]
+	- Discussion: Project intro, scheduler and context switching
+	- Lecture: Scheduling, process states and scheduling algos
 ### Week 5 - Concurrency and Threads + Synch
+- [[ECS150-L11]]
+- [[ECS150-L12]]
+- [[ECS150-L13]]
+	- Discussion: Makefiles
+	- Lecture: Synchronization, race conditions and intro to locks
 ### Week 6 - Synchronization + Deadlocks
+- [[ECS150-L14]] - Synchronization: Locks, spinlocks, and intro to semaphores
+	- *Some skeleton code for project in semaphore section slides*
+- [[ECS150-L15]] - Synchronization: Reader / writer problem
+**Midterm 2**
+- [[ECS150-L16]] - Intro to Deadlock
+[[ECS150-MT2]]
 ### Week 7 - Deadlocks + Storage
 ### Week 8 - Storage + Filesystem
 ### Week 9  - Filesystem implementation

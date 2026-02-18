@@ -82,6 +82,11 @@ https://search.brave.com/images?q=immunofluorescence%20neuron%20staining
 - [Quarts Docs](https://quartz.jzhao.xyz/), [Jacky (jzhao) Portfolio](https://jzhao.xyz/)
 	- Love the little connections in the corner, navigating like that could be fun!
 	- Also just very cozy, and the personality melts through. Would love to emulate.
+- https://www.framer.com/gallery/categories/portfolio
+	- TONS of inspo
+	- Im really liking the black/blue/green palette here: 
+		- https://www.framer.com/gallery/cliffordglassstudio
+		- https://www.cliffordglassstudio.co.uk/
 
 ### Possible Themes
 - Train a stable diffusion to create your background

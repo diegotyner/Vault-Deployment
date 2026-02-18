@@ -15,6 +15,8 @@ tags:
 - [ ] Fill out pages for [[Programming-Language-Guide]] template
 - [ ] Make a [[Regular-Expressions]] page
 
+[[Coding-Stack]]
+[[Linux-CLI-Useful]]
 ## Things to code
 [[Projects]]
 

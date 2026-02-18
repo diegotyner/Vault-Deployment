@@ -49,6 +49,7 @@ Claire de Lune -
 [from the start - Laufey](https://static1.squarespace.com/static/60300340d27ffb2c6946ccbe/t/64f0f2039939d26d77f73c74/1693512195944/10+From+the+Start+piano+and+vocal+v4.pdf)
 [Girl from Ipanema - Antonio Carlos Jobim](https://musescore.com/will_rowsell/the-girl-from-ipanema) 
 
+[Carole king](https://www.scribd.com/document/623593701/Carole-King-Classics)
 A wink and a Smile - Harry Connick Jr (Sleepless in Seattle)
 ##### Jazz
 [Misty - Eroll Garner](https://preterhuman.net/docs/Erroll_Garner_-_Misty_(sheet_music))

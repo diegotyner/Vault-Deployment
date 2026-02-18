@@ -59,7 +59,10 @@ ECS122B Q2 - [gform link](https://docs.google.com/forms/d/1IKQTflI7WP05BqtVkgpxF
 [[ECS122B-Lab4]]
 ### Week 5 - Suffix Trees
 - [[ECS122B-L9]]
+- [[ECS122B-D5]]
 - [[ECS122B-L10]]
+
+[[ECS122B-MT1]]
 ### Week 6 - Midterm + Ukonnens
 **Midterm** - No suffix trees
 - [[ECS122B-L11]]

@@ -14,13 +14,11 @@ tags:
 
 [[Class-Stack]]
 [[Tab-Stack]]
+[[Coding-Stack]]
 
 [[Configs]]
 
-[[Charger-Speeds]]
-
 ##### Old:
-[[CalFresh]]
 [[Groceries]]
 [[Get-From-Home]]
 [[Shopping]]
