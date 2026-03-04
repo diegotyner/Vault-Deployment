@@ -17,6 +17,7 @@ Quick storage of infrequent but super useful Linux commands:
 ##### Rename
 Mass renaming files, comes up a lot. Used with perl regex syntax:
 `rename -n 's/Lab(\d)_Solutions/L0$1_Sols/' Lab*_Solutions.pdf`
+- Note that regex isn't escaped like in nvim
 
 ##### Stow
 Creates symlinks. Super useful for keeping config files in one place, but spreading them around

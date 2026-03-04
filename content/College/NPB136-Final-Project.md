@@ -4,6 +4,22 @@ created:
 tags:
 ---
 
+### New idea brainstorming
+
+[[DINO-MetaAI]]
+#### Presentation
+- Decoding neural signals in research. Spike timing dependency
+- Effect of regularization (dropout/ridge etc) on learning and allegories to brain and pruning
+- alphafold?
+
+
+#### Final Project
+- Effect of regularization (dropout/ridge etc) on learning and allegories to brain and pruning
+
+
+
+
+---
 
 ### Idea:
 Predict dementia using uninvasive alternatives to traditional methods (PET)
@@ -39,6 +55,9 @@ Dataset:
 - https://www.nature.com/articles/s41597-024-03106-5
 > Here we describe a database that includes genetic data on apolipoprotein E (APOE) and phosphatidylinositol binding clathrin assembly protein (PICALM) genes, both of which are known to increase the risk of late-onset Alzheimer's disease
 
+
+Lit review of general 
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11293066/
 
 EEG bandpower and dementia:
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC4936613/

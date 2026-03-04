@@ -23,6 +23,12 @@ tags:
 ##### Other reading
 [Grokking Bloom Filters](https://maltsev.space/blog/008-bloom-filters-pt1)
 
+##### Coding Architecture
+[Bloom filters: the niche trick behind a 16× faster API](https://incident.io/blog/bloom-filters)
+- Read it, very dense but cool. Basically hashing JSONB data to make filtering at access time faster.
+- Their website is cool, I want to read more articles
+[Keeping it boring: the incident.io technology stack](https://incident.io/blog/keeping-it-boring-the-incidentio-technology-stack)
+
 ##### Resume
 [Handshake](https://ucdavis.joinhandshake.com/job-search/9816118?per_page=25&sort=relevance&page=1)
 [ML Res](https://docs.google.com/document/d/1Ml2zIkYN1oYxaxIxLIB88YjymgvaUf1pdMQMd96OebI/edit?tab=t.0)

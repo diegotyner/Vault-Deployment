@@ -62,25 +62,27 @@ The course will focus on the following three modules:
 [[ECS160-MT1]]
 ### Week 6 - Metadata and Coordination
 **Midterm**
-- [[ECS160-L15]]
-- [[ECS160-L16]] 
+- [[ECS160-L15]] - Modern Software Architectures
+	- [[ECS160-D6]] - MSA cont
+- [[ECS160-L16]]  - MSA 
 ### Week 7 - Kubernetes
 *Holiday*
-- [[ECS160-L17]]
-- [[ECS160-L18]]
-- [[ECS160-L19]] 
+- [[ECS160-L17]] - MSA cont: Communication styles
+	- [[ECS160-D7]] - Mock Testing
+- [[ECS160-L18]] - ? + *Quiz*
 ### Week 8 - Kubernetes + FaaS
+- [[ECS160-L19]]
 - [[ECS160-L20]]
-- [[ECS160-L21]]
-- [[ECS160-L22]] 
+- [[ECS160-L21]] 
 ### Week 9 - Software Testing
+- [[ECS160-L22]]
 - [[ECS160-L23]]
-- [[ECS160-L24]]
-- [[ECS160-L25]] 
+- [[ECS160-L24]] 
+[[ECS160-P6]]
 ### Week 10 - Symbolic execution, Abstract Interpretation
+- [[ECS160-L25]]
 - [[ECS160-L26]]
-- [[ECS160-L27]]
-- [[ECS160-L28]] 
+- [[ECS160-L27]] 
 
 ### Summary of Slides:
 ##### L1: Course Intro (1d) - [[ECS160-LS1]]
@@ -100,5 +102,10 @@ Java Annotation processor
 [[ECS160-LS4]]
 ##### D4: Reflection
 
-##### D5: SQL (1d) - [[ECS160-L11]]
+##### L5: SQL (1d) - [[ECS160-L11]]
+
+##### D5: SQL
+
+##### L6: Kakfa (?d)
+[[ECS160-LS6]]
 

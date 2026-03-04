@@ -46,6 +46,7 @@ This course provides an introduction to the exciting frontier between biology an
 [[NPB136-Lab-6]]
 ### Week 7 - Research Project
 ### Week 8 - RL, Dopamine, Basal Ganglia
+[[NPB136-L19]]
 ### Week 9 - Predictive Learning, Generative Modeling
 ### Week 10 - Final Project Presentations
 

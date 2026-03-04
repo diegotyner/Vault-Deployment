@@ -307,7 +307,7 @@ Combine them for a transformer
 ![[Pasted image 20250521154855.png]]
 - Not incredible, but show viability
 
-![[Pasted image 20250521155103.png]]
+![[White-Box-Transformers-Emergent-Segmentation.png]]
 - Normal VIT - A large amount of large magnitude outlier token, that make segmentation not accurate to the parts.
 	- Not doing a good job at this
 - Confirmed during ablation that is due to the MSSA layers

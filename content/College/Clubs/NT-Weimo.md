@@ -6,6 +6,10 @@ tags:
 
 [Github link](https://github.com/Neurotech-Davis/Weimo)
 
+### Wearable Sensing Tutorial
+
+https://support.wearablesensing.com/
+
 ### ToDo
 Test VLM with fake client
 
@@ -140,3 +144,30 @@ Resources:
 - https://www.nmr.mgh.harvard.edu/mne/0.14/tutorials.html
 - https://mne.tools/stable/auto_tutorials/intro/index.html
 
+---
+
+
+Right click internal
+- Disable
+- click no?
+	- need to restart 
+
+Wired drivers:
+- software -> tools -> cpu 10 windows
+	- extract, launch 64b installer
+- restart
+
+Once installed, EDUP 
+
+ports: silicon lab
+
+diagnostics -> impedance on
+
+0-1 : green
+1-3: hair out of way, usually just need to push
+
+
+recomend:
+- Pupil labs eye tracking glasses
+- meta quest 4 (3?) (eye tracking??)
+- 
