@@ -70,8 +70,11 @@ Fairly forgettable aside from Darren (punk Unix libertarian introduced late). Hi
 
 ### Personal Thoughts
 #### Enjoyment
+I really enjoyed this book. This might be the book that gets me back into reading, because it sure as hell isn't [[Agapē-Agape]]. I stayed up to finish the book, I got through it in around 5 days. It was a very nostalgic experience for me, I haven't done that since I was a boy. 
 #### View of themes
+I enjoyed this book as a spy thriller, and thought it was an interesting introduction to some common cybersecurity concepts, like network security, smaller nets (not the internet), being scrappy, and finally learned what rainbow tables and salt do (he doesn't explicitly explain them but he outlines the problem, and thats what made it click)! 
 
+The themes, I found a bit shallow but I don't think they were meant to be deep. Stoll set out to write a cybersecurity spy thriller, and he did it. I just wish he didn't act as grandious when he proved that hacking is bad, after setting up not one, but TWO STRAWMEN.
 
 ### Cybersecurity Techniques
 This one is a bit boring, but I wanted to make sure I absorbed a lot of the techniques mentioned in the book.

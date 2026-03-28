@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "66c21c17d8d60b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/The-Cuckoo's-Egg.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The-Cuckoo's-Egg"
-            }
-          },
-          {
             "id": "293e738827f043ac",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1260,13 +1236,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66c21c17d8d60b84",
+  "active": "ec01ae9f9b0fc0e8",
   "lastOpenFiles": [
     "Reading/Agapē-Agape.md",
-    "Scratch/_Scratch.md",
-    "Reading/The-Cuckoo's-Egg.md",
     "Templates/Media-Review.md",
     "Reading/Reading.md",
+    "Reading/The-Cuckoo's-Egg.md",
+    "Scratch/_Scratch.md",
     "Music/General-Relations.md",
     "Writing/_Writing.md",
     "College/Clubs/Aphantasia-Reading.md",
