@@ -86,4 +86,6 @@ ECS122B Q2 - [gform link](https://docs.google.com/forms/d/1IKQTflI7WP05BqtVkgpxF
 ### Week 10 - NP Complete
 - [[ECS122B-L18]]
 - [[ECS122B-L19]]
+[[ECS122B-HW5]]
 
+[[ECS122B-Final-Prep]]

@@ -22,10 +22,10 @@ Midterm focused on:
 also slightly on microservices
 
 Reviewing primarily in:
-1) [[ECS160-LS1]]
-2) [[ECS160-LS2]]
-3) [[ECS160-LS3]]
-4) [[ECS160-LS4]]
+1) [[ECS160-LS1]] (Course Intro)
+2) [[ECS160-LS2]] (Design Patterns)
+3) [[ECS160-LS3]] (Annotations and Reflections)
+4) [[ECS160-LS4]] (Microservices)
 	- By midterm, got to about slide 65
 
 [[ECS160-MT1-SQ]]

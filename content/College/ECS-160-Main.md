@@ -61,29 +61,35 @@ The course will focus on the following three modules:
 [[ECS160-P3]]
 [[ECS160-MT1]]
 ### Week 6 - Metadata and Coordination
-**Midterm**
+**Midterm** - 2/9
 - [[ECS160-L15]] - Modern Software Architectures
 	- [[ECS160-D6]] - MSA cont
-- [[ECS160-L16]]  - MSA 
+- [[ECS160-L16]]  - MSA cont: Communication styles
 ### Week 7 - Kubernetes
-*Holiday*
-- [[ECS160-L17]] - MSA cont: Communication styles
+*Holiday* - 2/16
+- [[ECS160-L17]] - Kafka: use case for high-throughput datasystems
 	- [[ECS160-D7]] - Mock Testing
-- [[ECS160-L18]] - ? + *Quiz*
+- [[ECS160-L18]] - Kafka: Architecture + *Quiz*
 ### Week 8 - Kubernetes + FaaS
-- [[ECS160-L19]]
-- [[ECS160-L20]]
-- [[ECS160-L21]] 
+2/23
+- [[ECS160-L19]] - Modern Application Deployment
+	- [[ECS160-D8]] - ???? Recording muted and no projector
+- [[ECS160-L20]] - Modern Application Deployment
 ### Week 9 - Software Testing
-- [[ECS160-L22]]
-- [[ECS160-L23]]
-- [[ECS160-L24]] 
+3/2
+- [[ECS160-L21]] - Software Testing 
+- [[ECS160-L22]] - Software Testing
+	- [[ECS160-D9]] - Software Testing (Coverage granularity spectrum) + Docker
+- [[ECS160-L23]] - Software Testing (coverage branching) + *Quiz*
 [[ECS160-P6]]
 ### Week 10 - Symbolic execution, Abstract Interpretation
-- [[ECS160-L25]]
-- [[ECS160-L26]]
-- [[ECS160-L27]] 
+3/9
+- [[ECS160-L24]] - Software Testing (Fuzz Testing - Sanitizers)
+- [[ECS160-L25]] - Software Testing (Symbolic Execution)
+	- [[ECS160-D10]] - Software Testing & Topics for Final Exam (cont. from lecture, talking about challenges in coverage branching)
+- [[ECS160-L26]] - Software Testing (Miscellaneous Testing Topics)
 
+[[ECS160-Final-Prep]]
 ### Summary of Slides:
 ##### L1: Course Intro (1d) - [[ECS160-LS1]]
 ##### D1: Java Basic
@@ -99,13 +105,19 @@ Java Annotation processor
 1/21 - Case study: redis perssistence network
 ##### D3: Unit Test
 ##### L4: Microservices (2d)
-[[ECS160-LS4]]
+[[ECS160-LS4]] <- Annotate 2nd half (LSM trees)
 ##### D4: Reflection
 
 ##### L5: SQL (1d) - [[ECS160-L11]]
 
 ##### D5: SQL
 
-##### L6: Kakfa (?d)
+##### L6: Kakfa (2d)
 [[ECS160-LS6]]
+##### L7: Kubernets (2d)
+[[ECS160-LS7]]
+##### L8: Software Testing
+[[ECS160-LS8]]
+
+
 

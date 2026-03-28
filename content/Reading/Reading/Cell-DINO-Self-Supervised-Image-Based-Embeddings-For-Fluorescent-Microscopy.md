@@ -31,10 +31,18 @@ Link to Source: [link](https://journals.plos.org/ploscompbiol/article?id=10.1371
 The authors aimed to quantify cellular morphology computationally. Many algorithms exist already, the authors introduce a retrained DINOv2 (Cell-DINO) as a champion.
 - Benefits especially apparent in "low annotation regimes"
 - Also has the benefit of supporting the study of unknown biological variation, making it useful for biological discovery
-- 
 
-
+Cell-DINO is an adapted DINOv2. Uses:
+- Human Protein Atlas (HPA) dataset
+- (they dont mension it here but also the Cell Painting Gallery? (CPG) )
+Better than other self-sup strategies like MAE and SimCLR
 #### Intro
+Uses of cellular phenotype microscopy (various):
+- Subcellular protein localization
+- Mitochondrial phenotypes
+- Cell cycle stages
+- Chemical and genetic perturbations
+
 
 #### Results
 
@@ -60,9 +68,34 @@ The authors aimed to quantify cellular morphology computationally. Many algorith
 #### Discussion
 
 #### Methods
-- datasets 
-- DINO algorithm
-- ViT
+##### datasets 
+
+##### Cell-DINO algorithm
+Centrally the same as DINOv2
+- Adapt it to work with:
+	- Different numbers of channels?
+	- Preprocess pixel data according to best practices
+
+DINOv2:
+- Teacher/Student w same arch
+1) Receive image and output a feature vector
+2) Passed to a projection network that classifies feature vectors to a logit vector of 65,536 values
+3) Student weights updated with cross entropy loss of output teacher
+4) Teacher updated with EMA of student network
+
+Adaptations for Cell-DINO:
+- Adaptations to channel number and image content?
+- Number of channels of the ViT networks adjusted independently for each dataset to 4 and 5 channels in the HPA and CPG respectively
+- Used cross-validation with a subset of 5000 FoV images from HPA to test different hyperparameters / augmentations
+- Linear classifier trained on resulting features
+
+Augmentations:
+- Not useful: blurring, solarization, greyscale
+- Useful: rescaling intensity of protein channel (HPA), dropping content of a random channel by zeroing out all pixels, replacing color jitter with random brightness and contrast changes to each channel
+	- Inspired by previously study
+
+
+##### ViT
 - Evaluation protocol
 - Computational resources
 

@@ -29,6 +29,10 @@ tags:
 - Their website is cool, I want to read more articles
 [Keeping it boring: the incident.io technology stack](https://incident.io/blog/keeping-it-boring-the-incidentio-technology-stack)
 
+##### Spiking Neural Networks (SNNs)
+https://pub.towardsai.net/the-complete-guide-to-spiking-neural-networks-d0a85fa6a64
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9313413/
+
 ##### Resume
 [Handshake](https://ucdavis.joinhandshake.com/job-search/9816118?per_page=25&sort=relevance&page=1)
 [ML Res](https://docs.google.com/document/d/1Ml2zIkYN1oYxaxIxLIB88YjymgvaUf1pdMQMd96OebI/edit?tab=t.0)

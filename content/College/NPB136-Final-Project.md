@@ -4,6 +4,8 @@ created:
 tags:
 ---
 
+
+
 ### New idea brainstorming
 
 [[DINO-MetaAI]]
@@ -16,6 +18,10 @@ tags:
 #### Final Project
 - Effect of regularization (dropout/ridge etc) on learning and allegories to brain and pruning
 
+[Docs - Project Stuff](https://docs.google.com/document/d/1ZqyNmWMubx1amCpmPfStBKb6yltUjR7ndSxaWijWujc/edit?tab=t.pot6gntxr427)
+[Docs - Data Structure](https://docs.google.com/document/d/1oqQPzRWuI5RyutNfvqjCJjFidIhFm7chSWlRXKYD8Qs/edit?tab=t.0)
+[Colab - Testing Alz](https://colab.research.google.com/drive/1nUanGUQzxGYb6swGDQmLBifVt-lVugMQ?usp=sharing#scrollTo=3H6VleZrH_RF)
+[Colab - StainDownloading](https://colab.research.google.com/drive/1mk0V0ikcbWfjIZ-3b_r8jjiLMPM3lGLp#scrollTo=KFn6twVgsU2H)
 
 
 

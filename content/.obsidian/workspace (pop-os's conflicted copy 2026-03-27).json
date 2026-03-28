@@ -32,7 +32,31 @@
             }
           },
           {
-            "id": "ec01ae9f9b0fc0e8",
+            "id": "da586b71360160a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/_Writing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Writing"
+            }
+          },
+          {
+            "id": "19d8b818e0132014",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,78 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Reading"
-            }
-          },
-          {
-            "id": "66c21c17d8d60b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/The-Cuckoo's-Egg.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The-Cuckoo's-Egg"
-            }
-          },
-          {
-            "id": "293e738827f043ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/Agapē-Agape.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Agapē-Agape"
-            }
-          },
-          {
-            "id": "bd604dd6344ff637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Media-Review.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Media-Review"
             }
           }
         ],
@@ -1260,18 +1212,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66c21c17d8d60b84",
+  "active": "19d8b818e0132014",
   "lastOpenFiles": [
-    "Reading/Agapē-Agape.md",
-    "Scratch/_Scratch.md",
-    "Reading/The-Cuckoo's-Egg.md",
-    "Templates/Media-Review.md",
-    "Reading/Reading.md",
-    "Music/General-Relations.md",
-    "Writing/_Writing.md",
-    "College/Clubs/Aphantasia-Reading.md",
-    "Reading/Reading/_Research-Papers.md",
     "Reading/Reading/Hierarchical-Bayesian-Cognitive-Modeling.md",
+    "Reading/Reading.md",
+    "Writing/_Writing.md",
     "College/Talks/White-Box-Transformers.md",
     "College/ECS-122B-Main.md",
     "College/ECS122B-Final-Prep.md",
@@ -1290,6 +1235,13 @@
     "College/ECS160-D2.md",
     "Attachments/DGF-Process-Distance-Table.png",
     "College/ECS160-LS7.md",
+    "College/ECS160-LS6.md",
+    "College/ECS160-LS1.md",
+    "Coding/_Coding.md",
+    "College/ECS122B-HW5.md",
+    "College/ECS160-P6.md",
+    "Scratch/Tab-Stack.md",
+    "Reading/Reading/_Research-Papers.md",
     "Attachments/Pasted image 20260311164130.png",
     "Attachments/Pasted image 20260311163854.png",
     "Attachments/Pasted image 20260311163840.png",

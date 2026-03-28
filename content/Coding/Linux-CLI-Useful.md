@@ -26,16 +26,23 @@ Creates symlinks. Super useful for keeping config files in one place, but spread
 - -t flag denotes target, and not just placing everything in root
 - Target is the existing nvim dir in config
 
-##### Pdftotext
-Can extract text from pdfs pretty quick. Rad!
-`pdftotext "$file" - | grep "pattern"`
-- - flag tells it to not create a file.txt output, and instead send to buffer
-`$ for file in *; do echo "\n *** $file ***\n"; pdftotext $file - | rg -i lock; done`
-
 ##### Clipboard
 Since we have xclip installed, we can use:
 - `alias xc="xclip -selection clipboard"` 
 So things like `ls | xc` work.
+
+#### PDF
+##### Pdftotext
+Can extract text from pdfs pretty quick. Rad!
+`pdftotext "$file" - | grep "pattern"`
+- - flag tells it to not create a file.txt output, and instead send to buffer
+`$ for file in *.pdf; do echo -e "\n *** $file ***\n"; pdftotext $file - | rg -i lock; done`
+
+##### pdfinfo
+Can be used to extract pdf metadata
+- Especially for seeing page numbers
+`pdfinfo "$file" | grep Pages`
+- Pulls out only the line that describes number of pages
 
 #### Quick text processing
 ##### Counting Lines: 

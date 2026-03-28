@@ -4,7 +4,7 @@ created:
 tags:
 ---
 
-# 📗 -> Agapē-Agape
+# 📗 -> Agapē-Agape - William Gaddis
 ---
 [Online PDF](https://drive.google.com/file/d/1jUo3udjjiyo_GfyFHT8-KeYkOv0zINGi/view?usp=sharing)
 - Actual book starts at page 22
@@ -15,6 +15,7 @@ Quality vs Quantity
 Death of art
 - Commercialization 
 - Reduction of ideas / Mass appeal
+
 Pandering to the massses
 - Participation medals, creating values
 

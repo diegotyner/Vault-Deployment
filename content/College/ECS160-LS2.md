@@ -14,6 +14,18 @@ Java Basic
 Behavioral design patterns	
 Design patterns contd.
 
+#### Summary:
+-  Design patterns abstract object instantiation, composition, and behavior 
+-  Three types – creational, structural, behavioral 
+-  Creational – deals with object creation 
+	-  Singleton, Factory/Abstract Factory 
+-  Structural – deals with how objects are composed 
+	-  Adapter, Proxy Decorator, Bridge, Facade 
+-  Behavioral – how objects distribute responsibilities 
+	-  Observer, state, template method, visitor 
+-  Design patterns can be combined to solve complex tasks
+
+
 ### OOP 
 Encapsulation
 Abstraction
@@ -258,17 +270,6 @@ What does it do?
 	- Dependency-injection design pattern
 - Reading
 	- Container design patterns
-
-#### Summary:
--  Design patterns abstract object instantiation, composition, and behavior 
--  Three types – creational, structural, behavioral 
--  Creational – deals with object creation 
-	-  Singleton, Factory/Abstract Factory 
--  Structural – deals with how objects are composed 
-	-  Adapter, Proxy Decorator, Bridge, Facade 
--  Behavioral – how objects distribute responsibilities 
-	-  Observer, state, template method, visitor 
--  Design patterns can be combined to solve complex tasks
 
 
 

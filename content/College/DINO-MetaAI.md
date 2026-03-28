@@ -84,3 +84,6 @@ DINO approach:
 [blog - DINOv2: Self-supervised Learning Model Explained](https://encord.com/blog/dinov2-self-supervised-learning-explained/)
 [blog - DINOv2: A Complete Guide to Self-Supervised Learning and Vision Transformers](https://medium.com/data-science-in-your-pocket/dinov2-a-complete-guide-to-self-supervised-learning-and-vision-transformers-d5c1fb75d93f)
 
+[yt/blog writeup - Mashaan blog: Inside the DINOv2 Architecture](https://mashaan14.github.io/YouTube-channel/self_supervised_learning/2025_05_12_DINOv2)
+
+

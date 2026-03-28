@@ -32,6 +32,7 @@ This course provides an introduction to the exciting frontier between biology an
 
 [[NPB136-Final-Project]]
 
+
 ### Week 1 - Course Intro
 ### Week 2 - Perceptrons, Learning
 ### Week 3 - Supervised Learning, Cerebellum
@@ -49,6 +50,7 @@ This course provides an introduction to the exciting frontier between biology an
 [[NPB136-L19]]
 ### Week 9 - Predictive Learning, Generative Modeling
 ### Week 10 - Final Project Presentations
+[[NPB136-HW2]]
 
 
 
