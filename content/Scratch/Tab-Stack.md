@@ -20,6 +20,8 @@ tags:
 
 [cosine similarity not a silver bullet - reddit](https://www.reddit.com/r/MachineLearning/comments/1i0hfsd/r_cosine_similarity_isnt_the_silver_bullet_we/)
 
+[code smells guide - reddit](https://www.reddit.com/r/learnprogramming/comments/x2ewxi/all_code_smells_oneliner_guide/)
+
 ##### Other reading
 [Grokking Bloom Filters](https://maltsev.space/blog/008-bloom-filters-pt1)
 

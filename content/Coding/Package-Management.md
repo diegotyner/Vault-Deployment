@@ -2,6 +2,9 @@
 created:
   - " 01-06-2026 20:44"
 tags:
+aliases:
+  - Dependencies
+  - Venv
 ---
 
 

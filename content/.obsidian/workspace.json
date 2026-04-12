@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "ec01ae9f9b0fc0e8",
+            "id": "0928ad4de19bf4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading.md",
+                "file": "College/Clubs/NT-Weimo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reading"
+              "title": "NT-Weimo"
             }
           },
           {
-            "id": "293e738827f043ac",
+            "id": "8850c0c754d8755f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Agapē-Agape.md",
+                "file": "College/Clubs/Weimo-DSI-Streamer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agapē-Agape"
-            }
-          },
-          {
-            "id": "bd604dd6344ff637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Media-Review.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Media-Review"
+              "title": "Weimo-DSI-Streamer"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1236,36 +1212,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec01ae9f9b0fc0e8",
+  "active": "8850c0c754d8755f",
   "lastOpenFiles": [
-    "Reading/Agapē-Agape.md",
-    "Templates/Media-Review.md",
-    "Reading/Reading.md",
-    "Reading/The-Cuckoo's-Egg.md",
+    "College/Clubs/Weimo-LIDAR.md",
     "Scratch/_Scratch.md",
+    "College/Clubs/Weimo-DSI-Streamer.md",
+    "College/Clubs/NT-Weimo.md",
+    "Scratch/File-Transfer-Logs.md",
+    "College/Talks/White-Box-Transformers.md",
+    "College/Talks/College-Talks.md",
+    "College/Talks/Cognitive-Costs-Of-Everyday-Technology-Use.md",
+    "College/Talks/Closed-Loop Brain-Computer-Interfaces-for-Drug-Resistant-Epilepsy.md",
+    "Reading/Reading.md",
+    "Coding/_Coding.md",
+    "Coding/Dev-Ops.md",
+    "Coding/Package-Management.md",
+    "Scratch/Tab-Stack.md",
+    "Coding/Production-Checklist.md",
+    "Scratch/Configs.md",
+    "Coding/Python-Packages.md",
+    "Coding/Linux-CLI-Useful.md",
+    "Templates/Media-Review.md",
+    "Reading/Agapē-Agape.md",
+    "Reading/The-Cuckoo's-Egg.md",
     "Music/General-Relations.md",
     "Writing/_Writing.md",
     "College/Clubs/Aphantasia-Reading.md",
     "Reading/Reading/_Research-Papers.md",
     "Reading/Reading/Hierarchical-Bayesian-Cognitive-Modeling.md",
-    "College/Talks/White-Box-Transformers.md",
-    "College/ECS-122B-Main.md",
-    "College/ECS122B-Final-Prep.md",
-    "Coding/Linux-CLI-Useful.md",
-    "College/ECS122B-Lab5.md",
-    "College/ECS-160-Main.md",
-    "College/ECS160-LS8.md",
-    "College/ECS160-MT1.md",
-    "College/ECS160-LS2.md",
-    "College/ECS160-LS4.md",
-    "College/ECS160-Final-Prep.md",
     "Attachments/B-Tree-Diagram.png",
-    "College/ECS160-L11.md",
-    "College/ECS160-MT1-SQ.md",
-    "College/ECS160-LS3.md",
-    "College/ECS160-D2.md",
     "Attachments/DGF-Process-Distance-Table.png",
-    "College/ECS160-LS7.md",
     "Attachments/Pasted image 20260311164130.png",
     "Attachments/Pasted image 20260311163854.png",
     "Attachments/Pasted image 20260311163840.png",

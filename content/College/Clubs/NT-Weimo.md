@@ -6,6 +6,9 @@ tags:
 
 [Github link](https://github.com/Neurotech-Davis/Weimo)
 
+[[Weimo-LIDAR]]
+[[Weimo-DSI-Streamer]]
+
 ### Wearable Sensing Tutorial
 
 https://support.wearablesensing.com/

@@ -89,4 +89,5 @@ Meta-level Research Approaches:
 - [[Single-Neuron-Recording-in-Humans]]
 - [[Agentic-AI-With-MCP]]
 - [[Cognitive-Costs-Of-Everyday-Technology-Use]]
+-  [[Closed-Loop Brain-Computer-Interfaces-for-Drug-Resistant-Epilepsy]]
 
