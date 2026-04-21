@@ -90,4 +90,5 @@ Meta-level Research Approaches:
 - [[Agentic-AI-With-MCP]]
 - [[Cognitive-Costs-Of-Everyday-Technology-Use]]
 -  [[Closed-Loop Brain-Computer-Interfaces-for-Drug-Resistant-Epilepsy]]
+- [[Artificial-General-Intelligence-and-the-Future-of-Physics]]
 

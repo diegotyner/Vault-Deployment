@@ -5,13 +5,10 @@ Media-Format:
 tags:
 ---
 
-# 📗 -> {{title}}
+# 📗 -> {{title}} - Author
 ---
+[Online PDF]
 
-### Personal Thoughts
-#### Enjoyment
-
-#### View of themes
 ### Themes
 #### Broad themes
 
@@ -20,3 +17,11 @@ tags:
 ### Motivations
 #### Work as a whole
 #### Characters
+
+### Personal Thoughts
+#### Enjoyment
+
+#### View of themes
+
+### Quotes
+

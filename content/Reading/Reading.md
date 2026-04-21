@@ -12,6 +12,7 @@ This main page is for my actual *reading* reading (literature/leasure), not my [
 The Deep Learning Revolution - Terrence Sejnowski
 [[Agapē-Agape]]
 [[The-Cuckoo's-Egg]]
+[[Just-Six-Numbers]]
 
 ## Future
 ### Books
