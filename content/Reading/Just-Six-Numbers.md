@@ -71,6 +71,11 @@ This might have been the coolest part for me:
 - Difficulty testing stuff: SUPER difficult to understand the physics pertaining to extremes: extreme gravity and extreme temperature. 
 	- Limited experiments, and difficult to produce on Earth, or even observe elsewhere. Supernovas are rare, and expensive to record.
 
+### Quotes
+
+> There are various ways of reacting to the apparent fine tuning of our six numbers. One hard-headed response is that we couldn't exist if these numbers weren't adjusted in the appropriate 'special' way: we manifestly are here, so there's nothing to be surprised about. Many scientists take this line, but it certainly leaves me unsatisfied. I'm impressed by a metaphor given by the Canadian philosopher John Leslie. Suppose you are facing a firing squad. Fifty marksmen take aim, but they all miss. If they hadn't all missed, you wouldn't have survived to ponder the matter. But you wouldn't just leave it at that- you'd still be baffled, and would seek some further reason for your good fortune. 
+> - Reese, p. 164
+
 ### Studying - Brief Chapter Reviews
 #### Chapter 1 - The cosmos and the microworld
 #### Chapter 2 - Our cosmic habitat 1: planets, stars, and life
@@ -84,7 +89,3 @@ This might have been the coolest part for me:
 #### Chapter 10 - Three dimensions (and more)
 #### Chapter 11 - Coincidence, providence - or multiverse?
 
-### Quotes
-
-> There are various ways of reacting to the apparent fine tuning of our six numbers. One hard-headed response is that we couldn't exist if these numbers weren't adjusted in the appropriate 'special' way: we manifestly are here, so there's nothing to be surprised about. Many scientists take this line, but it certainly leaves me unsatisfied. I'm impressed by a metaphor given by the Canadian philosopher John Leslie. Suppose you are facing a firing squad. Fifty marksmen take aim, but they all miss. If they hadn't all missed, you wouldn't have survived to ponder the matter. But you wouldn't just leave it at that- you'd still be baffled, and would seek some further reason for your good fortune. 
-> - Reese, p. 164

@@ -9,15 +9,17 @@ tags:
 This main page is for my actual *reading* reading (literature/leasure), not my [[_Research-Papers|Research Paper]] reviews.
 
 ## What I Have Read
+[Goodreads Account Link](https://goodreads.com/diegotyner)
 The Deep Learning Revolution - Terrence Sejnowski
 [[Agapē-Agape]]
 [[The-Cuckoo's-Egg]]
 [[Just-Six-Numbers]]
+[[Norwegian-Wood]]
+
 
 ## Future
 ### Books
 Leisure
-- The Cuckoos Egg
 - Caramelo
 - Meditations
 

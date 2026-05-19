@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "0928ad4de19bf4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Clubs/NT-Weimo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NT-Weimo"
-            }
-          },
-          {
             "id": "e8d93fb5e173560b",
             "type": "leaf",
             "state": {
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "12124d761fb64219",
+            "id": "be72c5dfb6e2d407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Just-Six-Numbers.md",
+                "file": "Coding/Project-Showcase.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Just-Six-Numbers"
+              "title": "Project-Showcase"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -1236,14 +1211,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "12124d761fb64219",
+  "active": "be72c5dfb6e2d407",
   "lastOpenFiles": [
+    "College/Talks/Artificial-General-Intelligence-and-the-Future-of-Physics.md",
+    "Reading/Norwegian-Wood.md",
+    "Writing/Post-Norwegian-Wood-Reflection.md",
+    "College/ECS-160-Main.md",
+    "College/ECS160-L3.md",
+    "Writing/_Writing.md",
+    "index.md",
     "Reading/Reading.md",
     "Reading/Just-Six-Numbers.md",
+    "goodreads.com/diegotyner.md",
+    "goodreads.com",
+    "College/Clubs/NT-Weimo.md",
+    "Reading/Agapē-Agape.md",
     "Reading/The-Cuckoo's-Egg.md",
     "Templates/Media-Review.md",
     "Templates/().md",
-    "College/Talks/Artificial-General-Intelligence-and-the-Future-of-Physics.md",
     "College/Clubs/Weimo-DSI-Streamer.md",
     "College/Talks/College-Talks.md",
     "Attachments/Math-Olympiad-LLM-Placement.png",
@@ -1253,7 +1238,6 @@
     "Attachments/Constraints-to-scaling-LLMs.png",
     "College/Clubs/Weimo-LIDAR.md",
     "Scratch/_Scratch.md",
-    "College/Clubs/NT-Weimo.md",
     "Scratch/File-Transfer-Logs.md",
     "College/Talks/White-Box-Transformers.md",
     "College/Talks/Cognitive-Costs-Of-Everyday-Technology-Use.md",
@@ -1261,14 +1245,6 @@
     "Coding/_Coding.md",
     "Coding/Dev-Ops.md",
     "Coding/Package-Management.md",
-    "Scratch/Tab-Stack.md",
-    "Coding/Production-Checklist.md",
-    "Scratch/Configs.md",
-    "Coding/Python-Packages.md",
-    "Coding/Linux-CLI-Useful.md",
-    "Reading/Agapē-Agape.md",
-    "Music/General-Relations.md",
-    "Writing/_Writing.md",
     "Attachments/B-Tree-Diagram.png",
     "Attachments/DGF-Process-Distance-Table.png",
     "Attachments/Pasted image 20260311164130.png",
@@ -1283,7 +1259,6 @@
     "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
     "Excalidraw/PDF-Annotation/BINF-Final-Prep",
-    "Excalidraw/PDF-Annotation/ECS 124 Final Prep.pdf",
     "Untitled.canvas"
   ]
 }

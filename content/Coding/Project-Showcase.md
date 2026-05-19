@@ -18,17 +18,15 @@ I mostly code things that are either personally useful to me (downloaders, scrap
 
 Not my most complex, but my favorite project: a website I built to rifle through songs in the Jazz Real Book and learn new tunes.  
 
-- Used OCR to scan song names and page numbers, then applied fuzzy matching for quick search.  
-- Runs fully in HTML/JS with zero build step — lightweight enough to run locally from files. 
-- [Demo](https://real-finder.vercel.app/) · [Code](https://github.com/diegotyner/Real-Finder)  
+- Uses OCR to scan song names and page numbers, then applied fuzzy matching for quick search.  
+- Uses Vite+Vue.js to display a front end for browsing, searching, and saving songs.
+- [Demo](https://sheets.tynerlab.com/) · [Code](https://github.com/diegotyner/Real-Finder)  
   - Future expansion planned with more features (and more tunes).  
 
-#### YT Playlist Website
+#### Weimo
 
-A clean, production-style project: a YouTube playlist manager built with Next.js and Supabase, designed to fix the limitations of YouTube’s native interface.  
-
-- [Demo](https://yt-playlist-website.vercel.app/) · [Code](https://github.com/diegotyner/YT-Playlist-Website)  
-  - Note: backend must be manually activated, so the demo may not always be live.  
+A multimodal BCI wheelchair prototype built with Neurotech@Davis. Fuses EEG motor imagery, LiDAR mapping, eye tracking, and motor actuation to enable hands-free navigation for users with neurodegenerative conditions.
+- [Poster](https://github.com/Neurotech-Davis/Weimo/blob/main/assets/Weimo_Poster.pdf) · [Code](https://github.com/Neurotech-Davis/Weimo)
 
 #### News Dashboard
 
@@ -37,6 +35,13 @@ A full-stack technical demo, leaning more on the backend AI side than the web fr
 - Features: news scraping and extraction, interactive dashboard, bias detection, snippet retrieval, RAG interaction, and NLP-based summarization.  
 - Group summer project.  
 - [Demo](https://www.youtube.com/watch?v=KnU6oNDmrB8) · [Code](https://github.com/Lingotech-Davis/NewsDashboard)  
+
+#### YT Playlist Website
+
+A clean, production-style project: a YouTube playlist manager built with Next.js and Supabase, designed to fix the limitations of YouTube’s native interface.  
+
+- [Demo](https://yt-playlist-website.vercel.app/) · [Code](https://github.com/diegotyner/YT-Playlist-Website)  
+  - Note: backend must be manually activated, so the demo may not always be live.  
 
 #### NeuroCrime Project
 
