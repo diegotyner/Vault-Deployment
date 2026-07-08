@@ -30,6 +30,8 @@ More rigorous:
 
 - Nonlinear Dynamics and Chaos: With Applications - Steven Strogatz
 
+Memoir:
+- Angela's ashes - frank mc court
 ### Philosophy Book Recs
 The myth of sissyphus
 Albert camus

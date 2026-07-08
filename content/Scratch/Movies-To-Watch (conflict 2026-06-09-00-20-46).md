@@ -1,0 +1,68 @@
+
+
+- Superbad
+- Zoolander
+- Christopher Nolan
+- Wes Anderson
+	- Isle of dogs
+- moneyball
+- fast n furious
+- blade
+- rocky
+- the big short
+- taxi driver
+- blade runner
+- arcane
+- dune
+- charlie brown
+- iron man
+- the wire
+- age of ultron
+- succession 
+- Donnie darko
+- rosemary baby
+- broke back mountain
+- planet of the apes
+- lord of the rings
+- james bond (casino royal)
+- green mile
+- green book
+- Mad max fury road
+- fight club
+- the pianist
+- ex machina
+- apocalypse now
+- district 9
+- John wck
+- Indiana jones 
+- old westerns?
+- game of thrones 
+- saving private ryan
+- casanova
+- Schindlers list
+- napoleon dynamite
+- Decision to leave
+- I Think You Should Leave with Tim Robinson ?
+- Love is blind mexico
+- lost in startlight
+- past lives
+- citizen kane
+
+- i saw the TV glow
+- they shoot horses don't they 
+- Hamnet
+- crazy rich asians
+- bridge to terebethia
+- Blair witch project
+
+Watched:
+- Gaslight 1944
+- manchester house
+- the good the bad the ugly
+- tenet
+- good will hunting
+- pirates of Caribbean 
+- parasite
+- princess mononoke
+- the notebook
+- sixth sense

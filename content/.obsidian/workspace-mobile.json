@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/PSC-140Y-Main.md",
+                "file": "Scratch/Movies-To-Watch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PSC-140Y-Main"
-            }
-          },
-          {
-            "id": "ff6157de92de8222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Classes/ECS132-L15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ECS132-L15"
+              "title": "Movies-To-Watch"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "College/Classes/ECS132-L15.md",
+            "file": "Writing/_Writing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,53 +175,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ff6157de92de8222",
+  "active": "d2eed86b5a9b9ac5",
   "lastOpenFiles": [
-    "College/Classes/ECS-132-Main.md",
-    "Music/Jazz-Real-Books.md",
-    "Music/Piano-Tab-Stack.md",
     "Writing/_Writing.md",
-    "Coding/Projects.md",
-    "Coding/Embedded-Project.md",
+    "Writing/_Writing (conflict 2026-06-09-00-20-47).md",
+    "Reading/Reading.md",
     "College/PSC-140Y-Main.md",
-    "College/PSC140Y-VL8.md",
-    "College/PSC140Y-VE3.md",
-    "College/PSC140Y-VL7.md",
-    "College/PSC140Y-CP3.md",
-    "College/PSC140Y-P3.md",
-    "College/PSC140Y-D3.md",
-    "College/PSC140Y-L2.md",
-    "College/PSC140Y-VL6.md",
-    "Work/Plant-Science-Work.md",
-    "Music/Piano.md",
+    "Writing/Post-Norwegian-Wood-Reflection.md",
+    "Work/Auction-Website.md",
     "Scratch/Movies-To-Watch.md",
-    "Scratch/Groceries.md",
-    "College/Talks/Neurotech-Promoting-Recovery-Post-Injury.md",
-    "Scratch/Media-Reviews.md",
-    "Templates/Media-Review.md",
-    "Scratch/Cinema-Watched.md",
-    "Reading/Agapē-Agape.md",
-    "Work/Forage-Sampling.md",
-    "College/Fall-Quarter-2024.md",
-    "Attachments/Polynomial-Degree-Generalizability-ML.png",
-    "Attachments/Parameters-Degree-9-Polynomial-Training-Set-Size.png",
-    "Attachments/Model-Complexity-and-Bias-Variance.png",
-    "Attachments/Minimax-Alpha-Beta-Pruning.png",
-    "Attachments/Learned-Parameters-Polynomial-Estimators.png",
-    "Attachments/Error-Vs-Training-Set-Size-Polynomial-Estimator.png",
-    "Attachments/Cortical-Association-Areas.png",
-    "Attachments/Bias-Variance-Tradeoff.png",
-    "Untitled",
-    "Attachments/20250426_161726.jpg",
-    "Attachments/20250426_161718.jpg"
+    "Reading/The-Cuckoo's-Egg.md",
+    "Reading/Reading/Cell-DINO-Self-Supervised-Image-Based-Embeddings-For-Fluorescent-Microscopy.md",
+    "Reading/Norwegian-Wood.md",
+    "Reading/Just-Six-Numbers.md",
+    "Music/Piano-Tab-Stack.md",
+    "Music/Its-So-Easy.md",
+    "College/Talks/Cognitive-Costs-Of-Everyday-Technology-Use.md",
+    "College/Talks/Closed-Loop Brain-Computer-Interfaces-for-Drug-Resistant-Epilepsy.md",
+    "College/Talks/Artificial-General-Intelligence-and-the-Future-of-Physics.md",
+    "College/Talks/Agentic-AI-With-MCP.md",
+    "College/String-Matching.md",
+    "College/PSC135-L3.md",
+    "College/NPB136-Lab-6.md",
+    "College/NPB136-L19.md",
+    "College/NPB136-L13.md",
+    "College/NPB136-HW2.md",
+    "College/NPB136-HW1.md",
+    "College/NPB136-Final-Project.md",
+    "College/NPB-136-Main.md",
+    "Attachments/White-Box-Transformers-Emergent-Segmentation.png",
+    "Attachments/Visitor-Design-Pattern-Shapes.png",
+    "Attachments/Thread-Models-Single-vs-Multi.png",
+    "Attachments/Technology-Mental-Effort-Chart.png",
+    "Attachments/QPQA-Diamond-Description.png",
+    "Attachments/Proxy-Object-Wrapping-Target.png",
+    "Attachments/Process-Lifecycle-State-Machine-Diagram.png",
+    "Attachments/Percent-of-Day-in-Sedentary-Behavior.png",
+    "Attachments/Payment-Interface-Adapter.png",
+    "Attachments/Pasted image 20260311164130.png",
+    "Untitled"
   ]
 }

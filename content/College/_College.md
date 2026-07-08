@@ -12,6 +12,10 @@ aliases:
 
 # 📗 -> College courses
 ---
+
+Final Extraction:
+- [[Final-Extraction]]
+
 ## ❗ ->  Important
 ### Classes
 - [[Fall-Quarter-2024]]

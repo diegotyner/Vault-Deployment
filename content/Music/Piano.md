@@ -211,6 +211,7 @@ Cassiopea Music
 inperplex piano
 Beginning of alone again - greg mayo
 
+[[Its-So-Easy]]
 ##### Piano Groove
 [[Pure-Imagination-Transcript]] - willy wonka :  Leslie Bricusse and Anthony Newley
 [nearness of you](https://www.youtube.com/watch?v=HiXBTy9NFrY) - frank sinatra

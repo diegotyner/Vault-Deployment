@@ -3,9 +3,6 @@ created:
   - " 11-09-2025 22:54"
 tags:
 ---
-Desvelado - [scribd link](https://www.scribd.com/document/462677731/DESVELADO-Klasse)
-
-
 
 Actually learn:
 - claire de lune
@@ -18,14 +15,13 @@ Actually learn:
 - 2 pg - ruby, my dear 
 - 1 pg - foggy day
 - 1 pg - i loves you porgy
-- 1pg - bewitched (bothered and bewildered)
-- 1 pg - a fine romance
 
 JRB2
 - 1 pg - but not for me
 - 2 pg - just the way you are
 
 'Tis autumn
+Nearness of you
 
 ---
 
@@ -46,8 +42,4 @@ Artists To Figure Out:
 	- [Hey Jude](https://pianote.s3.us-east-1.amazonaws.com/blog/Hey-Jude-Lead-Sheet.pdf)
 	- https://web.media.mit.edu/~lieber/Misc/Music-Night/New%20Caz%20Music/Beatles%20A-F.pdf
 
-Coco - remember me
 
-toy story:
-- youve got a friend in me [link](https://musescore.com/user/498481/scores/6859027)
-- when she loved me [link](https://musescore.com/user/498481/scores/32381528)
