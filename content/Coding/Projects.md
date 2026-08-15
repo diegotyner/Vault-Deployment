@@ -20,6 +20,8 @@ Obsidian Plugin
 [[Libby-Downloader]]
 
 ### Ongoing
+[[Score4]]
+[[Openpage]]
 [[Course-Content-Vectorizer]]
 - Continuation: [[Text-Extractor-Database]]
 [[Piano-Index-Vault]]
@@ -30,6 +32,12 @@ Obsidian Plugin
 [[Self-Hosting]]
 
 ### Future
+Automatic claude compactor -> new chat tool. 
+- group sessions somehow ? see which sessions are from the same compact workflow
+	- lets you see which tasks are biggest (score4 with 50 vs forefront prep with 2)
+	- tag progressions along chat sessions
+- Copy context from all past conversations
+[[Bluetooth-Multimedia-Controller]] - ESP32 hardware project, want to get fancy with PCB and 3d printing
 [[Offline-Music-App]]
 MP3 player with recommender system (MRS)
 - https://www.reddit.com/r/selfhosted/comments/ywzawa/selfhostable_open_alternatives_to_spotifys/

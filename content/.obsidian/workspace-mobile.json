@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch/Movies-To-Watch.md",
+                "file": "Coding/Sys-Design/_Sys-Design-Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movies-To-Watch"
+              "title": "_Sys-Design-Library"
             }
           }
         ],
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/_Writing.md",
+            "file": "Coding/Sys-Design/_Sys-Design-Library.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Enlaces entrantes"
         }
       },
       {
@@ -175,43 +175,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "d2eed86b5a9b9ac5",
   "lastOpenFiles": [
+    "College/Classes/ECS-122A-Main.md",
+    "College/Classes/ECS122A-L5.md",
+    "College/Classes/ECS122A-L9.md",
+    "College/Classes/ECS-124-Main.md",
+    "College/Classes/ECS124-Final-Prep.md",
+    "College/Classes/ECS124-L7.md",
+    "College/Classes/ECS124-D4.md",
+    "Excalidraw/ECS124-L14 2025-03-04 18.33.05.excalidraw.md",
+    "Scratch/Groceries.md",
+    "College/Classes/ECS124-Prep2.md",
+    "College/Classes/ECS124-Prep1.md",
+    "Reading/Norwegian-Wood.md",
+    "Coding/Portfolio.md",
+    "Scratch/Movies-To-Watch.md",
     "Writing/_Writing.md",
     "Writing/_Writing (conflict 2026-06-09-00-20-47).md",
     "Reading/Reading.md",
     "College/PSC-140Y-Main.md",
     "Writing/Post-Norwegian-Wood-Reflection.md",
     "Work/Auction-Website.md",
-    "Scratch/Movies-To-Watch.md",
     "Reading/The-Cuckoo's-Egg.md",
     "Reading/Reading/Cell-DINO-Self-Supervised-Image-Based-Embeddings-For-Fluorescent-Microscopy.md",
-    "Reading/Norwegian-Wood.md",
     "Reading/Just-Six-Numbers.md",
     "Music/Piano-Tab-Stack.md",
     "Music/Its-So-Easy.md",
     "College/Talks/Cognitive-Costs-Of-Everyday-Technology-Use.md",
-    "College/Talks/Closed-Loop Brain-Computer-Interfaces-for-Drug-Resistant-Epilepsy.md",
-    "College/Talks/Artificial-General-Intelligence-and-the-Future-of-Physics.md",
-    "College/Talks/Agentic-AI-With-MCP.md",
-    "College/String-Matching.md",
-    "College/PSC135-L3.md",
-    "College/NPB136-Lab-6.md",
-    "College/NPB136-L19.md",
-    "College/NPB136-L13.md",
-    "College/NPB136-HW2.md",
-    "College/NPB136-HW1.md",
-    "College/NPB136-Final-Project.md",
-    "College/NPB-136-Main.md",
     "Attachments/White-Box-Transformers-Emergent-Segmentation.png",
     "Attachments/Visitor-Design-Pattern-Shapes.png",
     "Attachments/Thread-Models-Single-vs-Multi.png",

@@ -5,7 +5,7 @@
 [awk vs cat/grep vid](https://www.youtube.com/watch?v=8q8DHmA9puw)
 
 ### Description
-mawk  is an interpreter for the AWK Programming Language.  The AWK language is
+awk  is an interpreter for the AWK Programming Language.  The AWK language is
 useful for manipulation of data files, text retrieval and processing, and  for
 prototyping  and  experimenting with algorithms.  mawk is a new awk meaning it
 implements the AWK language as defined in Aho, Kernighan and  Weinberger,  The

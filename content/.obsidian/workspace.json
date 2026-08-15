@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "be72c5dfb6e2d407",
+            "id": "412416cca08b6a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Project-Showcase.md",
+                "file": "Coding/SQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project-Showcase"
+              "title": "SQL"
             }
           },
           {
-            "id": "0cee98f4b40484ae",
+            "id": "9f3c2753dbbfa964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Its-So-Easy.md",
+                "file": "Coding/Leetcode/_DSA-Pattern-Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Its-So-Easy"
+              "title": "_DSA-Pattern-Library"
             }
           },
           {
-            "id": "68332dc540e956aa",
+            "id": "5c3c7e887bc96394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/_Writing.md",
+                "file": "Coding/Leetcode/Cpp-Quick-Ref.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Writing"
+              "title": "Cpp-Quick-Ref"
             }
           },
           {
-            "id": "d7854e40d0336f3e",
+            "id": "c2c1a11e2ceb3f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Piano-Tab-Stack.md",
+                "file": "Coding/Cpp-Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Piano-Tab-Stack"
+              "title": "Cpp-Cheatsheet"
             }
           },
           {
-            "id": "e92738e8e744bcec",
+            "id": "52e075212ba9656d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Project-Showcase.md",
+                "file": "Coding/Leetcode/_DSA-Pattern-Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project-Showcase"
+              "title": "_DSA-Pattern-Library"
             }
           }
         ],
@@ -196,7 +196,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -208,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Traefik",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -1307,34 +1309,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e92738e8e744bcec",
+  "active": "52e075212ba9656d",
   "lastOpenFiles": [
-    "Music/Piano-Tab-Stack.md",
-    "College/Talks/College-Talks.md",
-    "College/Talks/NeuroFest-10th-Anniversary.md",
-    "Coding/Project-Showcase.md",
-    "College/_College.md",
-    "College/Final-Extraction.md",
-    "College/Email-Cleaning.md",
-    "College/HIS-017A-Syllabus.md",
-    "College/ENL-003-Syllabus.md",
-    "College/Classes/LIN-175-Main.md",
-    "College/ECS-171-Main.md",
-    "College/ECS171-L4.md",
-    "College/Classes/ECS-154A-Main.md",
-    "Music/Piano.md",
-    "Writing/_Writing.md",
-    "Music/Its-So-Easy.md",
-    "College/Talks/Artificial-General-Intelligence-and-the-Future-of-Physics.md",
-    "Writing/_Writing (conflict 2026-06-09-00-20-47).md",
-    "Scratch/Movies-To-Watch (conflict 2026-06-09-00-20-46).md",
-    "Music/Piano-Tab-Stack (conflict 2026-06-09-00-20-46).md",
-    "Coding/Portfolio (conflict 2026-06-09-00-20-40).md",
-    "Writing/Post-Norwegian-Wood-Reflection.md",
-    "Music/Music.md",
-    "Reading/Norwegian-Wood.md",
-    "College/ECS-160-Main.md",
-    "College/ECS160-L3.md",
+    "Coding/Leetcode/Cpp-Quick-Ref.md",
+    "Coding/Cpp-Cheatsheet.md",
+    "Coding/Leetcode/_DSA-Pattern-Library.md",
+    "Coding/Bash-Cheatsheet.md",
+    "Coding/SQL.md",
+    "Coding/Projects.md",
+    "Coding/Openpage-Overview.md",
+    "Coding/Score4.md",
+    "Coding/Score4-Overview.md",
+    "Coding/Openpage.md",
+    "Bash-Cheatsheet.pdf",
+    "Coding/sed-Cheatsheet.md",
+    "Coding/Linux-CLI-Useful.md",
+    "Coding/awk-Cheatsheet.md",
+    "Coding/Sys-Design/_Sys-Design-Library.md",
+    "Coding/Sys-Design/Reverse-Proxy.md",
+    "Coding/Sys-Design/Static-Hosting.md",
+    "Coding/Sys-Design/CDN.md",
+    "Templates/Sys-Template.md",
+    "Coding/Sys-Design/Nginx.md",
+    "Coding/Sys-Design/Web-Frontend.md",
+    "Coding/Sys-Design/AWS-Cloud.md",
+    "Coding/Leetcode/DP-Intro.md",
+    "Coding/_Coding.md",
+    "Scratch/Groceries.md",
+    "Coding/Leetcode/Graph-Traversal-Topological-Sort.md",
+    "Math/X-Transpose-Times-X.md",
+    "Coding/Sys-Design",
+    "Coding/Leetcode",
     "goodreads.com",
     "Attachments/Math-Olympiad-LLM-Placement.png",
     "Attachments/Modern-LLM-Improvements.png",
@@ -1352,9 +1357,6 @@
     "Excalidraw/PDF-Annotation/DLN_final.pdf",
     "Music",
     "4913",
-    "Excalidraw/PDF-Annotation/final.w24.txt.pdf",
-    "Excalidraw/PDF-Annotation/BINF-Final-Prep.pdf",
-    "Excalidraw/PDF-Annotation/BINF-Final-Prep",
     "Untitled.canvas"
   ]
 }

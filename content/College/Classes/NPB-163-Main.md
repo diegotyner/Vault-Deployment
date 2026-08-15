@@ -4,7 +4,6 @@ created:
 tags:
   - Classes/Organizer
 aliases:
-  - SYS
   - Systems Neuroscience
 ---
 

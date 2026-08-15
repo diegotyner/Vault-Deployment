@@ -69,7 +69,7 @@ These two inputs raise from two distinct connectivity components.
 $J_{fac}$ = component of connectivity necessary for generation of factors.
 $J_{fac}s(t) = uy(t)$ - recurrent input each neuron receives via this connectivity component
 u is an NxP matrix, specifying how N neurons are impacted by P factors. Entries of U selected randomly, each neuron reflects random combinations of factors.
-![Factor Visualization](https://img.notionusercontent.com/s3/prod-files-secure%2Fde0c54ac-7eae-4be4-9d27-2893cec9f8fe%2F50a7cca3-05e4-433f-adc8-60d8ee7335e0%2FUntitled.png/size/w=380?exp=1726030083&sig=50ap85y7712OKfukoqGL8kgB9oz1xzHe9hjbEOK2Xk0)
+![Factor Visualization|152](https://img.notionusercontent.com/s3/prod-files-secure%2Fde0c54ac-7eae-4be4-9d27-2893cec9f8fe%2F50a7cca3-05e4-433f-adc8-60d8ee7335e0%2FUntitled.png/size/w=380?exp=1726030083&sig=50ap85y7712OKfukoqGL8kgB9oz1xzHe9hjbEOK2Xk0)
 
 $J = J_{fac} + J_0.$ $J_0$ is connections between neurons, irrelevant to factors but supports performance (or learning) of other computations. Pictured in black.
 $J_{fac}s(t) = uy(t) = uws(t)$ , implying that $J_{fac}$ is low rank, rank = # factors. Adding $J_0$ means J is full rank, while containing a []()learned low-rank component.

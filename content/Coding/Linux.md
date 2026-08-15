@@ -28,3 +28,5 @@ I also would want to experiment with EndeavorOS, but not having a stable release
 ### Pages
 ---
 [[Window-Management]]
+[[Linux-CLI-Useful]]
+[[Bash-Cheatsheet]]

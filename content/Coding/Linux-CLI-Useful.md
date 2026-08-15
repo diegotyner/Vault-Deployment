@@ -2,6 +2,9 @@
 created:
   - " 02-12-2026 17:16"
 tags:
+  - Entry
+Entry-For: Linux
+topic: Useful CLI commands/workflows
 ---
 
 
@@ -30,6 +33,17 @@ Creates symlinks. Super useful for keeping config files in one place, but spread
 Since we have xclip installed, we can use:
 - `alias xc="xclip -selection clipboard"` 
 So things like `ls | xc` work.
+
+#### Remote SSH
+
+##### SSH
+ssh: `ssh -i ~/.ssh/<key-name>.pem ubuntu@<new-public-ip>`
+
+##### Resources
+GUI Task Manager: `htop`
+RAM Usage: `free -h`
+System Memory: `df -h`
+Uptime: `df -h`
 
 #### PDF
 ##### Pdftotext

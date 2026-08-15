@@ -23,6 +23,40 @@ GitHub
 
 
 
+## v2
+
+### Details Views:
+- Home Page
+- About me +
+- Skills
+- Projects:
+	- Weimo
+	- Real finder
+	- Neurocrime
+	- news dash
+	- vault
+	- libby dl
+
+### Home Page
+#### Top 5
+- **Hero cell:** "Diego Tyner — CS + Cognitive Science grad building ML systems, BCI interfaces, and full-stack tools."
+- **Weimo:** "Weimo — a multimodal BCI wheelchair. EEG + LiDAR + eye tracking for hands-free navigation. 1st place, UC Davis Neurotech."
+- **Real Finder:** "Real Finder — search, browse, and build setlists across 1,948 jazz standards. My favorite build, not my most complex."
+- **News Dashboard:** "RAG News Dashboard — full-stack news platform with bias detection, semantic retrieval, and hallucination-reduced LLM answers."
+- **Vault:** "A living Obsidian vault of CS, neuro, and ML notes — deployed publicly via Quartz."
+- **Libby (flex 6th):** "A Chrome extension for capturing and downloading Libby audiobook streams."
+
+
+
+
+
+
+
+
+----
+
+
+## Archived
 ### Blurt
 I don't want that much out of it to be honest, I just want to be able to hand people a link to it and have them see my projects so we can chat. Maybe its more for personal fulfillment in that sense, nobodies really going to want to see that.  Either way, having a central hub of things that I'm willing to display is cool to me (and it can't be GitHub that's too intense).
 
@@ -87,6 +121,7 @@ https://search.brave.com/images?q=immunofluorescence%20neuron%20staining
 	- Im really liking the black/blue/green palette here: 
 		- https://www.framer.com/gallery/cliffordglassstudio
 		- https://www.cliffordglassstudio.co.uk/
+- Love the notebook theming : https://windbornesystems.com/
 
 ### Possible Themes
 - Train a stable diffusion to create your background

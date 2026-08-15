@@ -45,6 +45,13 @@ I want to list down things that are necessary/good practice for prod software. E
 	- Posthog
 	- Datadog
 	- Google Analytics
+	- Umami
+- Logging
+	- Sentry - error management
+- Defense - Rate Limiting/DDOS protection/IP banning/geolocking
+	- Upstash
+	- Cloudfront
+	- AWS API Gateway
 
 ## ✒️ -> Usage
 - How and where is it used

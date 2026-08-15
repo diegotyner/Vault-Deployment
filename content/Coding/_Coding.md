@@ -20,6 +20,12 @@ tags:
 
 [[Coding-Stack]]
 [[Linux-CLI-Useful]]
+[[AI-Coding-Tools]]
+
+## Urgent Job Prep
+[[_DSA-Pattern-Library]]
+[[Cloud]]
+
 ## Things to code
 [[Projects]]
 
@@ -32,6 +38,7 @@ tags:
 [[Networks]]
 [[Vim-Cheatsheet]]
 [[Docker]]
+[[SQL]]
 
 ## Continued Reading
 #### Web Dev

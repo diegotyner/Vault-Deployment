@@ -13,7 +13,7 @@ topic: "\rDissociable oscillatory theta signatures of memory formation in the de
 > Companion article to this talk: [[College/Talks/Dissociable-oscillatory-theta-signatures-of-memory-formation-in-the-developing-brain|Dissociable-oscillatory-theta-signatures-of-memory-formation-in-the-developing-brain]]
 # Dissociable-oscillatory-theta-signatures-of-memory-formation-in-the-developing-brain
 
-Link to Source: [link]()
+Link to Source: [link](https://www.sciencedirect.com/science/article/pii/S0960982222001154?via%3Dihub)
 - February 15
 ---
 

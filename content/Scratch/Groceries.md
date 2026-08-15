@@ -19,7 +19,7 @@
 - beets
 - mushroom
 - zucchini 
-- cabbage or sauerkrau? (Good for gut?)
+- cabbage or sauerkraut? (Good for gut?)
 ##### Carb
 - rice (jasmine / basmati / brown)
 - oats
